@@ -18,6 +18,7 @@ Android
 |Mindorks - Medium|[Link](https://medium.com/feed/mindorks)|
 |Reddit Android|[Link](https://www.reddit.com/r/android/top.rss?t=week&limit=5)|
 |Android &amp; Tech - Medium|[Link](https://android.jlelse.eu/feed)|
+|Android Weekly Archive Feed|[Link](http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
 |Android@Microsoft - Medium|[Link](https://medium.com/feed/android-microsoft)|
 |Android Studio Release Updates|[Link](https://androidstudio.googleblog.com/feeds/posts/default)|
 |Styling Android|[Link](https://blog.stylingandroid.com/feed/)|
@@ -32,6 +33,7 @@ Kotlin
 |--|--|
 |Kotlin Academy - Medium|[Link](https://blog.kotlin-academy.com/feed)|
 |Reddit Kotlin|[Link](https://www.reddit.com/r/kotlin/top.rss?t=week&limit=5)|
+|Kotlin Weekly Archive Feed|[Link](https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)|
 |Kotlin Development|[Link](https://www.kotlindevelopment.com/rss/)|
 |Kotlin Blog|[Link](https://blog.jetbrains.com/kotlin/feed/)|
 

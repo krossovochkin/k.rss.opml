@@ -12,6 +12,7 @@
       <outline text="Mindorks - Medium" title="Mindorks - Medium" type="rss" xmlUrl="https://medium.com/feed/mindorks" htmlUrl="https://medium.com/mindorks?source=rss----f1a763fc7443---4"/>
       <outline text="Reddit Android" title="Reddit Android" type="rss" xmlUrl="https://www.reddit.com/r/android/top.rss?t=week&amp;limit=5" htmlUrl="https://www.reddit.com/r/android/top?t=week&amp;limit=5"/>
       <outline text="Android &amp;amp; Tech - Medium" title="Android &amp;amp; Tech - Medium" type="rss" xmlUrl="https://android.jlelse.eu/feed" htmlUrl="https://android.jlelse.eu/?source=rss----8fca399d4de---4"/>
+      <outline text="Android Weekly Archive Feed" title="Android Weekly Archive Feed" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
       <outline text="Android@Microsoft - Medium" title="Android@Microsoft - Medium" type="rss" xmlUrl="https://medium.com/feed/android-microsoft" htmlUrl="https://medium.com/android-microsoft?source=rss----87f10537e947---4"/>
       <outline text="Android Studio Release Updates" title="Android Studio Release Updates" type="rss" xmlUrl="https://androidstudio.googleblog.com/feeds/posts/default" htmlUrl="http://androidstudio.googleblog.com/"/>
       <outline text="Styling Android" title="Styling Android" type="rss" xmlUrl="https://blog.stylingandroid.com/feed/" htmlUrl="http://blog.stylingandroid.com/"/>
@@ -22,6 +23,7 @@
     <outline text="Kotlin" title="Kotlin">
       <outline text="Kotlin Academy - Medium" title="Kotlin Academy - Medium" type="rss" xmlUrl="https://blog.kotlin-academy.com/feed" htmlUrl="https://blog.kotlin-academy.com/?source=rss----e57b304801ef---4"/>
       <outline text="Reddit Kotlin" title="Reddit Kotlin" type="rss" xmlUrl="https://www.reddit.com/r/kotlin/top.rss?t=week&amp;limit=5" htmlUrl="https://www.reddit.com/r/kotlin/top?t=week&amp;limit=5"/>
+      <outline text="Kotlin Weekly Archive Feed" title="Kotlin Weekly Archive Feed" type="rss" xmlUrl="https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6" htmlUrl="https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6"/>
       <outline text="Kotlin Development" title="Kotlin Development" type="rss" xmlUrl="https://www.kotlindevelopment.com/rss/" htmlUrl="https://www.kotlindevelopment.com/"/>
       <outline text="Kotlin Blog" title="Kotlin Blog" type="rss" xmlUrl="https://blog.jetbrains.com/kotlin/feed/" htmlUrl="http://blog.jetbrains.com/kotlin"/>
     </outline>
