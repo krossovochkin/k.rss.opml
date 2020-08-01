@@ -100,6 +100,7 @@ Personal Blogs
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/feed/@appmattus)|
 |Antonio Leiva|[Link](https://antonioleiva.com/feed/)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/feed/@woitaschek)|
+|Krossovochkin|[Link](https://krossovochkin.github.io/index.xml)|
 |Martin Fowler|[Link](https://martinfowler.com/feed.atom)|
 |Artur Dryomov|[Link](https://arturdryomov.dev/index.xml)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/index.xml)|

@@ -74,6 +74,7 @@
       <outline text="Stories by Matthew Dolan on Medium" title="Stories by Matthew Dolan on Medium" type="rss" xmlUrl="https://medium.com/feed/@appmattus" htmlUrl="https://medium.com/@appmattus?source=rss-be40b368c57e------2"/>
       <outline text="Antonio Leiva" title="Antonio Leiva" type="rss" xmlUrl="https://antonioleiva.com/feed/" htmlUrl="https://antonioleiva.com/"/>
       <outline text="Stories by Paul Woitaschek on Medium" title="Stories by Paul Woitaschek on Medium" type="rss" xmlUrl="https://medium.com/feed/@woitaschek" htmlUrl="https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2"/>
+      <outline text="Krossovochkin" title="Krossovochkin" type="rss" xmlUrl="https://krossovochkin.github.io/index.xml" htmlUrl="https://krossovochkin.github.io/"/>
       <outline text="Martin Fowler" title="Martin Fowler" type="rss" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="http://martinfowler.com/"/>
       <outline text="Artur Dryomov" title="Artur Dryomov" type="rss" xmlUrl="https://arturdryomov.dev/index.xml" htmlUrl="https://arturdryomov.dev/"/>
       <outline text="Posts on Adam Bennett" title="Posts on Adam Bennett" type="rss" xmlUrl="https://adambennett.dev/posts/index.xml" htmlUrl="https://adambennett.dev/posts/"/>
