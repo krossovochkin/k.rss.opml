@@ -95,7 +95,7 @@ Personal Blogs
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |Zac Sweers|[Link](https://www.zacsweers.dev/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
-|Damian Mee | Blog | Portfolio | About|[Link](https://meedamian.com/)|
+|Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Joe Birch|[Link](https://joebirch.co/)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
 |Antonio Leiva|[Link](https://antonioleiva.com/)|

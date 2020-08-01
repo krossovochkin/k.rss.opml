@@ -54,7 +54,7 @@ def printSection(caption, items, output):
 	print("\n", file = output)
 	
 def printCaption(caption, output):
-	print(caption, file = output)
+	print(caption.replace("|", "\|"), file = output)
 	print("---", file = output)
 		
 def printTable(rss_items, output):
@@ -62,7 +62,8 @@ def printTable(rss_items, output):
 	print("|--|--|", file = output)
 			
 	for item in rss_items:
-		print(f"|{item.title}|[Link]({item.url})|", file = output)
+		title = item.title.replace("|", "\|")
+		print(f"|{title}|[Link]({item.url})|", file = output)
 	
 class RssItem:
 	def __init__(self, folder, title, url):
