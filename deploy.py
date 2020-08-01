@@ -30,7 +30,7 @@ def parseRssItems(input):
 				RssItem(
 					folder.attrib["title"],
 					sub.attrib["title"],
-					sub.attrib["xmlUrl"]
+					sub.attrib["htmlUrl"]
 				)
 			)
 			
