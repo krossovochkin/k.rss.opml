@@ -2,7 +2,7 @@
 
 This repository contains OPML file with subscriptions list of blogs in various areas (Android, Kotlin etc.) which I use to be up-to-date.  
 RSS is still the best way to get new content as soon as possible.  
-To use RSS and this list one should download [OPML file](https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/Inoreader%20Subscriptions%2020200801.xml) and import with with [Inoreader](https://www.inoreader.com/blog/2014/04/opml-import-additions.html) or [Feedly](https://blog.feedly.com/opml/)
+To use RSS and this list one should download [OPML file](https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/Inoreader%20Subscriptions%2020200901.xml) and import with with [Inoreader](https://www.inoreader.com/blog/2014/04/opml-import-additions.html) or [Feedly](https://blog.feedly.com/opml/)
 
 Optionally, one can take a look at the list of resources below.  
 They are grouped by topic. Additionally at the bottom there are resources hosted on Medium.com and on Reddit.com.
@@ -11,6 +11,7 @@ Android
 ---
 |Title|URL|
 |--|--|
+|Grokking Android|[Link](https://www.grokkingandroid.com/)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
 |Ray WenderlichRay Wenderlich|[Link](https://www.raywenderlich.com/)|
 |ProAndroidDev - Medium|[Link](https://proandroiddev.com/?source=rss----c72404660798---4)|
@@ -20,10 +21,13 @@ Android
 |Android &amp; Tech - Medium|[Link](https://android.jlelse.eu/?source=rss----8fca399d4de---4)|
 |Android Weekly Archive Feed|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
+|Android|[Link](https://blog.google/products/android/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
+|Google Developer Experts — Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
-|Grokking Android|[Link](https://www.grokkingandroid.com/)|
+|AndroidX - Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |TechYourChance|[Link](https://www.techyourchance.com/)|
+|Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
 |Android UI Patterns - Medium|[Link](https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4)|
 
 
@@ -62,18 +66,18 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Redmadrobot - №1 в разработке мобильных решений для бизнеса / Статьи|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
+|Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |Google Developers Blog|[Link](http://developers.googleblog.com/)|
 |The Firebase Blog|[Link](http://firebase.googleblog.com/)|
 |The Gradle Blog|[Link](https://blog.gradle.org/)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
 |Cash App Code Blog|[Link](https://cashapp.github.io/)|
+|Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
-|Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
 
 
 Personal Blogs
@@ -105,15 +109,18 @@ Personal Blogs
 |Artur Dryomov|[Link](https://arturdryomov.dev/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Crazy Legend|[Link](https://www.crazylegend.dev/)|
+|Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Coding|[Link](https://blog.brakmic.com/)|
 |Marco.org|[Link](https://marco.org/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Handstand Sam|[Link](https://handstandsam.com/)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
+|Magda Miu|[Link](https://magdamiu.com/)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |Public Object|[Link](https://publicobject.com/)|
@@ -148,6 +155,7 @@ Medium
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
+|Google Developer Experts — Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Android UI Patterns - Medium|[Link](https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4)|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |Flutter Community - Medium|[Link](https://medium.com/flutter-community?source=rss----86fb29d7cc6a---4)|
@@ -158,6 +166,7 @@ Medium
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Stories by Chet Haase on Medium|[Link](https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2)|
