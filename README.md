@@ -2,7 +2,7 @@
 
 This repository contains OPML file with subscriptions list of blogs in various areas (Android, Kotlin etc.) which I use to be up-to-date.  
 RSS is still the best way to get new content as soon as possible.  
-To use RSS and this list one should download [OPML file](https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/Inoreader%20Subscriptions%2020200901.xml) and import with with [Inoreader](https://www.inoreader.com/blog/2014/04/opml-import-additions.html) or [Feedly](https://blog.feedly.com/opml/)
+To use RSS and this list one should download [OPML file](https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/Inoreader%20Subscriptions%2020201007.xml) and import with with [Inoreader](https://www.inoreader.com/blog/2014/04/opml-import-additions.html) or [Feedly](https://blog.feedly.com/opml/)
 
 Optionally, one can take a look at the list of resources below.  
 They are grouped by topic. Additionally at the bottom there are resources hosted on Medium.com and on Reddit.com.
@@ -60,6 +60,13 @@ Flutter
 |Reddit FlutterDev|[Link](https://www.reddit.com/r/flutterdev/top?t=week&limit=5)|
 |Flutter Community - Medium|[Link](https://medium.com/flutter-community?source=rss----86fb29d7cc6a---4)|
 |Flutter - Medium|[Link](https://medium.com/flutter-io?source=rss----4da7dfd21a33---4)|
+
+
+Design
+---
+|Title|URL|
+|--|--|
+|Material.io - Material Design|[Link](https://material.io/)|
 
 
 Company Blogs
