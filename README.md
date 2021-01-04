@@ -2,7 +2,7 @@
 
 This repository contains OPML file with subscriptions list of blogs in various areas (Android, Kotlin etc.) which I use to be up-to-date.  
 RSS is still the best way to get new content as soon as possible.  
-To use RSS and this list one should download [OPML file](https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/Inoreader%20Subscriptions%2020201123.xml) and import with with [Inoreader](https://www.inoreader.com/blog/2014/04/opml-import-additions.html) or [Feedly](https://blog.feedly.com/opml/)
+To use RSS and this list one should download [OPML file](https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/Inoreader%20Subscriptions.xml) and import with with [Inoreader](https://www.inoreader.com/blog/2014/04/opml-import-additions.html) or [Feedly](https://blog.feedly.com/opml/)
 
 Optionally, one can take a look at the list of resources below.  
 They are grouped by topic. Additionally at the bottom there are resources hosted on Medium.com and on Reddit.com.
@@ -84,6 +84,10 @@ Company Blogs
 |Cash App Code Blog|[Link](https://cashapp.github.io/)|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
+|Redmadrobot - №1 в разработке цифровых решений для бизнеса / Articles|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|HeadHunter - HR Digital / Статьи|[Link](https://habr.com/ru/company/hh/blog/)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
@@ -91,11 +95,8 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
-|zsmb.co|[Link](https://zsmb.co/)|
-|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
-|Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
@@ -103,38 +104,44 @@ Personal Blogs
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
 |Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
 |Zac Sweers|[Link](https://www.zacsweers.dev/)|
-|Public Object|[Link](https://publicobject.com/)|
+|Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Handstand Sam|[Link](https://handstandsam.com/)|
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
-|Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
-|Krossovochkin|[Link](https://krossovochkin.github.io/)|
+|Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Magda Miu|[Link](https://magdamiu.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
-|Joe Birch|[Link](https://joebirch.co/)|
-|Jeroen Mols|[Link](https://jeroenmols.com/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
-|Android development and testing|[Link](https://alexzh.com/)|
-|Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
-|John O'Reilly|[Link](https://johnoreilly.dev/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
+|John O'Reilly|[Link](https://johnoreilly.dev/)|
+|Android development and testing|[Link](https://alexzh.com/)|
+|Jeroen Mols|[Link](https://jeroenmols.com/)|
+|Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
+|Chris Banes|[Link](https://chris.banes.dev/)|
+|Posts on Vasya Drobushkov|[Link](https://krossovochkin.com/posts/)|
+|Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
+|The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
+|Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Android Hipster|[Link](http://artemzin.com/blog/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
+|Joe Birch|[Link](https://joebirch.co/)|
 |Martin Fowler|[Link](http://martinfowler.com/)|
 |Coding|[Link](https://blog.brakmic.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
-|The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
 |Artur Dryomov|[Link](https://arturdryomov.dev/)|
 |Marco.org|[Link](https://marco.org/)|
+|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Public Object|[Link](https://publicobject.com/)|
+|zsmb.co|[Link](https://zsmb.co/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Jake Wharton Blog|[Link](http://jakewharton.com/)|
@@ -172,9 +179,12 @@ Medium
 |Flutter Community - Medium|[Link](https://medium.com/flutter-community?source=rss----86fb29d7cc6a---4)|
 |Flutter - Medium|[Link](https://medium.com/flutter-io?source=rss----4da7dfd21a33---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
+|Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
