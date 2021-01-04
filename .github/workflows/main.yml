@@ -23,4 +23,4 @@ jobs:
       - name: Generate README
         run: python deploy.py
       - name: Test
-        run: cat README
+        run: cat README.md
