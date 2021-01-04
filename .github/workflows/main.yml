@@ -8,11 +8,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Run a multi-line script
-        run: |
+      - name: Clean old OPML
+        run: rm *.xml
+      - name: Download new OPML
+        run: |          
           curl -s \
           -H "Cookie: ssid=${{secrets.SSID}}" \
           https://www.inoreader.com/reader/subscriptions/export?download=1 \
           -o "Inoreader Subscriptions.xml"
-           
-          cat "Inoreader Subscriptions.xml"
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Generate README
+        run: python deploy.py
+      - name: Test
+        run: cat README
