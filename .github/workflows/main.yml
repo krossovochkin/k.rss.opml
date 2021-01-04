@@ -11,7 +11,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           curl -s \
-          -H "ssid=${{secrets.SSID}}"
+          -H "ssid=${{secrets.SSID}}" \
           https://www.inoreader.com/reader/subscriptions/export?download=1 \
           -o "Inoreader Subscriptions.xml"
            
