@@ -15,4 +15,4 @@ jobs:
           https://www.inoreader.com/reader/subscriptions/export?download=1 \
           -o "Inoreader Subscriptions.xml"
            
-          ls
+          cat "Inoreader Subscriptions.xml"
