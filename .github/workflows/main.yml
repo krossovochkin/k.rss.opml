@@ -1,0 +1,18 @@
+name: CI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run a multi-line script
+        run: |
+          curl -s \
+          -H "ssid=${{secrets.SSID}}"
+          https://www.inoreader.com/reader/subscriptions/export?download=1 \
+          -o "Inoreader Subscriptions.xml"
+           
+          ls
