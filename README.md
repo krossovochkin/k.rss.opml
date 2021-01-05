@@ -73,21 +73,22 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Square Corner Blog|[Link](https://developer.squareup.com/blog)|
-|Redmadrobot - №1 в разработке мобильных решений для бизнеса / Статьи|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
-|Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
-|Google Developers Blog|[Link](http://developers.googleblog.com/)|
-|The Firebase Blog|[Link](http://firebase.googleblog.com/)|
-|The Gradle Blog|[Link](https://blog.gradle.org/)|
-|QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
 |Cash App Code Blog|[Link](https://cashapp.github.io/)|
-|Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
-|Google Testing Blog|[Link](http://testing.googleblog.com/)|
-|Redmadrobot - №1 в разработке цифровых решений для бизнеса / Articles|[Link](https://habr.com/en/company/redmadrobot/blog/)|
-|HeadHunter - HR Digital / Статьи|[Link](https://habr.com/ru/company/hh/blog/)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Company Blog|[Link](https://blog.jetbrains.com/)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|HeadHunter - HR Digital / Статьи|[Link](https://habr.com/ru/company/hh/blog/)|
+|Redmadrobot - №1 в разработке цифровых решений для бизнеса / Articles|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|Google Testing Blog|[Link](http://testing.googleblog.com/)|
+|Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
+|The Gradle Blog|[Link](https://blog.gradle.org/)|
+|The Firebase Blog|[Link](http://firebase.googleblog.com/)|
+|Google Developers Blog|[Link](http://developers.googleblog.com/)|
+|Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
+|Redmadrobot - №1 в разработке мобильных решений для бизнеса / Статьи|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
+|Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
@@ -95,8 +96,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
-|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
+|Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
@@ -109,8 +109,8 @@ Personal Blogs
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
+|Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Antonio Leiva|[Link](https://antonioleiva.com/)|
-|Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Magda Miu|[Link](https://magdamiu.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
@@ -122,6 +122,7 @@ Personal Blogs
 |Chris Banes|[Link](https://chris.banes.dev/)|
 |Posts on Vasya Drobushkov|[Link](https://krossovochkin.com/posts/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
+|Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
@@ -143,6 +144,7 @@ Personal Blogs
 |Public Object|[Link](https://publicobject.com/)|
 |zsmb.co|[Link](https://zsmb.co/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Jake Wharton Blog|[Link](http://jakewharton.com/)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
@@ -178,9 +180,9 @@ Medium
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |Flutter Community - Medium|[Link](https://medium.com/flutter-community?source=rss----86fb29d7cc6a---4)|
 |Flutter - Medium|[Link](https://medium.com/flutter-io?source=rss----4da7dfd21a33---4)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
