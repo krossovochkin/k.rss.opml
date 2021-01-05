@@ -13,9 +13,9 @@ jobs:
       - name: Download new OPML
         run: |          
           curl -s \
-          -H "Cookie: ssid=${{secrets.SSID}}" \
+          -H "Cookie: ssid=${{ secrets.SSID }}" \
           https://www.inoreader.com/reader/subscriptions/export?download=1 \
-          -o "Inoreader Subscriptions.xml"
+          -o "subscriptions.xml"
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
