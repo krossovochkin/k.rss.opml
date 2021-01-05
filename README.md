@@ -12,16 +12,16 @@ Android
 |Title|URL|
 |--|--|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
-|AndroidX - Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
-|Google Developer Experts — Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
-|Android|[Link](https://blog.google/products/android/)|
-|Android Weekly Archive Feed|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
+|AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
+|Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
+|Google Android Blog|[Link](https://blog.google/products/android/)|
+|Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
 |Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
 |Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
-|Ray WenderlichRay Wenderlich|[Link](https://www.raywenderlich.com/)|
+|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
-|Android &amp; Tech - Medium|[Link](https://android.jlelse.eu/?source=rss----8fca399d4de---4)|
+|Android & Tech|[Link](https://android.jlelse.eu/?source=rss----8fca399d4de---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
 |ProAndroidDev - Medium|[Link](https://proandroiddev.com/?source=rss----c72404660798---4)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
@@ -38,15 +38,15 @@ Kotlin
 |Kotlin Development|[Link](https://www.kotlindevelopment.com/)|
 |Kotlin Academy - Medium|[Link](https://blog.kotlin-academy.com/?source=rss----e57b304801ef---4)|
 |Reddit Kotlin|[Link](https://www.reddit.com/r/kotlin/top?t=week&limit=5)|
-|Kotlin Weekly Archive Feed|[Link](https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)|
-|Kotlin Blog|[Link](http://blog.jetbrains.com/kotlin)|
+|Kotlin Weekly|[Link](https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)|
+|JetBrains Kotlin Blog|[Link](http://blog.jetbrains.com/kotlin)|
 
 
 Java
 ---
 |Title|URL|
 |--|--|
-|Advanced RxJava|[Link](http://akarnokd.blogspot.com/)|
+|Akarnokd - Advanced RxJava|[Link](http://akarnokd.blogspot.com/)|
 |JavaWorld|[Link](http://www.javaworld.com/)|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |Reddit Java|[Link](https://www.reddit.com/r/java/top?t=week&limit=5)|
@@ -74,11 +74,11 @@ Company Blogs
 |Title|URL|
 |--|--|
 |Cash App Code Blog|[Link](https://cashapp.github.io/)|
-|Company Blog|[Link](https://blog.jetbrains.com/)|
+|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|HeadHunter - HR Digital / Статьи|[Link](https://habr.com/ru/company/hh/blog/)|
-|Redmadrobot - №1 в разработке цифровых решений для бизнеса / Articles|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
+|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
@@ -87,7 +87,7 @@ Company Blogs
 |The Firebase Blog|[Link](http://firebase.googleblog.com/)|
 |Google Developers Blog|[Link](http://developers.googleblog.com/)|
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
-|Redmadrobot - №1 в разработке мобильных решений для бизнеса / Статьи|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
+|Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
@@ -116,23 +116,24 @@ Personal Blogs
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
-|Android development and testing|[Link](https://alexzh.com/)|
+|Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
 |Chris Banes|[Link](https://chris.banes.dev/)|
-|Posts on Vasya Drobushkov|[Link](https://krossovochkin.com/posts/)|
+|Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
-|Computing Thoughts|[Link](https://www.bruceeckel.com/)|
+|Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
-|Android Hipster|[Link](http://artemzin.com/blog/)|
+|Artem Zinnatullin
+- Android Hipster|[Link](http://artemzin.com/blog/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Joe Birch|[Link](https://joebirch.co/)|
 |Martin Fowler|[Link](http://martinfowler.com/)|
-|Coding|[Link](https://blog.brakmic.com/)|
+|Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
@@ -159,9 +160,9 @@ Other
 ---
 |Title|URL|
 |--|--|
-|vas3k.ru full|[Link](http://vas3k.ru/rss/)|
+|vas3k.ru|[Link](http://vas3k.ru/rss/)|
 |Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
-|Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
+|Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
 |  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Stories by Michael Dubakov on Medium|[Link](https://medium.com/@mdubakov?source=rss-854c3da48589------2)|
@@ -172,7 +173,7 @@ Medium
 ---
 |Title|URL|
 |--|--|
-|Google Developer Experts — Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
+|Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
