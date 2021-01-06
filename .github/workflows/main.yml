@@ -1,6 +1,8 @@
 name: CI
 
 on:
+  schedule:
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,7 +15,7 @@ jobs:
       - name: Download new OPML
         run: |          
           curl -s \
-          -H "Cookie: ssid=${{ secrets.SSID }}" \
+          -H "Cookie: ssid=${{ secrets.SSID }}; al=${{ secrets.AL }};" \
           https://www.inoreader.com/reader/subscriptions/export?download=1 \
           -o "subscriptions.xml"
       - name: Setup Python
