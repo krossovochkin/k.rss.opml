@@ -29,6 +29,7 @@
       <outline text="Kotlin Academy - Medium" title="Kotlin Academy - Medium" type="rss" xmlUrl="https://blog.kotlin-academy.com/feed" htmlUrl="https://blog.kotlin-academy.com/?source=rss----e57b304801ef---4"/>
       <outline text="Reddit Kotlin" title="Reddit Kotlin" type="rss" xmlUrl="https://www.reddit.com/r/kotlin/top.rss?t=week&amp;limit=5" htmlUrl="https://www.reddit.com/r/kotlin/top?t=week&amp;limit=5"/>
       <outline text="Kotlin Weekly" title="Kotlin Weekly" type="rss" xmlUrl="https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6" htmlUrl="https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&amp;id=93b2272cb6"/>
+      <outline text="Kotlin Testing" title="Kotlin Testing" type="rss" xmlUrl="https://kotlintesting.com/rss/" htmlUrl="https://kotlintesting.com/"/>
       <outline text="JetBrains Kotlin Blog" title="JetBrains Kotlin Blog" type="rss" xmlUrl="https://blog.jetbrains.com/kotlin/feed/" htmlUrl="http://blog.jetbrains.com/kotlin"/>
     </outline>
     <outline text="Java" title="Java">
