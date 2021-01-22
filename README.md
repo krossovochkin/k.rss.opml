@@ -12,6 +12,7 @@ Android
 |Title|URL|
 |--|--|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
+|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
@@ -51,6 +52,7 @@ Java
 |JavaWorld|[Link](http://www.javaworld.com/)|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |Reddit Java|[Link](https://www.reddit.com/r/java/top?t=week&limit=5)|
+|Oracle Blogs \| Java Magazine|[Link](https://blogs.oracle.com/javamagazine/compendium/rss)|
 |Javarevisited|[Link](http://javarevisited.blogspot.com/)|
 
 
@@ -173,6 +175,7 @@ Medium
 ---
 |Title|URL|
 |--|--|
+|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|

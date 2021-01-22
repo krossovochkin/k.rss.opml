@@ -6,6 +6,7 @@
   <body>
     <outline text="Android" title="Android">
       <outline text="Styling Android" title="Styling Android" type="rss" xmlUrl="https://blog.stylingandroid.com/feed/" htmlUrl="http://blog.stylingandroid.com/"/>
+      <outline text="Mobile App Development Publication - Medium" title="Mobile App Development Publication - Medium" type="rss" xmlUrl="https://medium.com/feed/mobile-app-development-publication" htmlUrl="https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4"/>
       <outline text="AndroidX Release Notes" title="AndroidX Release Notes" type="rss" xmlUrl="http://feeds.feedburner.com/android/lUne?format=xml" htmlUrl="http://feeds.feedburner.com/android/lUne?format=xml"/>
       <outline text="Google Developer Experts - Medium" title="Google Developer Experts - Medium" type="rss" xmlUrl="https://medium.com/feed/google-developer-experts" htmlUrl="https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4"/>
       <outline text="Google Android Blog" title="Google Android Blog" type="rss" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products/android/"/>
@@ -37,6 +38,7 @@
       <outline text="JavaWorld" title="JavaWorld" type="rss" xmlUrl="http://www.javaworld.com/index.rss" htmlUrl="http://www.javaworld.com/"/>
       <outline text="Javarevisited - Medium" title="Javarevisited - Medium" type="rss" xmlUrl="https://medium.com/feed/javarevisited" htmlUrl="https://medium.com/javarevisited?source=rss----d3a191ac6ed---4"/>
       <outline text="Reddit Java" title="Reddit Java" type="rss" xmlUrl="https://www.reddit.com/r/java/top.rss?t=week&amp;limit=5" htmlUrl="https://www.reddit.com/r/java/top?t=week&amp;limit=5"/>
+      <outline text="Oracle Blogs | Java Magazine" title="Oracle Blogs | Java Magazine" type="rss" xmlUrl="https://blogs.oracle.com/javamagazine/compendium/rss" htmlUrl="https://blogs.oracle.com/javamagazine/compendium/rss"/>
       <outline text="Javarevisited" title="Javarevisited" type="rss" xmlUrl="http://javarevisited.blogspot.com/feeds/posts/default" htmlUrl="http://javarevisited.blogspot.com/"/>
     </outline>
     <outline text="Flutter" title="Flutter">
