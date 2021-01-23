@@ -100,7 +100,7 @@ Personal Blogs
 |Title|URL|
 |--|--|
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
-|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
+|Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
@@ -113,7 +113,7 @@ Personal Blogs
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
-|Antonio Leiva|[Link](https://antonioleiva.com/)|
+|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Magda Miu|[Link](https://magdamiu.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
@@ -126,7 +126,8 @@ Personal Blogs
 |Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
-|The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
+|Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
+|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
@@ -137,6 +138,7 @@ Personal Blogs
 |Martin Fowler|[Link](http://martinfowler.com/)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
+|The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
@@ -147,7 +149,6 @@ Personal Blogs
 |Public Object|[Link](https://publicobject.com/)|
 |zsmb.co|[Link](https://zsmb.co/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
-|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Jake Wharton Blog|[Link](http://jakewharton.com/)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
