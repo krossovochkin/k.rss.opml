@@ -99,8 +99,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Jake Lee|[Link](https://blog.jakelee.co.uk/)|
-|Antonio Leiva|[Link](https://antonioleiva.com/)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
@@ -113,8 +112,8 @@ Personal Blogs
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
+|Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
-|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Magda Miu|[Link](https://magdamiu.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
@@ -127,7 +126,8 @@ Personal Blogs
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
-|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
+|Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
+|Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
@@ -149,6 +149,7 @@ Personal Blogs
 |Public Object|[Link](https://publicobject.com/)|
 |zsmb.co|[Link](https://zsmb.co/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Jake Wharton Blog|[Link](http://jakewharton.com/)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
@@ -188,9 +189,9 @@ Medium
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
-|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
