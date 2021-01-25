@@ -12,7 +12,6 @@ Android
 |Title|URL|
 |--|--|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
-|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
@@ -20,6 +19,7 @@ Android
 |Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
 |Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
 |Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
+|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Android & Tech|[Link](https://android.jlelse.eu/?source=rss----8fca399d4de---4)|
@@ -27,8 +27,9 @@ Android
 |ProAndroidDev - Medium|[Link](https://proandroiddev.com/?source=rss----c72404660798---4)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
 |Grokking Android|[Link](https://www.grokkingandroid.com/)|
-|Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
+|jetc.dev \| Issues|[Link](https://jetc.dev/)|
 |TechYourChance|[Link](https://www.techyourchance.com/)|
+|Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
 |Android UI Patterns - Medium|[Link](https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4)|
 
 
@@ -99,8 +100,8 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
-|Vladimir Jovanović|[Link](https://vladimirj.dev/)|
+|Magda Miu|[Link](https://magdamiu.com/)|
+|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
@@ -113,8 +114,8 @@ Personal Blogs
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
-|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
-|Magda Miu|[Link](https://magdamiu.com/)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
+|Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
@@ -127,10 +128,11 @@ Personal Blogs
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
-|Antonio Leiva|[Link](https://antonioleiva.com/)|
+|Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
+|Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Artem Zinnatullin - Android Hipster|[Link](http://artemzin.com/blog/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
@@ -140,7 +142,6 @@ Personal Blogs
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
-|Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
 |Artur Dryomov|[Link](https://arturdryomov.dev/)|
@@ -150,6 +151,7 @@ Personal Blogs
 |zsmb.co|[Link](https://zsmb.co/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
+|Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Jake Wharton Blog|[Link](http://jakewharton.com/)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
@@ -177,8 +179,8 @@ Medium
 ---
 |Title|URL|
 |--|--|
-|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
+|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
@@ -189,12 +191,12 @@ Medium
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
