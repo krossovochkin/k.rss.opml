@@ -11,15 +11,18 @@ Android
 ---
 |Title|URL|
 |--|--|
-|Styling Android|[Link](http://blog.stylingandroid.com/)|
+|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
+|onCreate Digest|[Link](http://www.oncreatedigest.com/)|
+|Compose Academy Archive Feed|[Link](https://us7.campaign-archive.com/feed?u=68cc676cd60c12ff962c2f023&id=1c6ec9f481)|
+|jetc.dev \| Issues|[Link](https://jetc.dev/)|
+|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
 |Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
 |Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
 |Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
-|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
-|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
+|Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Android & Tech|[Link](https://android.jlelse.eu/?source=rss----8fca399d4de---4)|
@@ -27,9 +30,8 @@ Android
 |ProAndroidDev - Medium|[Link](https://proandroiddev.com/?source=rss----c72404660798---4)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
 |Grokking Android|[Link](https://www.grokkingandroid.com/)|
-|jetc.dev \| Issues|[Link](https://jetc.dev/)|
-|TechYourChance|[Link](https://www.techyourchance.com/)|
 |Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
+|TechYourChance|[Link](https://www.techyourchance.com/)|
 |Android UI Patterns - Medium|[Link](https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4)|
 
 
@@ -77,7 +79,9 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Cash App Code Blog|[Link](https://cashapp.github.io/)|
+|Square Corner Blog|[Link](https://developer.squareup.com/blog)|
+|Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
+|Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
@@ -85,14 +89,14 @@ Company Blogs
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Cash App Code Blog|[Link](https://cashapp.github.io/)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
 |The Gradle Blog|[Link](https://blog.gradle.org/)|
 |The Firebase Blog|[Link](http://firebase.googleblog.com/)|
 |Google Developers Blog|[Link](http://developers.googleblog.com/)|
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
-|Square Corner Blog|[Link](https://developer.squareup.com/blog)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
@@ -179,8 +183,8 @@ Medium
 ---
 |Title|URL|
 |--|--|
-|Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
+|Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
