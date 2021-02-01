@@ -44,6 +44,7 @@ Kotlin
 |Reddit Kotlin|[Link](https://www.reddit.com/r/kotlin/top?t=week&limit=5)|
 |Kotlin Weekly|[Link](https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)|
 |Kotlin Testing|[Link](https://kotlintesting.com/)|
+|Kotlin|[Link](https://dev.to/kotlin)|
 |JetBrains Kotlin Blog|[Link](http://blog.jetbrains.com/kotlin)|
 
 
