@@ -105,8 +105,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Magda Miu|[Link](https://magdamiu.com/)|
-|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
+|Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
@@ -120,8 +119,8 @@ Personal Blogs
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
+|Magda Miu|[Link](https://magdamiu.com/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
-|Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
 |Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
@@ -134,11 +133,12 @@ Personal Blogs
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
 |Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
+|Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Artem Zinnatullin - Android Hipster|[Link](http://artemzin.com/blog/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Joe Birch|[Link](https://joebirch.co/)|
@@ -157,6 +157,7 @@ Personal Blogs
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |Antonio Leiva|[Link](https://antonioleiva.com/)|
+|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Jake Wharton Blog|[Link](http://jakewharton.com/)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
@@ -201,8 +202,8 @@ Medium
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
 |Stories by Chet Haase on Medium|[Link](https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2)|
