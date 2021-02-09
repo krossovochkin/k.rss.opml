@@ -105,7 +105,8 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
+|Zac Sweers|[Link](https://www.zacsweers.dev/)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
@@ -113,16 +114,16 @@ Personal Blogs
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
 |Handstand Sam|[Link](https://handstandsam.com/)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
-|Zac Sweers|[Link](https://www.zacsweers.dev/)|
-|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
+|Magda Miu|[Link](https://magdamiu.com/)|
+|Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Antonio Leiva|[Link](https://antonioleiva.com/)|
-|  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
-|Chris Banes|[Link](https://chris.banes.dev/)|
+|Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
+|Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
 |Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
@@ -130,18 +131,17 @@ Personal Blogs
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
-|Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
+|Chris Banes|[Link](https://chris.banes.dev/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
 |Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
-|Magda Miu|[Link](https://magdamiu.com/)|
-|The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Akarnokd - Advanced RxJava|[Link](http://akarnokd.blogspot.com/)|
 |Artem Zinnatullin - Android Hipster|[Link](http://artemzin.com/blog/)|
@@ -151,8 +151,8 @@ Personal Blogs
 |Martin Fowler|[Link](http://martinfowler.com/)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
+|The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
-|Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
@@ -164,6 +164,7 @@ Personal Blogs
 |zsmb.co|[Link](https://zsmb.co/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
+|  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Jake Wharton Blog|[Link](http://jakewharton.com/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
@@ -193,13 +194,13 @@ Medium
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
-|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
