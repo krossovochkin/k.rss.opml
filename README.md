@@ -11,7 +11,8 @@ Android
 ---
 |Title|URL|
 |--|--|
-|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
+|Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
+|Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
 |onCreate Digest|[Link](http://www.oncreatedigest.com/)|
 |Compose Academy Archive Feed|[Link](https://us7.campaign-archive.com/feed?u=68cc676cd60c12ff962c2f023&id=1c6ec9f481)|
 |jetc.dev \| Issues|[Link](https://jetc.dev/)|
@@ -21,11 +22,10 @@ Android
 |Google Android Blog|[Link](https://blog.google/products/android/)|
 |Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
 |Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
-|Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
+|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
-|Android & Tech|[Link](https://android.jlelse.eu/?source=rss----8fca399d4de---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
 |ProAndroidDev - Medium|[Link](https://proandroiddev.com/?source=rss----c72404660798---4)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
@@ -80,6 +80,7 @@ Company Blogs
 |Title|URL|
 |--|--|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
+|Slack Engineering|[Link](https://slack.engineering/)|
 |Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
 |Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
@@ -182,6 +183,7 @@ Medium
 ---
 |Title|URL|
 |--|--|
+|Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
 |Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
@@ -213,8 +215,8 @@ Reddit
 ---
 |Title|URL|
 |--|--|
-|Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
 |Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
+|Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
 |Reddit Kotlin|[Link](https://www.reddit.com/r/kotlin/top?t=week&limit=5)|
 |Reddit Java|[Link](https://www.reddit.com/r/java/top?t=week&limit=5)|
 |Reddit FlutterDev|[Link](https://www.reddit.com/r/flutterdev/top?t=week&limit=5)|

@@ -5,7 +5,8 @@
   </head>
   <body>
     <outline text="Android" title="Android">
-      <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="https://www.raywenderlich.com/feed" htmlUrl="https://www.raywenderlich.com/"/>
+      <outline text="Reddit androiddev" title="Reddit androiddev" type="rss" xmlUrl="https://www.reddit.com/r/androiddev/top.rss?t=week&amp;limit=5" htmlUrl="https://www.reddit.com/r/androiddev/top?t=week&amp;limit=5"/>
+      <outline text="Android &amp; Tech News — Medium" title="Android &amp; Tech News — Medium" type="rss" xmlUrl="https://medium.com/feed/android-news" htmlUrl="https://medium.com/android-news?source=rss----8fca399d4de---4"/>
       <outline text="onCreate Digest" title="onCreate Digest" type="rss" xmlUrl="https://www.oncreatedigest.com/?format=rss" htmlUrl="http://www.oncreatedigest.com/"/>
       <outline text="Compose Academy Archive Feed" title="Compose Academy Archive Feed" type="rss" xmlUrl="https://us7.campaign-archive.com/feed?u=68cc676cd60c12ff962c2f023&amp;id=1c6ec9f481" htmlUrl="https://us7.campaign-archive.com/feed?u=68cc676cd60c12ff962c2f023&amp;id=1c6ec9f481"/>
       <outline text="jetc.dev | Issues" title="jetc.dev | Issues" type="rss" xmlUrl="https://jetc.dev/feed/issues.xml" htmlUrl="https://jetc.dev/"/>
@@ -15,11 +16,10 @@
       <outline text="Google Android Blog" title="Google Android Blog" type="rss" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products/android/"/>
       <outline text="Android Weekly" title="Android Weekly" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
       <outline text="Reddit Android" title="Reddit Android" type="rss" xmlUrl="https://www.reddit.com/r/android/top.rss?t=week&amp;limit=5" htmlUrl="https://www.reddit.com/r/android/top?t=week&amp;limit=5"/>
-      <outline text="Reddit androiddev" title="Reddit androiddev" type="rss" xmlUrl="https://www.reddit.com/r/androiddev/top.rss?t=week&amp;limit=5" htmlUrl="https://www.reddit.com/r/androiddev/top?t=week&amp;limit=5"/>
+      <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="https://www.raywenderlich.com/feed" htmlUrl="https://www.raywenderlich.com/"/>
       <outline text="Styling Android" title="Styling Android" type="rss" xmlUrl="https://blog.stylingandroid.com/feed/" htmlUrl="http://blog.stylingandroid.com/"/>
       <outline text="Android Studio Release Updates" title="Android Studio Release Updates" type="rss" xmlUrl="https://androidstudio.googleblog.com/feeds/posts/default" htmlUrl="http://androidstudio.googleblog.com/"/>
       <outline text="Android@Microsoft - Medium" title="Android@Microsoft - Medium" type="rss" xmlUrl="https://medium.com/feed/android-microsoft" htmlUrl="https://medium.com/android-microsoft?source=rss----87f10537e947---4"/>
-      <outline text="Android &amp; Tech" title="Android &amp; Tech" type="rss" xmlUrl="https://android.jlelse.eu/feed" htmlUrl="https://android.jlelse.eu/?source=rss----8fca399d4de---4"/>
       <outline text="Mindorks - Medium" title="Mindorks - Medium" type="rss" xmlUrl="https://medium.com/feed/mindorks" htmlUrl="https://medium.com/mindorks?source=rss----f1a763fc7443---4"/>
       <outline text="ProAndroidDev - Medium" title="ProAndroidDev - Medium" type="rss" xmlUrl="https://proandroiddev.com/feed" htmlUrl="https://proandroiddev.com/?source=rss----c72404660798---4"/>
       <outline text="Android Developers - Medium" title="Android Developers - Medium" type="rss" xmlUrl="https://medium.com/feed/androiddevelopers" htmlUrl="https://medium.com/androiddevelopers?source=rss----95b274b437c2---4"/>
@@ -54,6 +54,7 @@
     </outline>
     <outline text="Company Blogs" title="Company Blogs">
       <outline text="Discord Blog - Medium" title="Discord Blog - Medium" type="rss" xmlUrl="https://blog.discord.com/feed" htmlUrl="https://blog.discord.com/?source=rss----cb96a1f03649---4"/>
+      <outline text="Slack Engineering" title="Slack Engineering" type="rss" xmlUrl="https://slack.engineering/feed/" htmlUrl="https://slack.engineering/"/>
       <outline text="Lyft Engineering — Medium" title="Lyft Engineering — Medium" type="rss" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/?source=rss----25cd379abb8---4"/>
       <outline text="Badoo EN" title="Badoo EN" type="rss" xmlUrl="https://habr.com/en/rss/company/badoo/blog/?fl=en" htmlUrl="https://habr.com/en/company/badoo/blog/"/>
       <outline text="Badoo RU" title="Badoo RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/badoo/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/badoo/blog/"/>
