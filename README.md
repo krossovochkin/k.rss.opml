@@ -79,7 +79,8 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
+|Google Testing Blog|[Link](http://testing.googleblog.com/)|
+|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
 |Slack Engineering|[Link](https://slack.engineering/)|
 |Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
 |Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
@@ -89,8 +90,8 @@ Company Blogs
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
-|Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
 |Cash App Code Blog|[Link](https://cashapp.github.io/)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
 |The Gradle Blog|[Link](https://blog.gradle.org/)|
