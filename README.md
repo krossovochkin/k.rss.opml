@@ -11,7 +11,8 @@ Android
 ---
 |Title|URL|
 |--|--|
-|Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
+|Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
+|Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
 |onCreate Digest|[Link](http://www.oncreatedigest.com/)|
 |Compose Academy Archive Feed|[Link](https://us7.campaign-archive.com/feed?u=68cc676cd60c12ff962c2f023&id=1c6ec9f481)|
@@ -21,9 +22,8 @@ Android
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
 |Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
-|Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
+|Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
 |Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
-|Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
@@ -217,8 +217,8 @@ Reddit
 ---
 |Title|URL|
 |--|--|
-|Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
 |Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
+|Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
 |Reddit Kotlin|[Link](https://www.reddit.com/r/kotlin/top?t=week&limit=5)|
 |Reddit Java|[Link](https://www.reddit.com/r/java/top?t=week&limit=5)|
 |Reddit FlutterDev|[Link](https://www.reddit.com/r/flutterdev/top?t=week&limit=5)|
