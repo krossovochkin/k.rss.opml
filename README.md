@@ -80,6 +80,7 @@ Company Blogs
 |Title|URL|
 |--|--|
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
 |Cash App Code Blog|[Link](https://code.cash.app/)|
 |The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
 |Slack Engineering|[Link](https://slack.engineering/)|
