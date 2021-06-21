@@ -6,6 +6,7 @@
   <body>
     <outline text="Android" title="Android">
       <outline text="Reddit Android" title="Reddit Android" type="rss" xmlUrl="https://www.reddit.com/r/android/top.rss?t=week&amp;limit=5" htmlUrl="https://www.reddit.com/r/android/top?t=week&amp;limit=5"/>
+      <outline text="Kodein Koders - Medium" title="Kodein Koders - Medium" type="rss" xmlUrl="https://medium.com/feed/kodein-koders" htmlUrl="https://medium.com/kodein-koders?source=rss----f311f45ef54---4"/>
       <outline text="Styling Android" title="Styling Android" type="rss" xmlUrl="http://feeds.feedburner.com/StylingAndroid" htmlUrl="http://blog.stylingandroid.com/"/>
       <outline text="Android &amp; Tech News — Medium" title="Android &amp; Tech News — Medium" type="rss" xmlUrl="https://medium.com/feed/android-news" htmlUrl="https://medium.com/android-news?source=rss----8fca399d4de---4"/>
       <outline text="onCreate Digest" title="onCreate Digest" type="rss" xmlUrl="https://www.oncreatedigest.com/?format=rss" htmlUrl="http://www.oncreatedigest.com/"/>

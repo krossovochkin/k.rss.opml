@@ -12,6 +12,7 @@ Android
 |Title|URL|
 |--|--|
 |Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
+|Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
 |onCreate Digest|[Link](http://www.oncreatedigest.com/)|
@@ -188,6 +189,7 @@ Medium
 ---
 |Title|URL|
 |--|--|
+|Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
 |Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
