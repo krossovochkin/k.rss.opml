@@ -80,7 +80,10 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
+|Facebook Engineering|[Link](https://engineering.fb.com/)|
+|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
 |«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
 |Cash App Code Blog|[Link](https://code.cash.app/)|
 |The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
@@ -90,9 +93,9 @@ Company Blogs
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
+|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
@@ -200,8 +203,9 @@ Medium
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |Flutter Community - Medium|[Link](https://medium.com/flutter-community?source=rss----86fb29d7cc6a---4)|
 |Flutter - Medium|[Link](https://medium.com/flutter-io?source=rss----4da7dfd21a33---4)|
-|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
+|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
