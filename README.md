@@ -112,7 +112,8 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Joel on Software|[Link](https://www.joelonsoftware.com/)|
+|Py ⚔|[Link](https://dev.to/pyricau)|
+|John O'Reilly|[Link](https://johnoreilly.dev/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
 |Magda Miu|[Link](https://magdamiu.com/)|
@@ -120,8 +121,8 @@ Personal Blogs
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
-|Py ⚔|[Link](https://dev.to/pyricau)|
-|John O'Reilly|[Link](https://johnoreilly.dev/)|
+|Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
+|Joel on Software|[Link](https://www.joelonsoftware.com/)|
 |Handstand Sam|[Link](https://handstandsam.com/)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Zac Sweers|[Link](https://www.zacsweers.dev/)|
@@ -129,8 +130,8 @@ Personal Blogs
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
-|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
-|Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
+|Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
+|Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
 |Matt McKenna|[Link](https://mmckenna.me/)|
 |Jake Wharton|[Link](http://jakewharton.com/)|
@@ -138,8 +139,8 @@ Personal Blogs
 |Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
-|Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
+|Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
@@ -147,8 +148,7 @@ Personal Blogs
 |Chris Banes|[Link](https://chris.banes.dev/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
-|Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
-|Antonio Leiva|[Link](https://antonioleiva.com/)|
+|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
@@ -156,8 +156,8 @@ Personal Blogs
 |Artem Zinnatullin - Android Hipster|[Link](http://artemzin.com/blog/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Joe Birch|[Link](https://joebirch.co/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |vas3k.ru|[Link](http://vas3k.ru/rss/)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Martin Fowler|[Link](http://martinfowler.com/)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
@@ -176,6 +176,7 @@ Personal Blogs
 |Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
 |  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
+|Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
@@ -210,6 +211,7 @@ Medium
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
+|Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
