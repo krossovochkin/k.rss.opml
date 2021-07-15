@@ -81,6 +81,7 @@ Company Blogs
 |Title|URL|
 |--|--|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|

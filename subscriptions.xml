@@ -55,6 +55,7 @@
     </outline>
     <outline text="Company Blogs" title="Company Blogs">
       <outline text="Snapp Mobile - Medium" title="Snapp Mobile - Medium" type="rss" xmlUrl="https://medium.com/feed/snapp-mobile" htmlUrl="https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4"/>
+      <outline text="Twitter Blog Feed" title="Twitter Blog Feed" type="rss" xmlUrl="https://blog.twitter.com/engineering/feed" htmlUrl="https://blog.twitter.com/engineering"/>
       <outline text="Booking.com Development - Medium" title="Booking.com Development - Medium" type="rss" xmlUrl="https://medium.com/feed/booking-com-development" htmlUrl="https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4"/>
       <outline text="Facebook Engineering" title="Facebook Engineering" type="rss" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/"/>
       <outline text="Facebook Developers" title="Facebook Developers" type="rss" xmlUrl="https://developers.facebook.com/blog/feed" htmlUrl="https://developers.facebook.com/blog/"/>
