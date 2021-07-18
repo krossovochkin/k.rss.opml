@@ -114,6 +114,7 @@ Personal Blogs
 |Title|URL|
 |--|--|
 |Py ⚔|[Link](https://dev.to/pyricau)|
+|Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
@@ -122,7 +123,7 @@ Personal Blogs
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
-|Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
+|Jeroen Mols|[Link](https://jeroenmols.com/)|
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
 |Handstand Sam|[Link](https://handstandsam.com/)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
@@ -130,8 +131,9 @@ Personal Blogs
 |Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
-|Rock and Null|[Link](https://www.rockandnull.com/)|
-|Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
+|Vladimir Jovanović|[Link](https://vladimirj.dev/)|
+|Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
+|Database Architects|[Link](https://databasearchitects.blogspot.com/)|
 |Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
 |Matt McKenna|[Link](https://mmckenna.me/)|
@@ -139,8 +141,8 @@ Personal Blogs
 |tonsky.me|[Link](http://tonsky.me/)|
 |Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
-|Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
-|Vladimir Jovanović|[Link](https://vladimirj.dev/)|
+|Rock and Null|[Link](https://www.rockandnull.com/)|
+|Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
 |Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
@@ -148,7 +150,6 @@ Personal Blogs
 |Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Chris Banes|[Link](https://chris.banes.dev/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
-|Jeroen Mols|[Link](https://jeroenmols.com/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
@@ -158,8 +159,8 @@ Personal Blogs
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Joe Birch|[Link](https://joebirch.co/)|
 |vas3k.ru|[Link](http://vas3k.ru/rss/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Martin Fowler|[Link](http://martinfowler.com/)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
