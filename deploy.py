@@ -11,8 +11,6 @@ def deploy(input, output):
 	
 	for key, group in itertools.groupby(rss_items, lambda x : x.folder):
 		printSection(key, list(group), output)
-		
-	printSection("Medium", filter(lambda x : x.isMedium(), rss_items), output)
 			
 def parseRssItems(input):
 	xmlp = et.XMLParser(encoding = "utf-8")
