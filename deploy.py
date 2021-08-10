@@ -13,7 +13,6 @@ def deploy(input, output):
 		printSection(key, list(group), output)
 		
 	printSection("Medium", filter(lambda x : x.isMedium(), rss_items), output)
-	printSection("Reddit", filter(lambda x : x.isReddit(), rss_items), output)
 			
 def parseRssItems(input):
 	xmlp = et.XMLParser(encoding = "utf-8")
