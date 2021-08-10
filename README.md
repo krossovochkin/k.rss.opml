@@ -192,38 +192,3 @@ Personal Blogs
 |Антон Иоков|[Link](http://blog.antoniokov.com/)|
 
 
-Medium
----
-|Title|URL|
-|--|--|
-|Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
-|Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
-|Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
-|Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
-|Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
-|Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
-|Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
-|Android UI Patterns - Medium|[Link](https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4)|
-|Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
-|Flutter Community - Medium|[Link](https://medium.com/flutter-community?source=rss----86fb29d7cc6a---4)|
-|Flutter - Medium|[Link](https://medium.com/flutter-io?source=rss----4da7dfd21a33---4)|
-|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
-|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
-|Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
-|Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
-|Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
-|Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
-|Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
-|Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
-|Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
-|Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
-|Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
-|Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
-|Stories by Chet Haase on Medium|[Link](https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2)|
-|Stories by Michael Dubakov on Medium|[Link](https://medium.com/@mdubakov?source=rss-854c3da48589------2)|
-
-
