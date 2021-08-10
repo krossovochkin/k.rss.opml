@@ -227,14 +227,3 @@ Medium
 |Stories by Michael Dubakov on Medium|[Link](https://medium.com/@mdubakov?source=rss-854c3da48589------2)|
 
 
-Reddit
----
-|Title|URL|
-|--|--|
-|Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
-|Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
-|Reddit Kotlin|[Link](https://www.reddit.com/r/kotlin/top?t=week&limit=5)|
-|Reddit Java|[Link](https://www.reddit.com/r/java/top?t=week&limit=5)|
-|Reddit FlutterDev|[Link](https://www.reddit.com/r/flutterdev/top?t=week&limit=5)|
-
-
