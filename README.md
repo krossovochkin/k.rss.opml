@@ -80,7 +80,8 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
+|Touchlab|[Link](https://dev.to/touchlab)|
 |Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
@@ -93,8 +94,8 @@ Company Blogs
 |Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
-|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
@@ -206,10 +207,10 @@ Medium
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |Flutter Community - Medium|[Link](https://medium.com/flutter-community?source=rss----86fb29d7cc6a---4)|
 |Flutter - Medium|[Link](https://medium.com/flutter-io?source=rss----4da7dfd21a33---4)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
+|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|

@@ -54,7 +54,8 @@
       <outline text="Material.io - Material Design" title="Material.io - Material Design" type="rss" xmlUrl="https://material.io/feed.xml" htmlUrl="https://material.io/"/>
     </outline>
     <outline text="Company Blogs" title="Company Blogs">
-      <outline text="Snapp Mobile - Medium" title="Snapp Mobile - Medium" type="rss" xmlUrl="https://medium.com/feed/snapp-mobile" htmlUrl="https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4"/>
+      <outline text="Airbnb Engineering &amp; Data Science — Medium" title="Airbnb Engineering &amp; Data Science — Medium" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"/>
+      <outline text="Touchlab" title="Touchlab" type="rss" xmlUrl="https://dev.to/feed/touchlab" htmlUrl="https://dev.to/touchlab"/>
       <outline text="Twitter Blog Feed" title="Twitter Blog Feed" type="rss" xmlUrl="https://blog.twitter.com/engineering/feed" htmlUrl="https://blog.twitter.com/engineering"/>
       <outline text="Booking.com Development - Medium" title="Booking.com Development - Medium" type="rss" xmlUrl="https://medium.com/feed/booking-com-development" htmlUrl="https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4"/>
       <outline text="Facebook Engineering" title="Facebook Engineering" type="rss" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/"/>
@@ -67,8 +68,8 @@
       <outline text="Badoo EN" title="Badoo EN" type="rss" xmlUrl="https://habr.com/en/rss/company/badoo/blog/?fl=en" htmlUrl="https://habr.com/en/company/badoo/blog/"/>
       <outline text="Badoo RU" title="Badoo RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/badoo/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/badoo/blog/"/>
       <outline text="JetBrains Company Blog" title="JetBrains Company Blog" type="rss" xmlUrl="https://blog.jetbrains.com/feed" htmlUrl="https://blog.jetbrains.com/"/>
-      <outline text="Airbnb Engineering &amp; Data Science — Medium" title="Airbnb Engineering &amp; Data Science — Medium" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"/>
       <outline text="Square Corner Blog - Medium" title="Square Corner Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/square-corner-blog" htmlUrl="https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4"/>
+      <outline text="Snapp Mobile - Medium" title="Snapp Mobile - Medium" type="rss" xmlUrl="https://medium.com/feed/snapp-mobile" htmlUrl="https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4"/>
       <outline text="HeadHunter RU" title="HeadHunter RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/hh/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/hh/blog/"/>
       <outline text="Redmadrobot EN" title="Redmadrobot EN" type="rss" xmlUrl="https://habr.com/en/rss/company/redmadrobot/blog/?fl=en" htmlUrl="https://habr.com/en/company/redmadrobot/blog/"/>
       <outline text="Google Testing Blog" title="Google Testing Blog" type="rss" xmlUrl="https://testing.googleblog.com/feeds/posts/default" htmlUrl="http://testing.googleblog.com/"/>
