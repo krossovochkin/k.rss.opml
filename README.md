@@ -11,7 +11,7 @@ Android
 ---
 |Title|URL|
 |--|--|
-|Reddit Android|[Link](https://www.reddit.com/r/android/top?t=week&limit=5)|
+|Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
 |Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
@@ -22,8 +22,6 @@ Android
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
-|Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
-|Reddit androiddev|[Link](https://www.reddit.com/r/androiddev/top?t=week&limit=5)|
 |Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
@@ -42,7 +40,6 @@ Kotlin
 |--|--|
 |Kotlin Development|[Link](https://www.kotlindevelopment.com/)|
 |Kotlin Academy - Medium|[Link](https://blog.kotlin-academy.com/?source=rss----e57b304801ef---4)|
-|Reddit Kotlin|[Link](https://www.reddit.com/r/kotlin/top?t=week&limit=5)|
 |Kotlin Weekly|[Link](https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)|
 |Kotlin Testing|[Link](https://kotlintesting.com/)|
 |Kotlin|[Link](https://dev.to/kotlin)|
@@ -55,7 +52,6 @@ Java
 |--|--|
 |JavaWorld|[Link](http://www.javaworld.com/)|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
-|Reddit Java|[Link](https://www.reddit.com/r/java/top?t=week&limit=5)|
 |Oracle Blogs \| Java Magazine|[Link](https://blogs.oracle.com/javamagazine/compendium/rss)|
 |Javarevisited|[Link](http://javarevisited.blogspot.com/)|
 
@@ -66,7 +62,6 @@ Flutter
 |--|--|
 |Flutter Community - Medium|[Link](https://medium.com/flutter-community?source=rss----86fb29d7cc6a---4)|
 |Flutter - Medium|[Link](https://medium.com/flutter-io?source=rss----4da7dfd21a33---4)|
-|Reddit FlutterDev|[Link](https://www.reddit.com/r/flutterdev/top?t=week&limit=5)|
 
 
 Design
