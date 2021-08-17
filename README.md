@@ -127,8 +127,9 @@ Personal Blogs
 |Zac Sweers|[Link](https://www.zacsweers.dev/)|
 |Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
-|Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
+|Rock and Null|[Link](https://www.rockandnull.com/)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
+|Tagir Valeev|[Link](https://habr.com/en/)|
 |Signs of Triviality|[Link](http://www.netmeister.org/blog/)|
 |Database Architects|[Link](https://databasearchitects.blogspot.com/)|
 |Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
@@ -137,7 +138,7 @@ Personal Blogs
 |Jake Wharton|[Link](http://jakewharton.com/)|
 |tonsky.me|[Link](http://tonsky.me/)|
 |Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
-|Rock and Null|[Link](https://www.rockandnull.com/)|
+|Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
 |Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
 |Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
@@ -146,8 +147,8 @@ Personal Blogs
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Chris Banes|[Link](https://chris.banes.dev/)|
-|Vladimir Jovanović|[Link](https://vladimirj.dev/)|
-|Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
+|Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Akarnokd - Advanced RxJava|[Link](http://akarnokd.blogspot.com/)|
@@ -157,25 +158,25 @@ Personal Blogs
 |vas3k.ru|[Link](http://vas3k.ru/rss/)|
 |Martin Fowler|[Link](http://martinfowler.com/)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
+|Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
-|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
-|Antonio Leiva|[Link](https://antonioleiva.com/)|
-|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
-|  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
-|Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
-|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
-|zsmb.co|[Link](https://zsmb.co/)|
-|Public Object|[Link](https://publicobject.com/)|
-|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
-|Marco.org|[Link](https://marco.org/)|
-|Artur Dryomov|[Link](https://arturdryomov.dev/)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
-|Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
+|Artur Dryomov|[Link](https://arturdryomov.dev/)|
+|Marco.org|[Link](https://marco.org/)|
+|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Public Object|[Link](https://publicobject.com/)|
+|zsmb.co|[Link](https://zsmb.co/)|
+|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
+|  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
+|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
+|Antonio Leiva|[Link](https://antonioleiva.com/)|
+|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
+|Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
