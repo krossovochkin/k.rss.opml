@@ -42,6 +42,7 @@ Kotlin
 |Kotlin Weekly|[Link](https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)|
 |Kotlin Testing|[Link](https://kotlintesting.com/)|
 |Kotlin|[Link](https://dev.to/kotlin)|
+|Kt. Academy|[Link](https://kt.academy/article)|
 |JetBrains Kotlin Blog|[Link](http://blog.jetbrains.com/kotlin)|
 
 
@@ -109,7 +110,8 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Jake Lee|[Link](https://blog.jakelee.co.uk/)|
+|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
+|Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Chris Banes|[Link](https://chris.banes.dev/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
@@ -118,8 +120,8 @@ Personal Blogs
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
 |Magda Miu|[Link](https://magdamiu.com/)|
-|Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
-|Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
+|Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
+|Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Py ⚔|[Link](https://dev.to/pyricau)|
@@ -128,8 +130,8 @@ Personal Blogs
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Zac Sweers|[Link](https://www.zacsweers.dev/)|
 |Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
-|Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
-|tonsky.me|[Link](http://tonsky.me/)|
+|Jake Wharton|[Link](http://jakewharton.com/)|
+|Anton Shilov|[Link](https://dev.to/antonshilov)|
 |Fanny Demey|[Link](https://dev.to/fannydemey)|
 |>рабочие заметки|[Link](https://dev.cheremin.info/)|
 |Tagir Valeev|[Link](https://habr.com/en/)|
@@ -138,8 +140,8 @@ Personal Blogs
 |Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
 |Matt McKenna|[Link](https://mmckenna.me/)|
-|Jake Wharton|[Link](http://jakewharton.com/)|
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
+|tonsky.me|[Link](http://tonsky.me/)|
 |Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
@@ -147,17 +149,16 @@ Personal Blogs
 |Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
-|Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |vas3k.ru|[Link](http://vas3k.ru/rss/)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
-|The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
 |Martin Fowler|[Link](http://martinfowler.com/)|
-|Rock and Null|[Link](https://www.rockandnull.com/)|
+|Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
 |Joe Birch|[Link](https://joebirch.co/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Artem Zinnatullin - Android Hipster|[Link](http://artemzin.com/blog/)|
@@ -172,13 +173,14 @@ Personal Blogs
 |Public Object|[Link](https://publicobject.com/)|
 |zsmb.co|[Link](https://zsmb.co/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
-|👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
 |Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
+|👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
 |  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
+|Rock and Null|[Link](https://www.rockandnull.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
