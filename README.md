@@ -129,8 +129,9 @@ Personal Blogs
 |Handstand Sam|[Link](https://handstandsam.com/)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Zac Sweers|[Link](https://www.zacsweers.dev/)|
-|Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
-|Jake Wharton|[Link](http://jakewharton.com/)|
+|Lukas Lechner|[Link](https://www.lukaslechner.com/)|
+|Matt McKenna|[Link](https://mmckenna.me/)|
+|Zach Klippenstein|[Link](https://dev.to/zachklipp)|
 |Anton Shilov|[Link](https://dev.to/antonshilov)|
 |Fanny Demey|[Link](https://dev.to/fannydemey)|
 |>рабочие заметки|[Link](https://dev.cheremin.info/)|
@@ -139,8 +140,8 @@ Personal Blogs
 |Database Architects|[Link](https://databasearchitects.blogspot.com/)|
 |Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
-|Matt McKenna|[Link](https://mmckenna.me/)|
-|Lukas Lechner|[Link](https://www.lukaslechner.com/)|
+|Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
+|Jake Wharton|[Link](http://jakewharton.com/)|
 |tonsky.me|[Link](http://tonsky.me/)|
 |Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
@@ -150,8 +151,8 @@ Personal Blogs
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |vas3k.ru|[Link](http://vas3k.ru/rss/)|
-|Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
@@ -167,20 +168,20 @@ Personal Blogs
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
-|Artur Dryomov|[Link](https://arturdryomov.dev/)|
-|Marco.org|[Link](https://marco.org/)|
-|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
-|Public Object|[Link](https://publicobject.com/)|
-|zsmb.co|[Link](https://zsmb.co/)|
-|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
-|Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
-|👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
-|  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
-|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
-|Antonio Leiva|[Link](https://antonioleiva.com/)|
-|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
-|Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
+|Vladimir Jovanović|[Link](https://vladimirj.dev/)|
+|Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
+|Antonio Leiva|[Link](https://antonioleiva.com/)|
+|Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
+|  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
+|Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
+|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|zsmb.co|[Link](https://zsmb.co/)|
+|Public Object|[Link](https://publicobject.com/)|
+|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Marco.org|[Link](https://marco.org/)|
+|Artur Dryomov|[Link](https://arturdryomov.dev/)|
+|👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
