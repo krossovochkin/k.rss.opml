@@ -37,7 +37,6 @@ Kotlin
 ---
 |Title|URL|
 |--|--|
-|Kotlin Development|[Link](https://www.kotlindevelopment.com/)|
 |Kotlin Academy - Medium|[Link](https://blog.kotlin-academy.com/?source=rss----e57b304801ef---4)|
 |Kotlin Weekly|[Link](https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)|
 |Kotlin Testing|[Link](https://kotlintesting.com/)|
