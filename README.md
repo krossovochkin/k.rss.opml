@@ -49,7 +49,6 @@ Java
 ---
 |Title|URL|
 |--|--|
-|JavaWorld|[Link](http://www.javaworld.com/)|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |Oracle Blogs \| Java Magazine|[Link](https://blogs.oracle.com/javamagazine/compendium/rss)|
 |Javarevisited|[Link](http://javarevisited.blogspot.com/)|
@@ -74,22 +73,26 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
-|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
-|Touchlab|[Link](https://dev.to/touchlab)|
-|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
-|Facebook Engineering|[Link](https://engineering.fb.com/)|
-|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
-|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
-|Cash App Code Blog|[Link](https://code.cash.app/)|
-|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
-|Slack Engineering|[Link](https://slack.engineering/)|
-|Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
 |Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
+|Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
+|Slack Engineering|[Link](https://slack.engineering/)|
+|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
+|Cash App Code Blog|[Link](https://code.cash.app/)|
+|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
+|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
+|Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
-|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
+|Touchlab|[Link](https://dev.to/touchlab)|
+|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
+|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
+|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
+|Uber Engineering Blog|[Link](http://eng.uber.com/)|
+|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
+|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
