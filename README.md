@@ -11,17 +11,16 @@ Android
 ---
 |Title|URL|
 |--|--|
-|Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
+|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
 |Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
-|Compose Academy Archive Feed|[Link](https://us7.campaign-archive.com/feed?u=68cc676cd60c12ff962c2f023&id=1c6ec9f481)|
 |jetc.dev \| Issues|[Link](https://jetc.dev/)|
 |Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
-|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
+|Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
@@ -73,8 +72,7 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
-|Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
 |Slack Engineering|[Link](https://slack.engineering/)|
 |The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
@@ -82,29 +80,32 @@ Company Blogs
 |«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
-|Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
-|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
+|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
+|Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
 |Touchlab|[Link](https://dev.to/touchlab)|
 |OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
 |Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
 |SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
 |Uber Engineering Blog|[Link](http://eng.uber.com/)|
 |Bugsnag Blog|[Link](https://www.bugsnag.com/)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
-|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
-|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
-|Google Testing Blog|[Link](http://testing.googleblog.com/)|
+|The GitHub Blog|[Link](https://github.blog/)|
+|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
-|QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
-|The Gradle Blog|[Link](https://blog.gradle.org/)|
-|The Firebase Blog|[Link](http://firebase.googleblog.com/)|
-|Google Developers Blog|[Link](http://developers.googleblog.com/)|
-|Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
-|Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
+|Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
+|Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
+|Google Developers Blog|[Link](http://developers.googleblog.com/)|
+|The Firebase Blog|[Link](http://firebase.googleblog.com/)|
+|The Gradle Blog|[Link](https://blog.gradle.org/)|
+|QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Google Testing Blog|[Link](http://testing.googleblog.com/)|
+|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
+|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
+|Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
