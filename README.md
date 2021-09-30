@@ -72,16 +72,11 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
-|Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
-|Slack Engineering|[Link](https://slack.engineering/)|
-|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
-|Cash App Code Blog|[Link](https://code.cash.app/)|
-|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
+|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
-|Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Touchlab|[Link](https://dev.to/touchlab)|
 |OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
 |Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
@@ -89,8 +84,18 @@ Company Blogs
 |Uber Engineering Blog|[Link](http://eng.uber.com/)|
 |Bugsnag Blog|[Link](https://www.bugsnag.com/)|
 |The GitHub Blog|[Link](https://github.blog/)|
-|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
-|Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
+|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
+|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
+|Spotify Engineering|[Link](https://engineering.atspotify.com)|
+|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
+|Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
+|Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
+|Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
+|Engineering blog \| The Guardian|[Link](https://www.theguardian.com/info/series/engineering-blog)|
+|Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
+|xorum.io - Medium|[Link](https://medium.com/xorum-io?source=rss----92bb7980cc9f---4)|
+|Discord Blog|[Link](https://discordpages.webflow.io/)|
+|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
@@ -98,14 +103,19 @@ Company Blogs
 |The Firebase Blog|[Link](http://firebase.googleblog.com/)|
 |The Gradle Blog|[Link](https://blog.gradle.org/)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
-|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
 |HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
+|Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
+|Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
+|Slack Engineering|[Link](https://slack.engineering/)|
+|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
+|Cash App Code Blog|[Link](https://code.cash.app/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
@@ -113,48 +123,52 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Magda Miu|[Link](https://magdamiu.com/)|
+|Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
+|Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
+|Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
+|Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
+|Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
+|Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Chris Banes|[Link](https://chris.banes.dev/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
-|Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
+|Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
-|Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
+|Magda Miu|[Link](https://magdamiu.com/)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
-|Handstand Sam|[Link](https://handstandsam.com/)|
-|Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
-|Zac Sweers|[Link](https://www.zacsweers.dev/)|
-|Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
+|>рабочие заметки|[Link](https://dev.cheremin.info/)|
+|Py's blog|[Link](https://py.hashnode.dev/)|
+|Louis CAD doing software|[Link](https://blog.louiscad.com/)|
+|Saagar Jha|[Link](https://saagarjha.com/)|
+|Fernando Cejas Blog|[Link](http://fernandocejas.com/)|
+|Stories by Christophe Beyls on Medium|[Link](https://medium.com/@bladecoder?source=rss-54910f05af37------2)|
+|Shreyas Patil's Blog|[Link](https://blog.shreyaspatil.dev/)|
 |Stories by Jossi Wolf on Medium|[Link](https://medium.com/@jossiwolf?source=rss-8efc0359e234------2)|
 |Zach Klippenstein|[Link](https://dev.to/zachklipp)|
 |Anton Shilov|[Link](https://dev.to/antonshilov)|
 |Fanny Demey|[Link](https://dev.to/fannydemey)|
-|>рабочие заметки|[Link](https://dev.cheremin.info/)|
+|Handstand Sam|[Link](https://handstandsam.com/)|
 |Tagir Valeev|[Link](https://habr.com/en/)|
 |Signs of Triviality|[Link](http://www.netmeister.org/blog/)|
 |Database Architects|[Link](https://databasearchitects.blogspot.com/)|
 |Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
-|Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
+|Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
 |Matt McKenna|[Link](https://mmckenna.me/)|
 |Jake Wharton|[Link](http://jakewharton.com/)|
 |tonsky.me|[Link](http://tonsky.me/)|
 |Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
-|Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
-|Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
-|Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
-|Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
-|Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Martin Fowler|[Link](http://martinfowler.com/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|Artur Dryomov|[Link](https://arturdryomov.dev/)|
+|Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
 |👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
@@ -162,7 +176,7 @@ Personal Blogs
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
-|Lukas Lechner|[Link](https://www.lukaslechner.com/)|
+|Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |vas3k.ru|[Link](http://vas3k.ru/rss/)|
 |Joe Birch|[Link](https://joebirch.co/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
@@ -171,7 +185,10 @@ Personal Blogs
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
-|Artur Dryomov|[Link](https://arturdryomov.dev/)|
+|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Zac Sweers|[Link](https://www.zacsweers.dev/)|
+|Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
+|Lukas Lechner|[Link](https://www.lukaslechner.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
@@ -181,11 +198,10 @@ Personal Blogs
 |  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |zsmb.co|[Link](https://zsmb.co/)|
 |Public Object|[Link](https://publicobject.com/)|
-|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |Marco.org|[Link](https://marco.org/)|
-|Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
