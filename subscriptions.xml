@@ -114,8 +114,9 @@
       <outline text="Small Thoughts on Software" title="Small Thoughts on Software" type="rss" xmlUrl="http://www.rstockbridge.dev/feed.xml" htmlUrl="http://www.rstockbridge.dev/"/>
       <outline text="Stories by Andrey Breslav on Medium" title="Stories by Andrey Breslav on Medium" type="rss" xmlUrl="https://medium.com/feed/@abreslav" htmlUrl="https://medium.com/@abreslav?source=rss-e821c45acf49------2"/>
       <outline text="Py ⚔" title="Py ⚔" type="rss" xmlUrl="https://dev.to/feed/pyricau" htmlUrl="https://dev.to/pyricau"/>
-      <outline text="Joel on Software" title="Joel on Software" type="rss" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com/"/>
-      <outline text="&gt;рабочие заметки" title="&gt;рабочие заметки" type="rss" xmlUrl="https://dev.cheremin.info/feeds/posts/default" htmlUrl="https://dev.cheremin.info/"/>
+      <outline text="Handstand Sam" title="Handstand Sam" type="rss" xmlUrl="https://handstandsam.com/feed/" htmlUrl="https://handstandsam.com/"/>
+      <outline text="Fanny Demey" title="Fanny Demey" type="rss" xmlUrl="https://dev.to/feed/fannydemey" htmlUrl="https://dev.to/fannydemey"/>
+      <outline text="Zarah Dominguez" title="Zarah Dominguez" type="rss" xmlUrl="https://zarah.dev/feed.xml" htmlUrl="https://zarah.dev/"/>
       <outline text="Py's blog" title="Py's blog" type="rss" xmlUrl="https://py.hashnode.dev/rss.xml" htmlUrl="https://py.hashnode.dev/"/>
       <outline text="Louis CAD doing software" title="Louis CAD doing software" type="rss" xmlUrl="https://blog.louiscad.com/rss.xml" htmlUrl="https://blog.louiscad.com/"/>
       <outline text="Saagar Jha" title="Saagar Jha" type="rss" xmlUrl="https://saagarjha.com/feed.xml" htmlUrl="https://saagarjha.com/"/>
@@ -125,8 +126,8 @@
       <outline text="Stories by Jossi Wolf on Medium" title="Stories by Jossi Wolf on Medium" type="rss" xmlUrl="https://medium.com/feed/@jossiwolf" htmlUrl="https://medium.com/@jossiwolf?source=rss-8efc0359e234------2"/>
       <outline text="Zach Klippenstein" title="Zach Klippenstein" type="rss" xmlUrl="https://dev.to/feed/zachklipp" htmlUrl="https://dev.to/zachklipp"/>
       <outline text="Anton Shilov" title="Anton Shilov" type="rss" xmlUrl="https://dev.to/feed/antonshilov" htmlUrl="https://dev.to/antonshilov"/>
-      <outline text="Fanny Demey" title="Fanny Demey" type="rss" xmlUrl="https://dev.to/feed/fannydemey" htmlUrl="https://dev.to/fannydemey"/>
-      <outline text="Handstand Sam" title="Handstand Sam" type="rss" xmlUrl="https://handstandsam.com/feed/" htmlUrl="https://handstandsam.com/"/>
+      <outline text="Joel on Software" title="Joel on Software" type="rss" xmlUrl="https://www.joelonsoftware.com/feed/" htmlUrl="https://www.joelonsoftware.com/"/>
+      <outline text="&gt;рабочие заметки" title="&gt;рабочие заметки" type="rss" xmlUrl="https://dev.cheremin.info/feeds/posts/default" htmlUrl="https://dev.cheremin.info/"/>
       <outline text="Tagir Valeev" title="Tagir Valeev" type="rss" xmlUrl="https://habr.com/en/rss/users/lany/posts/?fl=en" htmlUrl="https://habr.com/en/"/>
       <outline text="Signs of Triviality" title="Signs of Triviality" type="rss" xmlUrl="http://www.netmeister.org/blog/rss.xml" htmlUrl="http://www.netmeister.org/blog/"/>
       <outline text="Database Architects" title="Database Architects" type="rss" xmlUrl="https://databasearchitects.blogspot.com/feeds/posts/default" htmlUrl="https://databasearchitects.blogspot.com/"/>
@@ -167,8 +168,8 @@
       <outline text="Blogs on Ryan Harter" title="Blogs on Ryan Harter" type="rss" xmlUrl="https://ryanharter.com/blog/index.xml" htmlUrl="https://ryanharter.com/blog/"/>
       <outline text="  Bartosz Milewski's Programming Cafe" title="  Bartosz Milewski's Programming Cafe" type="rss" xmlUrl="https://bartoszmilewski.com/feed/" htmlUrl="http://bartoszmilewski.com/"/>
       <outline text="Tonsky Стой под стрелой" title="Tonsky Стой под стрелой" type="rss" xmlUrl="https://tonsky.livejournal.com/data/rss" htmlUrl="https://tonsky.livejournal.com/"/>
-      <outline text="Posts on AlecStrong" title="Posts on AlecStrong" type="rss" xmlUrl="https://www.alecstrong.com/posts/index.xml" htmlUrl="https://alecstrong.com/posts/"/>
       <outline text="Stories by Niek Haarman on Medium" title="Stories by Niek Haarman on Medium" type="rss" xmlUrl="https://medium.com/feed/@nhaarman" htmlUrl="https://medium.com/@nhaarman?source=rss-fceb7a60a849------2"/>
+      <outline text="Posts on AlecStrong" title="Posts on AlecStrong" type="rss" xmlUrl="https://www.alecstrong.com/posts/index.xml" htmlUrl="https://alecstrong.com/posts/"/>
       <outline text="zsmb.co" title="zsmb.co" type="rss" xmlUrl="https://zsmb.co/index.xml" htmlUrl="https://zsmb.co/"/>
       <outline text="Public Object" title="Public Object" type="rss" xmlUrl="https://publicobject.com/rss/" htmlUrl="https://publicobject.com/"/>
       <outline text="Marco.org" title="Marco.org" type="rss" xmlUrl="https://marco.org/rss" htmlUrl="https://marco.org/"/>

@@ -144,8 +144,9 @@ Personal Blogs
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Py ⚔|[Link](https://dev.to/pyricau)|
-|Joel on Software|[Link](https://www.joelonsoftware.com/)|
-|>рабочие заметки|[Link](https://dev.cheremin.info/)|
+|Handstand Sam|[Link](https://handstandsam.com/)|
+|Fanny Demey|[Link](https://dev.to/fannydemey)|
+|Zarah Dominguez|[Link](https://zarah.dev/)|
 |Py's blog|[Link](https://py.hashnode.dev/)|
 |Louis CAD doing software|[Link](https://blog.louiscad.com/)|
 |Saagar Jha|[Link](https://saagarjha.com/)|
@@ -155,8 +156,8 @@ Personal Blogs
 |Stories by Jossi Wolf on Medium|[Link](https://medium.com/@jossiwolf?source=rss-8efc0359e234------2)|
 |Zach Klippenstein|[Link](https://dev.to/zachklipp)|
 |Anton Shilov|[Link](https://dev.to/antonshilov)|
-|Fanny Demey|[Link](https://dev.to/fannydemey)|
-|Handstand Sam|[Link](https://handstandsam.com/)|
+|Joel on Software|[Link](https://www.joelonsoftware.com/)|
+|>рабочие заметки|[Link](https://dev.cheremin.info/)|
 |Tagir Valeev|[Link](https://habr.com/en/)|
 |Signs of Triviality|[Link](http://www.netmeister.org/blog/)|
 |Database Architects|[Link](https://databasearchitects.blogspot.com/)|
@@ -197,8 +198,8 @@ Personal Blogs
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
-|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |zsmb.co|[Link](https://zsmb.co/)|
 |Public Object|[Link](https://publicobject.com/)|
 |Marco.org|[Link](https://marco.org/)|
