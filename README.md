@@ -124,6 +124,7 @@ Personal Blogs
 |Title|URL|
 |--|--|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
+|Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
 |Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
@@ -134,7 +135,7 @@ Personal Blogs
 |Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Chris Banes|[Link](https://chris.banes.dev/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
-|Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
+|tonsky.me|[Link](http://tonsky.me/)|
 |Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
 |vladsonkin.com|[Link](https://vladsonkin.com/)|
@@ -144,8 +145,9 @@ Personal Blogs
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
-|Py ⚔|[Link](https://dev.to/pyricau)|
-|Anton Shilov|[Link](https://dev.to/antonshilov)|
+|Joel on Software|[Link](https://www.joelonsoftware.com/)|
+|Zach Klippenstein|[Link](https://dev.to/zachklipp)|
+|vadzimv Dev Blog|[Link](https://vadzimv.dev/)|
 |Pushing Pixels|[Link](https://www.pushing-pixels.org/)|
 |Zarah Dominguez|[Link](https://zarah.dev/)|
 |Py's blog|[Link](https://py.hashnode.dev/)|
@@ -155,8 +157,8 @@ Personal Blogs
 |Stories by Christophe Beyls on Medium|[Link](https://medium.com/@bladecoder?source=rss-54910f05af37------2)|
 |Shreyas Patil's Blog|[Link](https://blog.shreyaspatil.dev/)|
 |Stories by Jossi Wolf on Medium|[Link](https://medium.com/@jossiwolf?source=rss-8efc0359e234------2)|
-|Zach Klippenstein|[Link](https://dev.to/zachklipp)|
-|Joel on Software|[Link](https://www.joelonsoftware.com/)|
+|Py ⚔|[Link](https://dev.to/pyricau)|
+|Anton Shilov|[Link](https://dev.to/antonshilov)|
 |Fanny Demey|[Link](https://dev.to/fannydemey)|
 |>рабочие заметки|[Link](https://dev.cheremin.info/)|
 |Tagir Valeev|[Link](https://habr.com/en/)|
@@ -166,7 +168,6 @@ Personal Blogs
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
 |Matt McKenna|[Link](https://mmckenna.me/)|
 |Jake Wharton|[Link](http://jakewharton.com/)|
-|tonsky.me|[Link](http://tonsky.me/)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
 |Marco.org|[Link](https://marco.org/)|
 |Artur Dryomov|[Link](https://arturdryomov.dev/)|
@@ -198,8 +199,8 @@ Personal Blogs
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
-|  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |zsmb.co|[Link](https://zsmb.co/)|
