@@ -49,7 +49,6 @@ Java
 |Title|URL|
 |--|--|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
-|Oracle Blogs \| Java Magazine|[Link](https://blogs.oracle.com/javamagazine/compendium/rss)|
 |Javarevisited|[Link](http://javarevisited.blogspot.com/)|
 
 
@@ -123,29 +122,30 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
-|Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
+|vladsonkin.com|[Link](https://vladsonkin.com/)|
+|Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Chris Banes|[Link](https://chris.banes.dev/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
-|Fernando Cejas Blog|[Link](http://fernandocejas.com/)|
+|Saagar Jha|[Link](https://saagarjha.com/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
 |Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
-|vladsonkin.com|[Link](https://vladsonkin.com/)|
-|Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
+|Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
+|Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
 |Magda Miu|[Link](https://magdamiu.com/)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
-|Saagar Jha|[Link](https://saagarjha.com/)|
+|Louis CAD doing software|[Link](https://blog.louiscad.com/)|
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
 |Handstand Sam|[Link](https://handstandsam.com/)|
-|Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
-|Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
+|Database Architects|[Link](https://databasearchitects.blogspot.com/)|
+|Fernando Cejas Blog|[Link](http://fernandocejas.com/)|
 |Stories by Christophe Beyls on Medium|[Link](https://medium.com/@bladecoder?source=rss-54910f05af37------2)|
 |Shreyas Patil's Blog|[Link](https://blog.shreyaspatil.dev/)|
 |Stories by Jossi Wolf on Medium|[Link](https://medium.com/@jossiwolf?source=rss-8efc0359e234------2)|
@@ -155,8 +155,8 @@ Personal Blogs
 |>рабочие заметки|[Link](https://dev.cheremin.info/)|
 |Tagir Valeev|[Link](https://habr.com/en/)|
 |Signs of Triviality|[Link](http://www.netmeister.org/blog/)|
-|Database Architects|[Link](https://databasearchitects.blogspot.com/)|
-|Zac Sweers|[Link](https://www.zacsweers.dev/)|
+|Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
+|Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
 |Matt McKenna|[Link](https://mmckenna.me/)|
 |Jake Wharton|[Link](http://jakewharton.com/)|
@@ -165,8 +165,8 @@ Personal Blogs
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
 |Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
-|Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
-|Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
+|Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
+|Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
@@ -176,18 +176,19 @@ Personal Blogs
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Artem Zinnatullin - Android Hipster|[Link](http://artemzin.com/blog/)|
 |Akarnokd - Advanced RxJava|[Link](http://akarnokd.blogspot.com/)|
-|Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
-|Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
-|Louis CAD doing software|[Link](https://blog.louiscad.com/)|
+|The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
+|Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Py's blog|[Link](https://py.hashnode.dev/)|
 |Zarah Dominguez|[Link](https://zarah.dev/)|
 |Pushing Pixels|[Link](https://www.pushing-pixels.org/)|
 |vadzimv Dev Blog|[Link](https://vadzimv.dev/)|
-|Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Crushing C.O.D.E|[Link](https://crushingcode.nisrulz.com/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Victor Brandalise|[Link](https://victorbrandalise.com/)|
-|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|Blundell|[Link](https://blog.blundellapps.co.uk/)|
+|Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
+|Zac Sweers|[Link](https://www.zacsweers.dev/)|
 |Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
@@ -197,7 +198,7 @@ Personal Blogs
 |Antonio Leiva|[Link](https://antonioleiva.com/)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
-|Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
+|Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
 |zsmb.co|[Link](https://zsmb.co/)|
 |Public Object|[Link](https://publicobject.com/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
@@ -206,7 +207,6 @@ Personal Blogs
 |Stories by Matthew Dolan on Medium|[Link](https://medium.com/@appmattus?source=rss-be40b368c57e------2)|
 |👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
-|The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
