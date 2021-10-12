@@ -146,7 +146,8 @@ Personal Blogs
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
-|Stories by Christophe Beyls on Medium|[Link](https://medium.com/@bladecoder?source=rss-54910f05af37------2)|
+|Fernando Cejas Blog|[Link](http://fernandocejas.com/)|
+|Stories by Yigit Boyar on Medium|[Link](https://medium.com/@yigit?source=rss-9f0ead35e83b------2)|
 |Sid Patil - Android Engineer and Kotlin Advocate|[Link](https://siddroid.com/)|
 |Blundell|[Link](https://blog.blundellapps.co.uk/)|
 |Victor Brandalise|[Link](https://victorbrandalise.com/)|
@@ -157,8 +158,8 @@ Personal Blogs
 |Py's blog|[Link](https://py.hashnode.dev/)|
 |Louis CAD doing software|[Link](https://blog.louiscad.com/)|
 |Saagar Jha|[Link](https://saagarjha.com/)|
-|Fernando Cejas Blog|[Link](http://fernandocejas.com/)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
+|Stories by Christophe Beyls on Medium|[Link](https://medium.com/@bladecoder?source=rss-54910f05af37------2)|
 |Shreyas Patil's Blog|[Link](https://blog.shreyaspatil.dev/)|
 |Stories by Jossi Wolf on Medium|[Link](https://medium.com/@jossiwolf?source=rss-8efc0359e234------2)|
 |Zach Klippenstein|[Link](https://dev.to/zachklipp)|
@@ -189,8 +190,8 @@ Personal Blogs
 |Akarnokd - Advanced RxJava|[Link](http://akarnokd.blogspot.com/)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
-|Rock and Null|[Link](https://www.rockandnull.com/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
+|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
 |Handstand Sam|[Link](https://handstandsam.com/)|
@@ -199,7 +200,7 @@ Personal Blogs
 |Ivan Morgillo|[Link](https://ivanmorgillo.com/)|
 |Lukas Lechner|[Link](https://www.lukaslechner.com/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
-|Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
+|Rock and Null|[Link](https://www.rockandnull.com/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Antonio Leiva|[Link](https://antonioleiva.com/)|
