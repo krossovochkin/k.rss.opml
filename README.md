@@ -71,8 +71,7 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
-|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
+|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
@@ -83,8 +82,8 @@ Company Blogs
 |Uber Engineering Blog|[Link](http://eng.uber.com/)|
 |Bugsnag Blog|[Link](https://www.bugsnag.com/)|
 |The GitHub Blog|[Link](https://github.blog/)|
-|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
-|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
+|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
+|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
 |Spotify Engineering|[Link](https://engineering.atspotify.com)|
 |Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
@@ -94,7 +93,8 @@ Company Blogs
 |Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
 |xorum.io - Medium|[Link](https://medium.com/xorum-io?source=rss----92bb7980cc9f---4)|
 |Discord Blog|[Link](https://discordpages.webflow.io/)|
-|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|Blog – Bloco|[Link](http://www.bloco.io/blog/)|
+|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
@@ -104,8 +104,8 @@ Company Blogs
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
+|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
@@ -115,6 +115,7 @@ Company Blogs
 |Slack Engineering|[Link](https://slack.engineering/)|
 |The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
 |Cash App Code Blog|[Link](https://code.cash.app/)|
+|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
