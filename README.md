@@ -41,6 +41,7 @@ Kotlin
 |Kotlin Testing|[Link](https://kotlintesting.com/)|
 |Kotlin|[Link](https://dev.to/kotlin)|
 |Kt. Academy|[Link](https://kt.academy/article)|
+|FunkyMuse|[Link](https://funkymuse.github.io/)|
 |JetBrains Kotlin Blog|[Link](http://blog.jetbrains.com/kotlin)|
 
 
@@ -71,8 +72,7 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
-|Facebook Engineering|[Link](https://engineering.fb.com/)|
+|Spotify Engineering|[Link](https://engineering.atspotify.com)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Touchlab|[Link](https://dev.to/touchlab)|
@@ -83,8 +83,8 @@ Company Blogs
 |Bugsnag Blog|[Link](https://www.bugsnag.com/)|
 |The GitHub Blog|[Link](https://github.blog/)|
 |LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
-|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
-|Spotify Engineering|[Link](https://engineering.atspotify.com)|
+|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
+|Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
@@ -95,6 +95,7 @@ Company Blogs
 |Discord Blog|[Link](https://discordpages.webflow.io/)|
 |Blog – Bloco|[Link](http://www.bloco.io/blog/)|
 |JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
+|Instil|[Link](https://instil.co/)|
 |HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
@@ -117,6 +118,7 @@ Company Blogs
 |The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
 |Cash App Code Blog|[Link](https://code.cash.app/)|
 |«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
+|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
@@ -215,6 +217,13 @@ Personal Blogs
 |Amanjeet Singh|[Link](https://www.amanjeet.me/)|
 |Stories by Kevin Galligan on Medium|[Link](https://medium.com/@kpgalligan?source=rss-c2f810aa7890------2)|
 |Stories by Aurimas on Medium|[Link](https://medium.com/@liutikas?source=rss-4b46415d72ec------2)|
+|FunkyMuse|[Link](https://funkymuse.github.io/)|
+|Android – Big Nerd Ranch|[Link](https://bignerdranch.com/)|
+|Emily Kager|[Link](https://www.emilykager.com/)|
+|Dmytro Shuba|[Link](https://dmytroshuba.com/)|
+|AKJAW|[Link](https://akjaw.com/)|
+|Thomas Künneth|[Link](https://dev.to/tkuenneth)|
+|Ian Bird|[Link](https://ianbird.dev/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
