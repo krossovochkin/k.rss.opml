@@ -126,6 +126,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Martin Bonnin's blog|[Link](https://blog.mbonnin.net/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
