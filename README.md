@@ -72,8 +72,9 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
-|Spotify Engineering|[Link](https://engineering.atspotify.com)|
+|Microsoft Developer Blogs|[Link](https://devblogs.microsoft.com/)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
+|Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Touchlab|[Link](https://dev.to/touchlab)|
 |OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
@@ -84,7 +85,7 @@ Company Blogs
 |The GitHub Blog|[Link](https://github.blog/)|
 |LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
 |Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
-|Facebook Engineering|[Link](https://engineering.fb.com/)|
+|Spotify Engineering|[Link](https://engineering.atspotify.com)|
 |Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
@@ -126,6 +127,8 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Vandolf Estrellado|[Link](https://dev.to/vestrel00)|
+|Stories by Chao Zhang on Medium|[Link](https://medium.com/@chao2zhang?source=rss-d19045640fe------2)|
 |Martin Bonnin's blog|[Link](https://blog.mbonnin.net/)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
