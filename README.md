@@ -11,7 +11,8 @@ Android
 ---
 |Title|URL|
 |--|--|
-|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
+|mobile.dev - Medium|[Link](https://blog.mobile.dev/?source=rss----d95a079d5277---4)|
+|Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
 |Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
@@ -20,7 +21,7 @@ Android
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
-|Android Weekly|[Link](http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19)|
+|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
@@ -72,11 +73,13 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
+|"Кошелёк" RU|[Link](https://habr.com/ru/company/koshelek/blog/)|
+|Festina Sweden|[Link](https://www.festinasweden.se/)|
+|Mercado Libre Tech - Medium|[Link](https://medium.com/mercadolibre-tech?source=rss----5011f85401f0---4)|
+|Stories by IceRock Development on Medium|[Link](https://medium.com/@icerock?source=rss-2f461fccc401------2)|
 |Microsoft Developer Blogs|[Link](https://devblogs.microsoft.com/)|
-|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
-|Facebook Engineering|[Link](https://engineering.fb.com/)|
-|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Touchlab|[Link](https://dev.to/touchlab)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
 |Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
 |SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
@@ -97,7 +100,7 @@ Company Blogs
 |Blog – Bloco|[Link](http://www.bloco.io/blog/)|
 |JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
 |Instil|[Link](https://instil.co/)|
-|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
@@ -108,8 +111,8 @@ Company Blogs
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
@@ -120,6 +123,8 @@ Company Blogs
 |Cash App Code Blog|[Link](https://code.cash.app/)|
 |«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|
+|Facebook Engineering|[Link](https://engineering.fb.com/)|
+|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
@@ -127,6 +132,8 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Max Kim|[Link](https://maxkim.eu/)|
+|Richard Startin’s Blog|[Link](https://richardstartin.github.io/)|
 |Vandolf Estrellado|[Link](https://dev.to/vestrel00)|
 |Stories by Chao Zhang on Medium|[Link](https://medium.com/@chao2zhang?source=rss-d19045640fe------2)|
 |Martin Bonnin's blog|[Link](https://blog.mbonnin.net/)|
