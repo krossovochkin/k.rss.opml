@@ -50,6 +50,7 @@ Java
 ---
 |Title|URL|
 |--|--|
+|Java Advent Calendar|[Link](http://www.javaadvent.com/)|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |Javarevisited|[Link](http://javarevisited.blogspot.com/)|
 
@@ -73,23 +74,24 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
+|betclic-tech - Medium|[Link](https://medium.com/betclic-tech?source=rss----7e406d68d94b---4)|
+|Making Meetup - Medium|[Link](https://medium.com/making-meetup?source=rss----6981e268ba45---4)|
 |"Кошелёк" RU|[Link](https://habr.com/ru/company/koshelek/blog/)|
 |Festina Sweden|[Link](https://www.festinasweden.se/)|
 |Mercado Libre Tech - Medium|[Link](https://medium.com/mercadolibre-tech?source=rss----5011f85401f0---4)|
 |Stories by IceRock Development on Medium|[Link](https://medium.com/@icerock?source=rss-2f461fccc401------2)|
 |Microsoft Developer Blogs|[Link](https://devblogs.microsoft.com/)|
-|Touchlab|[Link](https://dev.to/touchlab)|
-|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
-|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
-|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
-|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
-|Uber Engineering Blog|[Link](http://eng.uber.com/)|
-|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
-|The GitHub Blog|[Link](https://github.blog/)|
-|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
-|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
-|Spotify Engineering|[Link](https://engineering.atspotify.com)|
 |Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
+|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
+|Spotify Engineering|[Link](https://engineering.atspotify.com)|
+|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
+|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
+|The GitHub Blog|[Link](https://github.blog/)|
+|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
+|Uber Engineering Blog|[Link](http://eng.uber.com/)|
+|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
+|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
+|Touchlab|[Link](https://dev.to/touchlab)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
 |Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
@@ -100,7 +102,7 @@ Company Blogs
 |Blog – Bloco|[Link](http://www.bloco.io/blog/)|
 |JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
 |Instil|[Link](https://instil.co/)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
@@ -112,8 +114,8 @@ Company Blogs
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
 |Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
@@ -125,6 +127,7 @@ Company Blogs
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 
 
@@ -132,6 +135,11 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Sergio's little tech corner|[Link](https://sergiosastre.hashnode.dev/)|
+|Stories by Julien Salvi on Medium|[Link](https://medium.com/@juliensalvi?source=rss-cbfc736ddcd3------2)|
+|Oleksandr Masliukivskyi|[Link](https://dev.to/oleksandr_masliukivskyi_1)|
+|Thoughts, stories and ideas.|[Link](https://lengrand.fr/)|
+|Enterprise xml best programming agile practices patterns|[Link](https://dkandalov.github.io/)|
 |Max Kim|[Link](https://maxkim.eu/)|
 |Richard Startin’s Blog|[Link](https://richardstartin.github.io/)|
 |Vandolf Estrellado|[Link](https://dev.to/vestrel00)|
