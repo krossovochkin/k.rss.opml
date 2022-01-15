@@ -4,6 +4,7 @@
     <title>Feeds of Vasya Drobushkov from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
+    <outline text="Matt McKenna" title="Matt McKenna" type="rss" xmlUrl="https://blog.mmckenna.me/rss.xml" htmlUrl="https://blog.mmckenna.me/"/>
     <outline text="Android" title="Android">
       <outline text="mobile.dev - Medium" title="mobile.dev - Medium" type="rss" xmlUrl="https://blog.mobile.dev/feed" htmlUrl="https://blog.mobile.dev/?source=rss----d95a079d5277---4"/>
       <outline text="Android Weekly" title="Android Weekly" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
@@ -160,7 +161,6 @@
       <outline text="Stories by Danny Preussler on Medium" title="Stories by Danny Preussler on Medium" type="rss" xmlUrl="https://medium.com/feed/@dpreussler" htmlUrl="https://medium.com/@dpreussler?source=rss-1331e67af4e1------2"/>
       <outline text="Magda Miu" title="Magda Miu" type="rss" xmlUrl="https://magdamiu.com/feed/" htmlUrl="https://magdamiu.com/"/>
       <outline text="Posts on Marco Gomiero" title="Posts on Marco Gomiero" type="rss" xmlUrl="https://www.marcogomiero.com/posts/index.xml" htmlUrl="https://www.marcogomiero.com/posts/"/>
-      <outline text="vladsonkin.com" title="vladsonkin.com" type="rss" xmlUrl="https://vladsonkin.com/feed/" htmlUrl="https://vladsonkin.com/"/>
       <outline text="John O'Reilly" title="John O'Reilly" type="rss" xmlUrl="https://johnoreilly.dev/atom.xml" htmlUrl="https://johnoreilly.dev/"/>
       <outline text="Alex Zhuk - Android development and testing" title="Alex Zhuk - Android development and testing" type="rss" xmlUrl="https://alexzh.com/rss/" htmlUrl="https://alexzh.com/"/>
       <outline text="Jeroen Mols" title="Jeroen Mols" type="rss" xmlUrl="https://jeroenmols.com/atom.xml" htmlUrl="https://jeroenmols.com/"/>
@@ -177,7 +177,6 @@
       <outline text="Will Larson - Irrational Exuberance" title="Will Larson - Irrational Exuberance" type="rss" xmlUrl="https://lethain.com/feeds/" htmlUrl="https://lethain.com/"/>
       <outline text="tonsky.me" title="tonsky.me" type="rss" xmlUrl="http://tonsky.me/blog/atom.xml" htmlUrl="http://tonsky.me/"/>
       <outline text="Jake Wharton" title="Jake Wharton" type="rss" xmlUrl="https://jakewharton.com/atom.xml" htmlUrl="http://jakewharton.com/"/>
-      <outline text="Matt McKenna" title="Matt McKenna" type="rss" xmlUrl="https://mmckenna.me/rss.xml" htmlUrl="https://mmckenna.me/"/>
       <outline text="Benjamin Monjoie" title="Benjamin Monjoie" type="rss" xmlUrl="https://dev.to/feed/bmonjoie" htmlUrl="https://dev.to/bmonjoie"/>
       <outline text="Stories by Yahor Urbanovich on Medium" title="Stories by Yahor Urbanovich on Medium" type="rss" xmlUrl="https://medium.com/feed/@egorikftp" htmlUrl="https://medium.com/@egorikftp?source=rss-e93d234beac6------2"/>
       <outline text="Database Architects" title="Database Architects" type="rss" xmlUrl="https://databasearchitects.blogspot.com/feeds/posts/default" htmlUrl="https://databasearchitects.blogspot.com/"/>

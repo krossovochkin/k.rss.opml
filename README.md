@@ -190,7 +190,6 @@ Personal Blogs
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Magda Miu|[Link](https://magdamiu.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
-|vladsonkin.com|[Link](https://vladsonkin.com/)|
 |John O'Reilly|[Link](https://johnoreilly.dev/)|
 |Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
@@ -207,7 +206,6 @@ Personal Blogs
 |Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
 |tonsky.me|[Link](http://tonsky.me/)|
 |Jake Wharton|[Link](http://jakewharton.com/)|
-|Matt McKenna|[Link](https://mmckenna.me/)|
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
 |Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
 |Database Architects|[Link](https://databasearchitects.blogspot.com/)|
