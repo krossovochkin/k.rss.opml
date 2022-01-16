@@ -135,6 +135,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Matt McKenna|[Link](https://blog.mmckenna.me/)|
 |Sergio's little tech corner|[Link](https://sergiosastre.hashnode.dev/)|
 |Stories by Julien Salvi on Medium|[Link](https://medium.com/@juliensalvi?source=rss-cbfc736ddcd3------2)|
 |Oleksandr Masliukivskyi|[Link](https://dev.to/oleksandr_masliukivskyi_1)|

@@ -4,7 +4,6 @@
     <title>Feeds of Vasya Drobushkov from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
-    <outline text="Matt McKenna" title="Matt McKenna" type="rss" xmlUrl="https://blog.mmckenna.me/rss.xml" htmlUrl="https://blog.mmckenna.me/"/>
     <outline text="Android" title="Android">
       <outline text="mobile.dev - Medium" title="mobile.dev - Medium" type="rss" xmlUrl="https://blog.mobile.dev/feed" htmlUrl="https://blog.mobile.dev/?source=rss----d95a079d5277---4"/>
       <outline text="Android Weekly" title="Android Weekly" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
@@ -106,6 +105,7 @@
       <outline text="Fibery.io" title="Fibery.io" type="rss" xmlUrl="https://blog.fibery.io/rss.xml" htmlUrl="https://blog.fibery.io/"/>
     </outline>
     <outline text="Personal Blogs" title="Personal Blogs">
+      <outline text="Matt McKenna" title="Matt McKenna" type="rss" xmlUrl="https://blog.mmckenna.me/rss.xml" htmlUrl="https://blog.mmckenna.me/"/>
       <outline text="Sergio's little tech corner" title="Sergio's little tech corner" type="rss" xmlUrl="https://sergiosastre.hashnode.dev/rss.xml" htmlUrl="https://sergiosastre.hashnode.dev/"/>
       <outline text="Stories by Julien Salvi on Medium" title="Stories by Julien Salvi on Medium" type="rss" xmlUrl="https://medium.com/feed/@juliensalvi" htmlUrl="https://medium.com/@juliensalvi?source=rss-cbfc736ddcd3------2"/>
       <outline text="Oleksandr Masliukivskyi" title="Oleksandr Masliukivskyi" type="rss" xmlUrl="https://dev.to/feed/oleksandr_masliukivskyi_1" htmlUrl="https://dev.to/oleksandr_masliukivskyi_1"/>
