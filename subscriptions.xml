@@ -5,8 +5,9 @@
   </head>
   <body>
     <outline text="Android" title="Android">
+      <outline text="Esper Blog" title="Esper Blog" type="rss" xmlUrl="https://blog.esper.io/feed/" htmlUrl="https://blog.esper.io/"/>
       <outline text="mobile.dev - Medium" title="mobile.dev - Medium" type="rss" xmlUrl="https://blog.mobile.dev/feed" htmlUrl="https://blog.mobile.dev/?source=rss----d95a079d5277---4"/>
-      <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="https://www.raywenderlich.com/feed" htmlUrl="https://www.raywenderlich.com/"/>
+      <outline text="Google Android Blog" title="Google Android Blog" type="rss" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products/android/"/>
       <outline text="Kodein Koders - Medium" title="Kodein Koders - Medium" type="rss" xmlUrl="https://medium.com/feed/kodein-koders" htmlUrl="https://medium.com/kodein-koders?source=rss----f311f45ef54---4"/>
       <outline text="Styling Android" title="Styling Android" type="rss" xmlUrl="http://feeds.feedburner.com/StylingAndroid" htmlUrl="http://blog.stylingandroid.com/"/>
       <outline text="Android &amp; Tech News — Medium" title="Android &amp; Tech News — Medium" type="rss" xmlUrl="https://medium.com/feed/android-news" htmlUrl="https://medium.com/android-news?source=rss----8fca399d4de---4"/>
@@ -14,7 +15,7 @@
       <outline text="Mobile App Development Publication - Medium" title="Mobile App Development Publication - Medium" type="rss" xmlUrl="https://medium.com/feed/mobile-app-development-publication" htmlUrl="https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4"/>
       <outline text="AndroidX Release Notes" title="AndroidX Release Notes" type="rss" xmlUrl="http://feeds.feedburner.com/android/lUne?format=xml" htmlUrl="http://feeds.feedburner.com/android/lUne?format=xml"/>
       <outline text="Google Developer Experts - Medium" title="Google Developer Experts - Medium" type="rss" xmlUrl="https://medium.com/feed/google-developer-experts" htmlUrl="https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4"/>
-      <outline text="Google Android Blog" title="Google Android Blog" type="rss" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products/android/"/>
+      <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="https://www.raywenderlich.com/feed" htmlUrl="https://www.raywenderlich.com/"/>
       <outline text="Android Studio Release Updates" title="Android Studio Release Updates" type="rss" xmlUrl="https://androidstudio.googleblog.com/feeds/posts/default" htmlUrl="http://androidstudio.googleblog.com/"/>
       <outline text="Android@Microsoft - Medium" title="Android@Microsoft - Medium" type="rss" xmlUrl="https://medium.com/feed/android-microsoft" htmlUrl="https://medium.com/android-microsoft?source=rss----87f10537e947---4"/>
       <outline text="Mindorks - Medium" title="Mindorks - Medium" type="rss" xmlUrl="https://medium.com/feed/mindorks" htmlUrl="https://medium.com/mindorks?source=rss----f1a763fc7443---4"/>
@@ -104,6 +105,7 @@
       <outline text="Fibery.io" title="Fibery.io" type="rss" xmlUrl="https://blog.fibery.io/rss.xml" htmlUrl="https://blog.fibery.io/"/>
     </outline>
     <outline text="Personal Blogs" title="Personal Blogs">
+      <outline text="Arkadiusz Chmura" title="Arkadiusz Chmura" type="rss" xmlUrl="https://arkadiuszchmura.com/index.xml" htmlUrl="https://arkadiuszchmura.com/"/>
       <outline text="Steve Barnegren" title="Steve Barnegren" type="rss" xmlUrl="https://www.steveonstuff.com/feed.xml" htmlUrl="https://www.stevebarnegren.com"/>
       <outline text="Bartosz Ciechanowski" title="Bartosz Ciechanowski" type="rss" xmlUrl="https://ciechanow.ski/atom.xml" htmlUrl="https://ciechanow.ski/"/>
       <outline text="Matt McKenna" title="Matt McKenna" type="rss" xmlUrl="https://blog.mmckenna.me/rss.xml" htmlUrl="https://blog.mmckenna.me/"/>

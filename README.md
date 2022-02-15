@@ -11,8 +11,9 @@ Android
 ---
 |Title|URL|
 |--|--|
+|Esper Blog|[Link](https://blog.esper.io/)|
 |mobile.dev - Medium|[Link](https://blog.mobile.dev/?source=rss----d95a079d5277---4)|
-|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
+|Google Android Blog|[Link](https://blog.google/products/android/)|
 |Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
@@ -20,7 +21,7 @@ Android
 |Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
-|Google Android Blog|[Link](https://blog.google/products/android/)|
+|Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
 |Mindorks - Medium|[Link](https://medium.com/mindorks?source=rss----f1a763fc7443---4)|
@@ -134,6 +135,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Arkadiusz Chmura|[Link](https://arkadiuszchmura.com/)|
 |Steve Barnegren|[Link](https://www.stevebarnegren.com)|
 |Bartosz Ciechanowski|[Link](https://ciechanow.ski/)|
 |Matt McKenna|[Link](https://blog.mmckenna.me/)|
