@@ -37,6 +37,7 @@ Kotlin
 ---
 |Title|URL|
 |--|--|
+|Koin developers - Medium|[Link](https://medium.com/koin-developers?source=rss----925561f2ecdf---4)|
 |Kotlin Academy - Medium|[Link](https://blog.kotlin-academy.com/?source=rss----e57b304801ef---4)|
 |Kotlin Weekly|[Link](https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6)|
 |Kotlin Testing|[Link](https://kotlintesting.com/)|
@@ -74,6 +75,7 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
+|Spotify Engineering Blog|[Link](https://engineering.atspotify.com)|
 |47 Degrees|[Link](https://www.47deg.com/blog/)|
 |betclic-tech - Medium|[Link](https://medium.com/betclic-tech?source=rss----7e406d68d94b---4)|
 |Making Meetup - Medium|[Link](https://medium.com/making-meetup?source=rss----6981e268ba45---4)|
@@ -82,16 +84,15 @@ Company Blogs
 |Mercado Libre Tech - Medium|[Link](https://medium.com/mercadolibre-tech?source=rss----5011f85401f0---4)|
 |Stories by IceRock Development on Medium|[Link](https://medium.com/@icerock?source=rss-2f461fccc401------2)|
 |Microsoft Developer Blogs|[Link](https://devblogs.microsoft.com/)|
-|Spotify Engineering|[Link](https://engineering.atspotify.com)|
 |OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
-|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
-|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
-|The GitHub Blog|[Link](https://github.blog/)|
-|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
-|Uber Engineering Blog|[Link](http://eng.uber.com/)|
-|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
-|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
 |Touchlab|[Link](https://dev.to/touchlab)|
+|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
+|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
+|Uber Engineering Blog|[Link](http://eng.uber.com/)|
+|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
+|The GitHub Blog|[Link](https://github.blog/)|
+|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
+|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
 |Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
@@ -135,6 +136,10 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Jake Lee’s Programming Blog|[Link](https://blog.jakelee.co.uk/)|
+|The Eclectic Engineer|[Link](https://theeclecticengineer.com/)|
+|nomisRev|[Link](http://nomisrev.github.io/)|
+|The Turn Signal|[Link](https://theturnsignalblog.com/)|
 |Arkadiusz Chmura|[Link](https://arkadiuszchmura.com/)|
 |Steve Barnegren|[Link](https://www.stevebarnegren.com)|
 |Bartosz Ciechanowski|[Link](https://ciechanow.ski/)|
@@ -190,7 +195,6 @@ Personal Blogs
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Stories by Andrey Breslav on Medium|[Link](https://medium.com/@abreslav?source=rss-e821c45acf49------2)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
-|Jake Lee|[Link](https://blog.jakelee.co.uk/)|
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Magda Miu|[Link](https://magdamiu.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
