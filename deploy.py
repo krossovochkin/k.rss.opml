@@ -41,8 +41,7 @@ This repository contains OPML file with subscriptions list of blogs in various a
 RSS is still the best way to get new content as soon as possible.  
 To use RSS and this list one should download [OPML file](https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/{urllib.parse.quote(input)}) and import with with [Inoreader](https://www.inoreader.com/blog/2014/04/opml-import-additions.html) or [Feedly](https://blog.feedly.com/opml/)
 
-Optionally, one can take a look at the list of resources below.  
-They are grouped by topic. Additionally at the bottom there are resources hosted on Medium.com and on Reddit.com.
+Optionally, one can take a look at the list of resources group by topic below.
 """, file = output)
 	
 def printSection(caption, items, output):
