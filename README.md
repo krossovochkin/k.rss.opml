@@ -53,6 +53,7 @@ Java
 |--|--|
 |Java Advent Calendar|[Link](http://www.javaadvent.com/)|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
+|High Scalability|[Link](http://highscalability.com/blog/)|
 |Javarevisited|[Link](http://javarevisited.blogspot.com/)|
 
 
@@ -75,6 +76,22 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
+|Salesforce Developers Blogs|[Link](https://developer.salesforce.com/blogs)|
+|Zoom Developer Blog - Medium|[Link](https://medium.com/zoom-developer-blog?source=rss----4a85731adaff---4)|
+|Yelp Engineering and Product Blog|[Link](https://engineeringblog.yelp.com/)|
+|Yahoo Engineering|[Link](http://yahooeng.tumblr.com/)|
+|Thumbtack Engineering - Medium|[Link](https://medium.com/thumbtack-engineering?source=rss----1199c607a13f---4)|
+|Spotify Labs|[Link](https://labs.spotify.com/)|
+|Stripe Blog|[Link](https://stripe.com/blog)|
+|Shopify Engineering - Shopify Engineering|[Link](https://shopify.engineering/)|
+|Technology at PayPal - Medium|[Link](https://medium.com/paypal-tech?source=rss----6423323524ba---4)|
+|Nextdoor Engineering — Medium|[Link](https://engblog.nextdoor.com/)|
+|Blog – Mixpanel|[Link](https://mxpnlcms.wpengine.com/)|
+|tech-at-instacart - Medium|[Link](https://tech.instacart.com/?source=rss----587883b5d2ee---4)|
+|The BitTorrent Engineering Blog \| Notes from the front lines of BitTorrent innovation|[Link](http://engineering.bittorrent.com/)|
+|Atlassian Developer Blog|[Link](https://blog.developer.atlassian.com/)|
+|The Asana Blog|[Link](https://blog.asana.com/)|
+|Appstore Blogs|[Link](https://developer.amazon.com/blogs/appstore/)|
 |Spotify Engineering Blog|[Link](https://engineering.atspotify.com)|
 |47 Degrees|[Link](https://www.47deg.com/blog/)|
 |betclic-tech - Medium|[Link](https://medium.com/betclic-tech?source=rss----7e406d68d94b---4)|
@@ -84,18 +101,10 @@ Company Blogs
 |Mercado Libre Tech - Medium|[Link](https://medium.com/mercadolibre-tech?source=rss----5011f85401f0---4)|
 |Stories by IceRock Development on Medium|[Link](https://medium.com/@icerock?source=rss-2f461fccc401------2)|
 |Microsoft Developer Blogs|[Link](https://devblogs.microsoft.com/)|
-|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
-|Touchlab|[Link](https://dev.to/touchlab)|
-|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
-|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
-|Uber Engineering Blog|[Link](http://eng.uber.com/)|
-|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
-|The GitHub Blog|[Link](https://github.blog/)|
-|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
-|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
 |Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
-|Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
+|Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
 |Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
 |Engineering blog \| The Guardian|[Link](https://www.theguardian.com/info/series/engineering-blog)|
 |Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
@@ -103,33 +112,46 @@ Company Blogs
 |Discord Blog|[Link](https://discordpages.webflow.io/)|
 |Blog – Bloco|[Link](http://www.bloco.io/blog/)|
 |JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
-|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
-|Square Corner Blog|[Link](https://developer.squareup.com/blog)|
-|Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
-|Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
-|Google Developers Blog|[Link](http://developers.googleblog.com/)|
-|The Firebase Blog|[Link](http://firebase.googleblog.com/)|
-|The Gradle Blog|[Link](https://blog.gradle.org/)|
-|QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
 |Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
-|Google Testing Blog|[Link](http://testing.googleblog.com/)|
-|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
-|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
-|Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
 |Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
-|Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
-|Slack Engineering|[Link](https://slack.engineering/)|
-|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
-|Cash App Code Blog|[Link](https://code.cash.app/)|
-|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
-|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
+|Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
+|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
+|Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
+|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
+|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|Google Testing Blog|[Link](http://testing.googleblog.com/)|
+|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
+|QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
+|The Gradle Blog|[Link](https://blog.gradle.org/)|
+|The Firebase Blog|[Link](http://firebase.googleblog.com/)|
+|Google Developers Blog|[Link](http://developers.googleblog.com/)|
+|Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
+|Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
+|Square Corner Blog|[Link](https://developer.squareup.com/blog)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
-|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
+|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
+|The GitHub Blog|[Link](https://github.blog/)|
+|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
+|Uber Engineering Blog|[Link](http://eng.uber.com/)|
+|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
+|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
+|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
+|Touchlab|[Link](https://dev.to/touchlab)|
 |Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
+|Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
+|Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
+|Facebook Developers|[Link](https://developers.facebook.com/blog/)|
+|«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
+|Cash App Code Blog|[Link](https://code.cash.app/)|
+|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
+|Slack Engineering|[Link](https://slack.engineering/)|
+|Groupon Engineering — Medium|[Link](https://medium.com/groupon-eng?source=rss----5c13a88f9872---4)|
+|Engineering – The GitHub Blog|[Link](https://github.blog/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
+|eBay Tech Blog|[Link](https://tech.ebayinc.com/rss/)|
+|Docker|[Link](https://www.docker.com/)|
+|Cloudera Developer Blog|[Link](https://blog.cloudera.com/)|
 
 
 Personal Blogs
