@@ -12,7 +12,6 @@ Android
 |--|--|
 |Esper Blog|[Link](https://blog.esper.io/)|
 |mobile.dev - Medium|[Link](https://blog.mobile.dev/?source=rss----d95a079d5277---4)|
-|Google Android Blog|[Link](https://blog.google/products/android/)|
 |Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
@@ -20,6 +19,7 @@ Android
 |Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
+|Google Android Blog|[Link](https://blog.google/products/android/)|
 |Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
@@ -27,8 +27,9 @@ Android
 |ProAndroidDev - Medium|[Link](https://proandroiddev.com/?source=rss----c72404660798---4)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
 |Grokking Android|[Link](https://www.grokkingandroid.com/)|
-|Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
+|Android Blog - Mobile Dev Notes|[Link](https://www.valueof.io/)|
 |TechYourChance|[Link](https://www.techyourchance.com/)|
+|Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
 |Android UI Patterns - Medium|[Link](https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4)|
 
 
@@ -50,9 +51,12 @@ Java
 ---
 |Title|URL|
 |--|--|
+|A Java geek|[Link](https://nfrankel.gitlab.io/)|
+|Treehouse Blog|[Link](https://blog.teamtreehouse.com/)|
 |Java Advent Calendar|[Link](http://www.javaadvent.com/)|
 |Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |High Scalability|[Link](http://highscalability.com/blog/)|
+|Brave New Geek|[Link](https://bravenewgeek.com/)|
 |Javarevisited|[Link](http://javarevisited.blogspot.com/)|
 
 
@@ -75,6 +79,13 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
+|YAZIO Engineering - Medium|[Link](https://medium.com/yazio-engineering?source=rss----65bd178b00af---4)|
+|DaCast|[Link](https://www.dacast.com/)|
+|Giant Robots Smashing Into Other Giant Robots|[Link](https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots)|
+|code.flickr.com|[Link](http://code.flickr.net/)|
+|Canopas - Medium|[Link](https://blog.canopas.com/?source=rss----87b7877ee31e---4)|
+|iOS & Android Mobile App Development Company – Droids On Roids –  Poland|[Link](https://www.thedroidsonroids.com/)|
+|Sentry Blog|[Link](https://blog.sentry.io/)|
 |Salesforce Developers Blogs|[Link](https://developer.salesforce.com/blogs)|
 |Zoom Developer Blog - Medium|[Link](https://medium.com/zoom-developer-blog?source=rss----4a85731adaff---4)|
 |Yelp Engineering and Product Blog|[Link](https://engineeringblog.yelp.com/)|
@@ -87,7 +98,6 @@ Company Blogs
 |Nextdoor Engineering — Medium|[Link](https://engblog.nextdoor.com/)|
 |Blog – Mixpanel|[Link](https://mxpnlcms.wpengine.com/)|
 |tech-at-instacart - Medium|[Link](https://tech.instacart.com/?source=rss----587883b5d2ee---4)|
-|The BitTorrent Engineering Blog \| Notes from the front lines of BitTorrent innovation|[Link](http://engineering.bittorrent.com/)|
 |Atlassian Developer Blog|[Link](https://blog.developer.atlassian.com/)|
 |The Asana Blog|[Link](https://blog.asana.com/)|
 |Appstore Blogs|[Link](https://developer.amazon.com/blogs/appstore/)|
@@ -100,27 +110,25 @@ Company Blogs
 |Mercado Libre Tech - Medium|[Link](https://medium.com/mercadolibre-tech?source=rss----5011f85401f0---4)|
 |Stories by IceRock Development on Medium|[Link](https://medium.com/@icerock?source=rss-2f461fccc401------2)|
 |Microsoft Developer Blogs|[Link](https://devblogs.microsoft.com/)|
-|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
-|Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
-|Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
-|Engineering blog \| The Guardian|[Link](https://www.theguardian.com/info/series/engineering-blog)|
-|Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
 |xorum.io - Medium|[Link](https://medium.com/xorum-io?source=rss----92bb7980cc9f---4)|
-|Discord Blog|[Link](https://discordpages.webflow.io/)|
-|Blog – Bloco|[Link](http://www.bloco.io/blog/)|
 |JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
-|Discord Blog - Medium|[Link](https://blog.discord.com/?source=rss----cb96a1f03649---4)|
+|Blog – Bloco|[Link](http://www.bloco.io/blog/)|
+|Discord Blog|[Link](https://discordpages.webflow.io/)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
+|Engineering blog \| The Guardian|[Link](https://www.theguardian.com/info/series/engineering-blog)|
+|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
+|Slack Engineering|[Link](https://slack.engineering/)|
+|Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
 |Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
-|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
+|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
-|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
-|JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
 |The Gradle Blog|[Link](https://blog.gradle.org/)|
 |The Firebase Blog|[Link](http://firebase.googleblog.com/)|
@@ -128,35 +136,44 @@ Company Blogs
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
-|Facebook Engineering|[Link](https://engineering.fb.com/)|
+|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
+|Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
+|Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
+|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
+|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
 |LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
 |The GitHub Blog|[Link](https://github.blog/)|
 |Bugsnag Blog|[Link](https://www.bugsnag.com/)|
 |Uber Engineering Blog|[Link](http://eng.uber.com/)|
 |SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
 |Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
-|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
 |Touchlab|[Link](https://dev.to/touchlab)|
 |Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
-|Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
+|Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|
 |«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
 |Cash App Code Blog|[Link](https://code.cash.app/)|
-|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
-|Slack Engineering|[Link](https://slack.engineering/)|
 |Groupon Engineering — Medium|[Link](https://medium.com/groupon-eng?source=rss----5c13a88f9872---4)|
-|Engineering – The GitHub Blog|[Link](https://github.blog/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
+|Engineering – The GitHub Blog|[Link](https://github.blog/)|
 |eBay Tech Blog|[Link](https://tech.ebayinc.com/rss/)|
 |Docker|[Link](https://www.docker.com/)|
 |Cloudera Developer Blog|[Link](https://blog.cloudera.com/)|
+|Section Engineering Education|[Link](https://www.section.io/engineering-education/)|
 
 
 Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|John O’Reilly|[Link](https://johnoreilly.dev/)|
+|Saket Narayan|[Link](https://saket.me/)|
+|@okmanideep|[Link](https://okmanideep.github.io/)|
+|DEV Community: Tony Robalik|[Link](https://dev.to/autonomousapps)|
+|Stories by Stacy Devino on Medium|[Link](https://medium.com/@DoesitPew?source=rss-2ffcf6104135------2)|
+|le0nidas|[Link](https://le0nidas.gr/)|
+|John Codeos|[Link](https://johncodeos.com/)|
 |Code Ahoy - Articles|[Link](https://codeahoy.com/)|
 |Annyce Davis|[Link](https://adavis.info/)|
 |Stories by Gabriel Peal on Medium|[Link](https://medium.com/@gpeal?source=rss-bfa26a83c4b6------2)|
@@ -222,7 +239,6 @@ Personal Blogs
 |Stories by Danny Preussler on Medium|[Link](https://medium.com/@dpreussler?source=rss-1331e67af4e1------2)|
 |Magda Miu|[Link](https://magdamiu.com/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
-|John O'Reilly|[Link](https://johnoreilly.dev/)|
 |Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|

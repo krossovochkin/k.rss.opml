@@ -7,7 +7,6 @@
     <outline text="Android" title="Android">
       <outline text="Esper Blog" title="Esper Blog" type="rss" xmlUrl="https://blog.esper.io/feed/" htmlUrl="https://blog.esper.io/"/>
       <outline text="mobile.dev - Medium" title="mobile.dev - Medium" type="rss" xmlUrl="https://blog.mobile.dev/feed" htmlUrl="https://blog.mobile.dev/?source=rss----d95a079d5277---4"/>
-      <outline text="Google Android Blog" title="Google Android Blog" type="rss" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products/android/"/>
       <outline text="Kodein Koders - Medium" title="Kodein Koders - Medium" type="rss" xmlUrl="https://medium.com/feed/kodein-koders" htmlUrl="https://medium.com/kodein-koders?source=rss----f311f45ef54---4"/>
       <outline text="Styling Android" title="Styling Android" type="rss" xmlUrl="http://feeds.feedburner.com/StylingAndroid" htmlUrl="http://blog.stylingandroid.com/"/>
       <outline text="Android &amp; Tech News — Medium" title="Android &amp; Tech News — Medium" type="rss" xmlUrl="https://medium.com/feed/android-news" htmlUrl="https://medium.com/android-news?source=rss----8fca399d4de---4"/>
@@ -15,6 +14,7 @@
       <outline text="Mobile App Development Publication - Medium" title="Mobile App Development Publication - Medium" type="rss" xmlUrl="https://medium.com/feed/mobile-app-development-publication" htmlUrl="https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4"/>
       <outline text="AndroidX Release Notes" title="AndroidX Release Notes" type="rss" xmlUrl="http://feeds.feedburner.com/android/lUne?format=xml" htmlUrl="http://feeds.feedburner.com/android/lUne?format=xml"/>
       <outline text="Google Developer Experts - Medium" title="Google Developer Experts - Medium" type="rss" xmlUrl="https://medium.com/feed/google-developer-experts" htmlUrl="https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4"/>
+      <outline text="Google Android Blog" title="Google Android Blog" type="rss" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products/android/"/>
       <outline text="Ray Wenderlich" title="Ray Wenderlich" type="rss" xmlUrl="https://www.raywenderlich.com/feed" htmlUrl="https://www.raywenderlich.com/"/>
       <outline text="Android Studio Release Updates" title="Android Studio Release Updates" type="rss" xmlUrl="https://androidstudio.googleblog.com/feeds/posts/default" htmlUrl="http://androidstudio.googleblog.com/"/>
       <outline text="Android@Microsoft - Medium" title="Android@Microsoft - Medium" type="rss" xmlUrl="https://medium.com/feed/android-microsoft" htmlUrl="https://medium.com/android-microsoft?source=rss----87f10537e947---4"/>
@@ -22,8 +22,9 @@
       <outline text="ProAndroidDev - Medium" title="ProAndroidDev - Medium" type="rss" xmlUrl="https://proandroiddev.com/feed" htmlUrl="https://proandroiddev.com/?source=rss----c72404660798---4"/>
       <outline text="Android Developers - Medium" title="Android Developers - Medium" type="rss" xmlUrl="https://medium.com/feed/androiddevelopers" htmlUrl="https://medium.com/androiddevelopers?source=rss----95b274b437c2---4"/>
       <outline text="Grokking Android" title="Grokking Android" type="rss" xmlUrl="https://www.grokkingandroid.com/feed/" htmlUrl="https://www.grokkingandroid.com/"/>
-      <outline text="Android Developers Blog" title="Android Developers Blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.blogspot.com/"/>
+      <outline text="Android Blog - Mobile Dev Notes" title="Android Blog - Mobile Dev Notes" type="rss" xmlUrl="https://www.valueof.io/blog?format=rss" htmlUrl="https://www.valueof.io/"/>
       <outline text="TechYourChance" title="TechYourChance" type="rss" xmlUrl="https://www.techyourchance.com/feed/" htmlUrl="https://www.techyourchance.com/"/>
+      <outline text="Android Developers Blog" title="Android Developers Blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.blogspot.com/"/>
       <outline text="Android UI Patterns - Medium" title="Android UI Patterns - Medium" type="rss" xmlUrl="https://medium.com/feed/android-ui-patterns" htmlUrl="https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4"/>
     </outline>
     <outline text="Kotlin" title="Kotlin">
@@ -37,9 +38,12 @@
       <outline text="JetBrains Kotlin Blog" title="JetBrains Kotlin Blog" type="rss" xmlUrl="https://blog.jetbrains.com/kotlin/feed/" htmlUrl="http://blog.jetbrains.com/kotlin"/>
     </outline>
     <outline text="Java" title="Java">
+      <outline text="A Java geek" title="A Java geek" type="rss" xmlUrl="https://blog.frankel.ch/feed.xml" htmlUrl="https://nfrankel.gitlab.io/"/>
+      <outline text="Treehouse Blog" title="Treehouse Blog" type="rss" xmlUrl="https://blog.teamtreehouse.com/feed" htmlUrl="https://blog.teamtreehouse.com/"/>
       <outline text="Java Advent Calendar" title="Java Advent Calendar" type="rss" xmlUrl="http://feeds.feedburner.com/JavaAdventCalendar" htmlUrl="http://www.javaadvent.com/"/>
       <outline text="Javarevisited - Medium" title="Javarevisited - Medium" type="rss" xmlUrl="https://medium.com/feed/javarevisited" htmlUrl="https://medium.com/javarevisited?source=rss----d3a191ac6ed---4"/>
       <outline text="High Scalability" title="High Scalability" type="rss" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/blog/"/>
+      <outline text="Brave New Geek" title="Brave New Geek" type="rss" xmlUrl="https://bravenewgeek.com/feed/" htmlUrl="https://bravenewgeek.com/"/>
       <outline text="Javarevisited" title="Javarevisited" type="rss" xmlUrl="http://javarevisited.blogspot.com/feeds/posts/default" htmlUrl="http://javarevisited.blogspot.com/"/>
     </outline>
     <outline text="Flutter" title="Flutter">
@@ -50,6 +54,13 @@
       <outline text="Material.io - Material Design" title="Material.io - Material Design" type="rss" xmlUrl="https://material.io/feed.xml" htmlUrl="https://material.io/"/>
     </outline>
     <outline text="Company Blogs" title="Company Blogs">
+      <outline text="YAZIO Engineering - Medium" title="YAZIO Engineering - Medium" type="rss" xmlUrl="https://medium.com/feed/yazio-engineering" htmlUrl="https://medium.com/yazio-engineering?source=rss----65bd178b00af---4"/>
+      <outline text="DaCast" title="DaCast" type="rss" xmlUrl="https://www.dacast.com/feed/" htmlUrl="https://www.dacast.com/"/>
+      <outline text="Giant Robots Smashing Into Other Giant Robots" title="Giant Robots Smashing Into Other Giant Robots" type="rss" xmlUrl="https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots" htmlUrl="https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots"/>
+      <outline text="code.flickr.com" title="code.flickr.com" type="rss" xmlUrl="https://code.flickr.net/feed/" htmlUrl="http://code.flickr.net/"/>
+      <outline text="Canopas - Medium" title="Canopas - Medium" type="rss" xmlUrl="https://blog.canopas.com/feed" htmlUrl="https://blog.canopas.com/?source=rss----87b7877ee31e---4"/>
+      <outline text="iOS &amp; Android Mobile App Development Company – Droids On Roids –  Poland" title="iOS &amp; Android Mobile App Development Company – Droids On Roids –  Poland" type="rss" xmlUrl="http://www.thedroidsonroids.com/feed/" htmlUrl="https://www.thedroidsonroids.com/"/>
+      <outline text="Sentry Blog" title="Sentry Blog" type="rss" xmlUrl="https://blog.sentry.io/feed.xml" htmlUrl="https://blog.sentry.io/"/>
       <outline text="Salesforce Developers Blogs" title="Salesforce Developers Blogs" type="rss" xmlUrl="https://developer.salesforce.com/blogs/feed" htmlUrl="https://developer.salesforce.com/blogs"/>
       <outline text="Zoom Developer Blog - Medium" title="Zoom Developer Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/zoom-developer-blog" htmlUrl="https://medium.com/zoom-developer-blog?source=rss----4a85731adaff---4"/>
       <outline text="Yelp Engineering and Product Blog" title="Yelp Engineering and Product Blog" type="rss" xmlUrl="https://engineeringblog.yelp.com/feed.xml" htmlUrl="https://engineeringblog.yelp.com/"/>
@@ -62,7 +73,6 @@
       <outline text="Nextdoor Engineering — Medium" title="Nextdoor Engineering — Medium" type="rss" xmlUrl="https://engblog.nextdoor.com/feed" htmlUrl="https://engblog.nextdoor.com/"/>
       <outline text="Blog – Mixpanel" title="Blog – Mixpanel" type="rss" xmlUrl="https://mixpanel.com/blog/feed/" htmlUrl="https://mxpnlcms.wpengine.com/"/>
       <outline text="tech-at-instacart - Medium" title="tech-at-instacart - Medium" type="rss" xmlUrl="https://tech.instacart.com/feed" htmlUrl="https://tech.instacart.com/?source=rss----587883b5d2ee---4"/>
-      <outline text="The BitTorrent Engineering Blog | Notes from the front lines of BitTorrent innovation" title="The BitTorrent Engineering Blog | Notes from the front lines of BitTorrent innovation" type="rss" xmlUrl="http://engineering.bittorrent.com/feed/" htmlUrl="http://engineering.bittorrent.com/"/>
       <outline text="Atlassian Developer Blog" title="Atlassian Developer Blog" type="rss" xmlUrl="https://blog.developer.atlassian.com/feed/" htmlUrl="https://blog.developer.atlassian.com/"/>
       <outline text="The Asana Blog" title="The Asana Blog" type="rss" xmlUrl="https://blog.asana.com/feed/" htmlUrl="https://blog.asana.com/"/>
       <outline text="Appstore Blogs" title="Appstore Blogs" type="rss" xmlUrl="https://developer.amazon.com/blogs/appstore/feed/entries/atom" htmlUrl="https://developer.amazon.com/blogs/appstore/"/>
@@ -75,27 +85,25 @@
       <outline text="Mercado Libre Tech - Medium" title="Mercado Libre Tech - Medium" type="rss" xmlUrl="https://medium.com/feed/mercadolibre-tech" htmlUrl="https://medium.com/mercadolibre-tech?source=rss----5011f85401f0---4"/>
       <outline text="Stories by IceRock Development on Medium" title="Stories by IceRock Development on Medium" type="rss" xmlUrl="https://medium.com/feed/@icerock" htmlUrl="https://medium.com/@icerock?source=rss-2f461fccc401------2"/>
       <outline text="Microsoft Developer Blogs" title="Microsoft Developer Blogs" type="rss" xmlUrl="https://devblogs.microsoft.com/feed" htmlUrl="https://devblogs.microsoft.com/"/>
-      <outline text="Mobile – DoorDash Engineering Blog" title="Mobile – DoorDash Engineering Blog" type="rss" xmlUrl="https://doordash.engineering/category/mobile/feed/" htmlUrl="https://doordash.engineering"/>
-      <outline text="Shopify - Web Design and Development Blog - Shopify Partner Blog" title="Shopify - Web Design and Development Blog - Shopify Partner Blog" type="rss" xmlUrl="https://www.shopify.com/partners/blog.atom" htmlUrl="https://www.shopify.com/partners/blog"/>
-      <outline text="Pinterest Engineering Blog - Medium" title="Pinterest Engineering Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/pinterest-engineering" htmlUrl="https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4"/>
-      <outline text="Square Corner Blog - Medium" title="Square Corner Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/square-corner-blog" htmlUrl="https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4"/>
-      <outline text="Netflix TechBlog - Medium" title="Netflix TechBlog - Medium" type="rss" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/?source=rss----2615bd06b42e---4"/>
-      <outline text="Engineering blog | The Guardian" title="Engineering blog | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/info/series/engineering-blog/rss" htmlUrl="https://www.theguardian.com/info/series/engineering-blog"/>
-      <outline text="Engineering at Premise - Medium" title="Engineering at Premise - Medium" type="rss" xmlUrl="https://engineering.premise.com/feed" htmlUrl="https://engineering.premise.com/?source=rss----c5fada0a103d---4"/>
       <outline text="xorum.io - Medium" title="xorum.io - Medium" type="rss" xmlUrl="https://medium.com/feed/xorum-io" htmlUrl="https://medium.com/xorum-io?source=rss----92bb7980cc9f---4"/>
-      <outline text="Discord Blog" title="Discord Blog" type="rss" xmlUrl="https://discord.com/blog/rss.xml" htmlUrl="https://discordpages.webflow.io/"/>
-      <outline text="Blog – Bloco" title="Blog – Bloco" type="rss" xmlUrl="https://www.bloco.io/blog?format=rss" htmlUrl="http://www.bloco.io/blog/"/>
       <outline text="JetBrains RU" title="JetBrains RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/JetBrains/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/JetBrains/blog/"/>
-      <outline text="Discord Blog - Medium" title="Discord Blog - Medium" type="rss" xmlUrl="https://blog.discord.com/feed" htmlUrl="https://blog.discord.com/?source=rss----cb96a1f03649---4"/>
+      <outline text="Blog – Bloco" title="Blog – Bloco" type="rss" xmlUrl="https://www.bloco.io/blog?format=rss" htmlUrl="http://www.bloco.io/blog/"/>
+      <outline text="Discord Blog" title="Discord Blog" type="rss" xmlUrl="https://discord.com/blog/rss.xml" htmlUrl="https://discordpages.webflow.io/"/>
+      <outline text="Square Corner Blog - Medium" title="Square Corner Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/square-corner-blog" htmlUrl="https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4"/>
+      <outline text="Engineering at Premise - Medium" title="Engineering at Premise - Medium" type="rss" xmlUrl="https://engineering.premise.com/feed" htmlUrl="https://engineering.premise.com/?source=rss----c5fada0a103d---4"/>
+      <outline text="Engineering blog | The Guardian" title="Engineering blog | The Guardian" type="rss" xmlUrl="https://www.theguardian.com/info/series/engineering-blog/rss" htmlUrl="https://www.theguardian.com/info/series/engineering-blog"/>
+      <outline text="Redmadrobot EN" title="Redmadrobot EN" type="rss" xmlUrl="https://habr.com/en/rss/company/redmadrobot/blog/?fl=en" htmlUrl="https://habr.com/en/company/redmadrobot/blog/"/>
+      <outline text="The Netflix Tech Blog" title="The Netflix Tech Blog" type="rss" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="http://techblog.netflix.com/"/>
+      <outline text="Slack Engineering" title="Slack Engineering" type="rss" xmlUrl="https://slack.engineering/feed/" htmlUrl="https://slack.engineering/"/>
+      <outline text="Lyft Engineering — Medium" title="Lyft Engineering — Medium" type="rss" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/?source=rss----25cd379abb8---4"/>
       <outline text="Badoo EN" title="Badoo EN" type="rss" xmlUrl="https://habr.com/en/rss/company/badoo/blog/?fl=en" htmlUrl="https://habr.com/en/company/badoo/blog/"/>
       <outline text="Badoo RU" title="Badoo RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/badoo/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/badoo/blog/"/>
-      <outline text="Instagram Engineering - Medium" title="Instagram Engineering - Medium" type="rss" xmlUrl="https://instagram-engineering.com/feed" htmlUrl="https://instagram-engineering.com/?source=rss----37dc2a3034f2---4"/>
+      <outline text="JetBrains Company Blog" title="JetBrains Company Blog" type="rss" xmlUrl="https://blog.jetbrains.com/feed" htmlUrl="https://blog.jetbrains.com/"/>
       <outline text="Airbnb Engineering &amp; Data Science — Medium" title="Airbnb Engineering &amp; Data Science — Medium" type="rss" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"/>
       <outline text="Snapp Mobile - Medium" title="Snapp Mobile - Medium" type="rss" xmlUrl="https://medium.com/feed/snapp-mobile" htmlUrl="https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4"/>
       <outline text="HeadHunter RU" title="HeadHunter RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/hh/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/hh/blog/"/>
-      <outline text="Redmadrobot EN" title="Redmadrobot EN" type="rss" xmlUrl="https://habr.com/en/rss/company/redmadrobot/blog/?fl=en" htmlUrl="https://habr.com/en/company/redmadrobot/blog/"/>
+      <outline text="Shopify - Web Design and Development Blog - Shopify Partner Blog" title="Shopify - Web Design and Development Blog - Shopify Partner Blog" type="rss" xmlUrl="https://www.shopify.com/partners/blog.atom" htmlUrl="https://www.shopify.com/partners/blog"/>
       <outline text="Google Testing Blog" title="Google Testing Blog" type="rss" xmlUrl="https://testing.googleblog.com/feeds/posts/default" htmlUrl="http://testing.googleblog.com/"/>
-      <outline text="JetBrains Company Blog" title="JetBrains Company Blog" type="rss" xmlUrl="https://blog.jetbrains.com/feed" htmlUrl="https://blog.jetbrains.com/"/>
       <outline text="QuickBird Studios Blog" title="QuickBird Studios Blog" type="rss" xmlUrl="https://quickbirdstudios.com/blog/feed/" htmlUrl="https://quickbirdstudios.com/blog"/>
       <outline text="The Gradle Blog" title="The Gradle Blog" type="rss" xmlUrl="https://feed.gradle.org/blog.atom" htmlUrl="https://blog.gradle.org/"/>
       <outline text="The Firebase Blog" title="The Firebase Blog" type="rss" xmlUrl="http://firebase.googleblog.com/feeds/posts/default" htmlUrl="http://firebase.googleblog.com/"/>
@@ -103,31 +111,40 @@
       <outline text="Dropbox Tech Blog" title="Dropbox Tech Blog" type="rss" xmlUrl="https://blogs.dropbox.com/tech/feed/" htmlUrl="https://dropboxtechblog.wordpress.com/"/>
       <outline text="Redmadrobot RU" title="Redmadrobot RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/redmadrobot/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/redmadrobot/blog/"/>
       <outline text="Square Corner Blog" title="Square Corner Blog" type="rss" xmlUrl="https://developer.squareup.com/blog/rss.xml" htmlUrl="https://developer.squareup.com/blog"/>
-      <outline text="Facebook Engineering" title="Facebook Engineering" type="rss" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/"/>
+      <outline text="OkCredit - Medium" title="OkCredit - Medium" type="rss" xmlUrl="https://medium.com/feed/okcredit" htmlUrl="https://medium.com/okcredit?source=rss----40ea5327aac7---4"/>
+      <outline text="Netflix TechBlog - Medium" title="Netflix TechBlog - Medium" type="rss" xmlUrl="https://netflixtechblog.com/feed" htmlUrl="https://netflixtechblog.com/?source=rss----2615bd06b42e---4"/>
+      <outline text="Pinterest Engineering Blog - Medium" title="Pinterest Engineering Blog - Medium" type="rss" xmlUrl="https://medium.com/feed/pinterest-engineering" htmlUrl="https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4"/>
+      <outline text="Mobile – DoorDash Engineering Blog" title="Mobile – DoorDash Engineering Blog" type="rss" xmlUrl="https://doordash.engineering/category/mobile/feed/" htmlUrl="https://doordash.engineering"/>
+      <outline text="Instagram Engineering - Medium" title="Instagram Engineering - Medium" type="rss" xmlUrl="https://instagram-engineering.com/feed" htmlUrl="https://instagram-engineering.com/?source=rss----37dc2a3034f2---4"/>
       <outline text="LinkedIn Engineering" title="LinkedIn Engineering" type="rss" xmlUrl="https://engineering.linkedin.com/blog.rss.html" htmlUrl="https://engineering.linkedin.com/blog.rss.html"/>
       <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
       <outline text="Bugsnag Blog" title="Bugsnag Blog" type="rss" xmlUrl="https://www.bugsnag.com/blog/rss.xml" htmlUrl="https://www.bugsnag.com/"/>
       <outline text="Uber Engineering Blog" title="Uber Engineering Blog" type="rss" xmlUrl="https://eng.uber.com/feed/" htmlUrl="http://eng.uber.com/"/>
       <outline text="SoundCloud Backstage Blog" title="SoundCloud Backstage Blog" type="rss" xmlUrl="https://developers.soundcloud.com/blog/blog.rss" htmlUrl="https://developers.soundcloud.com/blog"/>
       <outline text="Stories by Skyscanner Engineering on Medium" title="Stories by Skyscanner Engineering on Medium" type="rss" xmlUrl="https://medium.com/feed/@SkyscannerEng" htmlUrl="https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2"/>
-      <outline text="OkCredit - Medium" title="OkCredit - Medium" type="rss" xmlUrl="https://medium.com/feed/okcredit" htmlUrl="https://medium.com/okcredit?source=rss----40ea5327aac7---4"/>
       <outline text="Touchlab" title="Touchlab" type="rss" xmlUrl="https://dev.to/feed/touchlab" htmlUrl="https://dev.to/touchlab"/>
       <outline text="Twitter Blog Feed" title="Twitter Blog Feed" type="rss" xmlUrl="https://blog.twitter.com/engineering/feed" htmlUrl="https://blog.twitter.com/engineering"/>
       <outline text="Booking.com Development - Medium" title="Booking.com Development - Medium" type="rss" xmlUrl="https://medium.com/feed/booking-com-development" htmlUrl="https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4"/>
-      <outline text="Lyft Engineering — Medium" title="Lyft Engineering — Medium" type="rss" xmlUrl="https://eng.lyft.com/feed" htmlUrl="https://eng.lyft.com/?source=rss----25cd379abb8---4"/>
+      <outline text="Facebook Engineering" title="Facebook Engineering" type="rss" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/"/>
       <outline text="Facebook Developers" title="Facebook Developers" type="rss" xmlUrl="https://developers.facebook.com/blog/feed" htmlUrl="https://developers.facebook.com/blog/"/>
       <outline text="«Лаборатория Касперского» RU" title="«Лаборатория Касперского» RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/kaspersky/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/kaspersky/blog/"/>
       <outline text="Cash App Code Blog" title="Cash App Code Blog" type="rss" xmlUrl="https://code.cash.app/feed.xml" htmlUrl="https://code.cash.app/"/>
-      <outline text="The Netflix Tech Blog" title="The Netflix Tech Blog" type="rss" xmlUrl="http://techblog.netflix.com/feeds/posts/default" htmlUrl="http://techblog.netflix.com/"/>
-      <outline text="Slack Engineering" title="Slack Engineering" type="rss" xmlUrl="https://slack.engineering/feed/" htmlUrl="https://slack.engineering/"/>
       <outline text="Groupon Engineering — Medium" title="Groupon Engineering — Medium" type="rss" xmlUrl="https://medium.com/feed/groupon-eng" htmlUrl="https://medium.com/groupon-eng?source=rss----5c13a88f9872---4"/>
-      <outline text="Engineering – The GitHub Blog" title="Engineering – The GitHub Blog" type="rss" xmlUrl="https://github.blog/engineering.atom" htmlUrl="https://github.blog/"/>
       <outline text="Fibery.io" title="Fibery.io" type="rss" xmlUrl="https://blog.fibery.io/rss.xml" htmlUrl="https://blog.fibery.io/"/>
+      <outline text="Engineering – The GitHub Blog" title="Engineering – The GitHub Blog" type="rss" xmlUrl="https://github.blog/engineering.atom" htmlUrl="https://github.blog/"/>
       <outline text="eBay Tech Blog" title="eBay Tech Blog" type="rss" xmlUrl="https://tech.ebayinc.com/rss/" htmlUrl="https://tech.ebayinc.com/rss/"/>
       <outline text="Docker" title="Docker" type="rss" xmlUrl="https://www.docker.com/feed/" htmlUrl="https://www.docker.com/"/>
       <outline text="Cloudera Developer Blog" title="Cloudera Developer Blog" type="rss" xmlUrl="https://blog.cloudera.com/feed/" htmlUrl="https://blog.cloudera.com/"/>
+      <outline text="Section Engineering Education" title="Section Engineering Education" type="rss" xmlUrl="https://www.section.io/engineering-education/index.xml" htmlUrl="https://www.section.io/engineering-education/"/>
     </outline>
     <outline text="Personal Blogs" title="Personal Blogs">
+      <outline text="John O’Reilly" title="John O’Reilly" type="rss" xmlUrl="https://johnoreilly.dev/feed.xml" htmlUrl="https://johnoreilly.dev/"/>
+      <outline text="Saket Narayan" title="Saket Narayan" type="rss" xmlUrl="https://saket.me/feed/" htmlUrl="https://saket.me/"/>
+      <outline text="@okmanideep" title="@okmanideep" type="rss" xmlUrl="https://okmanideep.github.io/feed.xml" htmlUrl="https://okmanideep.github.io/"/>
+      <outline text="DEV Community: Tony Robalik" title="DEV Community: Tony Robalik" type="rss" xmlUrl="https://dev.to/feed/autonomousapps" htmlUrl="https://dev.to/autonomousapps"/>
+      <outline text="Stories by Stacy Devino on Medium" title="Stories by Stacy Devino on Medium" type="rss" xmlUrl="https://medium.com/feed/@DoesitPew" htmlUrl="https://medium.com/@DoesitPew?source=rss-2ffcf6104135------2"/>
+      <outline text="le0nidas" title="le0nidas" type="rss" xmlUrl="https://le0nidas.gr/feed/" htmlUrl="https://le0nidas.gr/"/>
+      <outline text="John Codeos" title="John Codeos" type="rss" xmlUrl="https://johncodeos.com/feed/" htmlUrl="https://johncodeos.com/"/>
       <outline text="Code Ahoy - Articles" title="Code Ahoy - Articles" type="rss" xmlUrl="https://codeahoy.com/feed.xml" htmlUrl="https://codeahoy.com/"/>
       <outline text="Annyce Davis" title="Annyce Davis" type="rss" xmlUrl="https://adavis.info/feed" htmlUrl="https://adavis.info/"/>
       <outline text="Stories by Gabriel Peal on Medium" title="Stories by Gabriel Peal on Medium" type="rss" xmlUrl="https://medium.com/feed/@gpeal" htmlUrl="https://medium.com/@gpeal?source=rss-bfa26a83c4b6------2"/>
@@ -193,7 +210,6 @@
       <outline text="Stories by Danny Preussler on Medium" title="Stories by Danny Preussler on Medium" type="rss" xmlUrl="https://medium.com/feed/@dpreussler" htmlUrl="https://medium.com/@dpreussler?source=rss-1331e67af4e1------2"/>
       <outline text="Magda Miu" title="Magda Miu" type="rss" xmlUrl="https://magdamiu.com/feed/" htmlUrl="https://magdamiu.com/"/>
       <outline text="Posts on Marco Gomiero" title="Posts on Marco Gomiero" type="rss" xmlUrl="https://www.marcogomiero.com/posts/index.xml" htmlUrl="https://www.marcogomiero.com/posts/"/>
-      <outline text="John O'Reilly" title="John O'Reilly" type="rss" xmlUrl="https://johnoreilly.dev/atom.xml" htmlUrl="https://johnoreilly.dev/"/>
       <outline text="Alex Zhuk - Android development and testing" title="Alex Zhuk - Android development and testing" type="rss" xmlUrl="https://alexzh.com/rss/" htmlUrl="https://alexzh.com/"/>
       <outline text="Jeroen Mols" title="Jeroen Mols" type="rss" xmlUrl="https://jeroenmols.com/atom.xml" htmlUrl="https://jeroenmols.com/"/>
       <outline text="Manuel Vivo .dev" title="Manuel Vivo .dev" type="rss" xmlUrl="https://manuelvivo.dev/feed.xml" htmlUrl="https://manuelvicnt.github.io/"/>
