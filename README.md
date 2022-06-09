@@ -167,6 +167,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Vasya Drobushkov|[Link](https://krossovochkin.com/)|
 |John O’Reilly|[Link](https://johnoreilly.dev/)|
 |Saket Narayan|[Link](https://saket.me/)|
 |@okmanideep|[Link](https://okmanideep.github.io/)|
@@ -243,7 +244,6 @@ Personal Blogs
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
 |Chris Banes|[Link](https://chris.banes.dev/)|
-|Vasya Drobushkov Blog|[Link](https://krossovochkin.com/posts/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|

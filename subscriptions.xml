@@ -138,6 +138,7 @@
       <outline text="Section Engineering Education" title="Section Engineering Education" type="rss" xmlUrl="https://www.section.io/engineering-education/index.xml" htmlUrl="https://www.section.io/engineering-education/"/>
     </outline>
     <outline text="Personal Blogs" title="Personal Blogs">
+      <outline text="Vasya Drobushkov" title="Vasya Drobushkov" type="rss" xmlUrl="https://krossovochkin.com/index.xml" htmlUrl="https://krossovochkin.com/"/>
       <outline text="John O’Reilly" title="John O’Reilly" type="rss" xmlUrl="https://johnoreilly.dev/feed.xml" htmlUrl="https://johnoreilly.dev/"/>
       <outline text="Saket Narayan" title="Saket Narayan" type="rss" xmlUrl="https://saket.me/feed/" htmlUrl="https://saket.me/"/>
       <outline text="@okmanideep" title="@okmanideep" type="rss" xmlUrl="https://okmanideep.github.io/feed.xml" htmlUrl="https://okmanideep.github.io/"/>
@@ -214,7 +215,6 @@
       <outline text="Jeroen Mols" title="Jeroen Mols" type="rss" xmlUrl="https://jeroenmols.com/atom.xml" htmlUrl="https://jeroenmols.com/"/>
       <outline text="Manuel Vivo .dev" title="Manuel Vivo .dev" type="rss" xmlUrl="https://manuelvivo.dev/feed.xml" htmlUrl="https://manuelvicnt.github.io/"/>
       <outline text="Chris Banes" title="Chris Banes" type="rss" xmlUrl="https://chris.banes.dev/rss" htmlUrl="https://chris.banes.dev/"/>
-      <outline text="Vasya Drobushkov Blog" title="Vasya Drobushkov Blog" type="rss" xmlUrl="https://krossovochkin.com/posts/index.xml" htmlUrl="https://krossovochkin.com/posts/"/>
       <outline text="Stories by Gabor Varadi on Medium" title="Stories by Gabor Varadi on Medium" type="rss" xmlUrl="https://medium.com/feed/@Zhuinden" htmlUrl="https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2"/>
       <outline text="Bruce Eckel - Computing Thoughts" title="Bruce Eckel - Computing Thoughts" type="rss" xmlUrl="https://www.bruceeckel.com/index.xml" htmlUrl="https://www.bruceeckel.com/"/>
       <outline text="Ali Dehghan - Kemikit" title="Ali Dehghan - Kemikit" type="rss" xmlUrl="https://alidg.me/feed.xml" htmlUrl="https://alidg.me/"/>
