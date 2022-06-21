@@ -79,6 +79,7 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
+|Яндекс - Как мы делаем Яндекс / Статьи|[Link](https://habr.com/ru/company/yandex/blog/)|
 |YAZIO Engineering - Medium|[Link](https://medium.com/yazio-engineering?source=rss----65bd178b00af---4)|
 |DaCast|[Link](https://www.dacast.com/)|
 |Giant Robots Smashing Into Other Giant Robots|[Link](https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots)|
@@ -117,7 +118,8 @@ Company Blogs
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
 |Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
 |Engineering blog \| The Guardian|[Link](https://www.theguardian.com/info/series/engineering-blog)|
-|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
+|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
+|Cash App Code Blog|[Link](https://code.cash.app/)|
 |The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
 |Slack Engineering|[Link](https://slack.engineering/)|
 |Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
@@ -126,8 +128,8 @@ Company Blogs
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
+|Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
 |The Gradle Blog|[Link](https://blog.gradle.org/)|
@@ -136,7 +138,7 @@ Company Blogs
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
-|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
+|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
 |Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
 |Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
@@ -146,21 +148,20 @@ Company Blogs
 |Bugsnag Blog|[Link](https://www.bugsnag.com/)|
 |Uber Engineering Blog|[Link](http://eng.uber.com/)|
 |SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
-|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
+|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
 |Touchlab|[Link](https://dev.to/touchlab)|
 |Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|
 |«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
-|Cash App Code Blog|[Link](https://code.cash.app/)|
 |Groupon Engineering — Medium|[Link](https://medium.com/groupon-eng?source=rss----5c13a88f9872---4)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
 |Engineering – The GitHub Blog|[Link](https://github.blog/)|
 |eBay Tech Blog|[Link](https://tech.ebayinc.com/rss/)|
 |Docker|[Link](https://www.docker.com/)|
-|Cloudera Developer Blog|[Link](https://blog.cloudera.com/)|
 |Section Engineering Education|[Link](https://www.section.io/engineering-education/)|
+|Cloudera Developer Blog|[Link](https://blog.cloudera.com/)|
 
 
 Personal Blogs
