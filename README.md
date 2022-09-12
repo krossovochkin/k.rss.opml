@@ -10,15 +10,16 @@ Android
 ---
 |Title|URL|
 |--|--|
+|Composables – Concise, no-fluff video tutorials for Android developers|[Link](https://www.composables.co/blog)|
 |Esper Blog|[Link](https://blog.esper.io/)|
 |mobile.dev - Medium|[Link](https://blog.mobile.dev/?source=rss----d95a079d5277---4)|
+|Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Kodein Koders - Medium|[Link](https://medium.com/kodein-koders?source=rss----f311f45ef54---4)|
 |Styling Android|[Link](http://blog.stylingandroid.com/)|
 |Android & Tech News — Medium|[Link](https://medium.com/android-news?source=rss----8fca399d4de---4)|
 |jetc.dev \| Issues|[Link](https://jetc.dev/)|
 |Mobile App Development Publication - Medium|[Link](https://medium.com/mobile-app-development-publication?source=rss----f9c208bdbb09---4)|
 |AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
-|Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
 |Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
@@ -28,8 +29,8 @@ Android
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
 |Grokking Android|[Link](https://www.grokkingandroid.com/)|
 |Android Blog - Mobile Dev Notes|[Link](https://www.valueof.io/)|
-|TechYourChance|[Link](https://www.techyourchance.com/)|
 |Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
+|TechYourChance|[Link](https://www.techyourchance.com/)|
 |Android UI Patterns - Medium|[Link](https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4)|
 
 
@@ -79,6 +80,8 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
+|Engineering &#8211; Uber Blog|[Link](https://www.uber.com/)|
+|Guardsquare Blog|[Link](https://www.guardsquare.com/blog)|
 |Stream Blog|[Link](https://getstream.io/blog)|
 |Volvo Cars Engineering - Medium|[Link](https://medium.com/volvo-cars-engineering?source=rss----4eed8113139---4)|
 |Dev Genius - Medium|[Link](https://blog.devgenius.io/?source=rss----4e2c1156667e---4)|
@@ -86,7 +89,6 @@ Company Blogs
 |Apollo Blog|[Link](https://www.apollographql.com/blog)|
 |Homegate Engineering Blog - Medium|[Link](https://medium.com/homegate-engineering?source=rss----2186e5b9bd8f---4)|
 |IceRock Development - Medium|[Link](https://medium.com/icerock?source=rss----b74ae24564e---4)|
-|GuardSquare - The global reference in mobile application protection|[Link](https://www.guardsquare.com/en/blog)|
 |Walmart Global Tech Blog - Medium|[Link](https://medium.com/walmartglobaltech?source=rss----905ea2b3d4d1---4)|
 |Developer Blogs|[Link](https://devblogs.microsoft.com/)|
 |Firebase Developers - Medium|[Link](https://medium.com/firebase-developers?source=rss----8e8b7dc6774d---4)|
@@ -107,7 +109,6 @@ Company Blogs
 |Yelp Engineering and Product Blog|[Link](https://engineeringblog.yelp.com/)|
 |Yahoo Engineering|[Link](http://yahooeng.tumblr.com/)|
 |Thumbtack Engineering - Medium|[Link](https://medium.com/thumbtack-engineering?source=rss----1199c607a13f---4)|
-|Spotify Labs|[Link](https://labs.spotify.com/)|
 |Stripe Blog|[Link](https://stripe.com/blog)|
 |Shopify Engineering - Shopify Engineering|[Link](https://shopify.engineering/)|
 |Technology at PayPal - Medium|[Link](https://medium.com/paypal-tech?source=rss----6423323524ba---4)|
@@ -125,8 +126,7 @@ Company Blogs
 |Festina Sweden|[Link](https://www.festinasweden.se/)|
 |Mercado Libre Tech - Medium|[Link](https://medium.com/mercadolibre-tech?source=rss----5011f85401f0---4)|
 |Stories by IceRock Development on Medium|[Link](https://medium.com/@icerock?source=rss-2f461fccc401------2)|
-|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
+|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Booking.com Development - Medium|[Link](https://medium.com/booking-com-development?source=rss----1c36c35f9c76---4)|
 |Facebook Engineering|[Link](https://engineering.fb.com/)|
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|
@@ -139,8 +139,8 @@ Company Blogs
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
+|Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
 |Touchlab|[Link](https://dev.to/touchlab)|
-|HeadHunter RU|[Link](https://habr.com/ru/company/hh/blog/)|
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
@@ -150,25 +150,25 @@ Company Blogs
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
-|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
-|JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Discord Blog|[Link](https://discordpages.webflow.io/)|
-|xorum.io - Medium|[Link](https://medium.com/xorum-io?source=rss----92bb7980cc9f---4)|
-|Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
+|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
 |Engineering blog \| The Guardian|[Link](https://www.theguardian.com/info/series/engineering-blog)|
 |Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
+|Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
+|xorum.io - Medium|[Link](https://medium.com/xorum-io?source=rss----92bb7980cc9f---4)|
+|Discord Blog|[Link](https://discordpages.webflow.io/)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
-|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
 |Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
 |LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
 |The GitHub Blog|[Link](https://github.blog/)|
 |Bugsnag Blog|[Link](https://www.bugsnag.com/)|
-|Uber Engineering Blog|[Link](http://eng.uber.com/)|
 |SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
 |Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
+|OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
 |Blog – Bloco|[Link](http://www.bloco.io/blog/)|
+|JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
 |Groupon Engineering — Medium|[Link](https://medium.com/groupon-eng?source=rss----5c13a88f9872---4)|
 |Engineering – The GitHub Blog|[Link](https://github.blog/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
@@ -182,6 +182,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Mutt0-ds Notes|[Link](https://mutt0-ds.github.io/)|
 |Effective Android|[Link](https://effectiveandroid.substack.com/)|
 |Andrea Corbellini|[Link](https://andrea.corbellini.name/)|
 |Eugene Petrenko|[Link](http://jonnyzzz.com/)|
@@ -232,7 +233,6 @@ Personal Blogs
 |Chris Banes on Medium|[Link](https://medium.com/@chrisbanes?source=rss-9303277cb6db------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
 |Akarnokd - Advanced RxJava|[Link](http://akarnokd.blogspot.com/)|
-|Artem Zinnatullin - Android Hipster|[Link](http://artemzin.com/blog/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Joe Birch|[Link](https://joebirch.co/)|
 |vas3k.ru|[Link](http://vas3k.ru/rss/)|
