@@ -84,7 +84,6 @@ Company Blogs
 |Guardsquare Blog|[Link](https://www.guardsquare.com/blog)|
 |Stream Blog|[Link](https://getstream.io/blog)|
 |Volvo Cars Engineering - Medium|[Link](https://medium.com/volvo-cars-engineering?source=rss----4eed8113139---4)|
-|Dev Genius - Medium|[Link](https://blog.devgenius.io/?source=rss----4e2c1156667e---4)|
 |ymedialabs-innovation - Medium|[Link](https://medium.com/ymedialabs-innovation?source=rss----8b5620c36355---4)|
 |Apollo Blog|[Link](https://www.apollographql.com/blog)|
 |Homegate Engineering Blog - Medium|[Link](https://medium.com/homegate-engineering?source=rss----2186e5b9bd8f---4)|
@@ -150,16 +149,17 @@ Company Blogs
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
-|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
+|Blog – Bloco|[Link](http://www.bloco.io/blog/)|
+|JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
+|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
+|Discord Blog|[Link](https://discordpages.webflow.io/)|
+|xorum.io - Medium|[Link](https://medium.com/xorum-io?source=rss----92bb7980cc9f---4)|
+|Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
 |Engineering blog \| The Guardian|[Link](https://www.theguardian.com/info/series/engineering-blog)|
 |Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
-|Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
-|xorum.io - Medium|[Link](https://medium.com/xorum-io?source=rss----92bb7980cc9f---4)|
-|Discord Blog|[Link](https://discordpages.webflow.io/)|
-|Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
+|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
 |Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
 |LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
 |The GitHub Blog|[Link](https://github.blog/)|
@@ -167,8 +167,7 @@ Company Blogs
 |SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
 |Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
 |OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
-|Blog – Bloco|[Link](http://www.bloco.io/blog/)|
-|JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Groupon Engineering — Medium|[Link](https://medium.com/groupon-eng?source=rss----5c13a88f9872---4)|
 |Engineering – The GitHub Blog|[Link](https://github.blog/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
