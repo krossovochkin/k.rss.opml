@@ -152,6 +152,7 @@
       <outline text="Section Engineering Education" title="Section Engineering Education" type="rss" xmlUrl="https://www.section.io/engineering-education/index.xml" htmlUrl="https://www.section.io/engineering-education/"/>
     </outline>
     <outline text="Personal Blogs" title="Personal Blogs">
+      <outline text="Posts on Chris Banes" title="Posts on Chris Banes" type="rss" xmlUrl="https://chris.banes.dev/posts/index.xml" htmlUrl="https://chris.banes.dev/posts/"/>
       <outline text="Mutt0-ds Notes" title="Mutt0-ds Notes" type="rss" xmlUrl="https://mutt0-ds.github.io/feed.xml" htmlUrl="https://mutt0-ds.github.io/"/>
       <outline text="Effective Android" title="Effective Android" type="rss" xmlUrl="https://effectiveandroid.substack.com/feed" htmlUrl="https://effectiveandroid.substack.com/"/>
       <outline text="Andrea Corbellini" title="Andrea Corbellini" type="rss" xmlUrl="https://andrea.corbellini.name/feed.atom" htmlUrl="https://andrea.corbellini.name/"/>
@@ -244,7 +245,6 @@
       <outline text="Alex Zhuk - Android development and testing" title="Alex Zhuk - Android development and testing" type="rss" xmlUrl="https://alexzh.com/rss/" htmlUrl="https://alexzh.com/"/>
       <outline text="Jeroen Mols" title="Jeroen Mols" type="rss" xmlUrl="https://jeroenmols.com/atom.xml" htmlUrl="https://jeroenmols.com/"/>
       <outline text="Manuel Vivo .dev" title="Manuel Vivo .dev" type="rss" xmlUrl="https://manuelvivo.dev/feed.xml" htmlUrl="https://manuelvicnt.github.io/"/>
-      <outline text="Chris Banes" title="Chris Banes" type="rss" xmlUrl="https://chris.banes.dev/rss" htmlUrl="https://chris.banes.dev/"/>
       <outline text="Stories by Gabor Varadi on Medium" title="Stories by Gabor Varadi on Medium" type="rss" xmlUrl="https://medium.com/feed/@Zhuinden" htmlUrl="https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2"/>
       <outline text="Bruce Eckel - Computing Thoughts" title="Bruce Eckel - Computing Thoughts" type="rss" xmlUrl="https://www.bruceeckel.com/index.xml" htmlUrl="https://www.bruceeckel.com/"/>
       <outline text="Ali Dehghan - Kemikit" title="Ali Dehghan - Kemikit" type="rss" xmlUrl="https://alidg.me/feed.xml" htmlUrl="https://alidg.me/"/>
@@ -293,7 +293,6 @@
       <outline text="Performance Matters" title="Performance Matters" type="rss" xmlUrl="https://travisdowns.github.io/feed.xml" htmlUrl="https://travisdowns.github.io/"/>
       <outline text="Stories by Lena Dorogenskaya on Medium" title="Stories by Lena Dorogenskaya on Medium" type="rss" xmlUrl="https://medium.com/feed/@lenadorogenskaya" htmlUrl="https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2"/>
       <outline text="Cyril Mottier Blog" title="Cyril Mottier Blog" type="rss" xmlUrl="http://android.cyrilmottier.com/?feed=rss2" htmlUrl="http://cyrilmottier.com/"/>
-      <outline text="Chris Banes Blog" title="Chris Banes Blog" type="rss" xmlUrl="http://chris.banes.me/atom.xml" htmlUrl="http://chris.banes.me/"/>
       <outline text="Craig Kerstiens" title="Craig Kerstiens" type="rss" xmlUrl="https://www.craigkerstiens.com/index.xml" htmlUrl="https://www.craigkerstiens.com/"/>
       <outline text="Stories by Chet Haase on Medium" title="Stories by Chet Haase on Medium" type="rss" xmlUrl="https://medium.com/feed/@chethaase" htmlUrl="https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2"/>
       <outline text="The CommonsBlog" title="The CommonsBlog" type="rss" xmlUrl="http://commonsware.com/blog/feed.atom" htmlUrl="http://commonsware.com/blog/feed.atom"/>

@@ -181,6 +181,7 @@ Personal Blogs
 ---
 |Title|URL|
 |--|--|
+|Posts on Chris Banes|[Link](https://chris.banes.dev/posts/)|
 |Mutt0-ds Notes|[Link](https://mutt0-ds.github.io/)|
 |Effective Android|[Link](https://effectiveandroid.substack.com/)|
 |Andrea Corbellini|[Link](https://andrea.corbellini.name/)|
@@ -273,7 +274,6 @@ Personal Blogs
 |Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |Jeroen Mols|[Link](https://jeroenmols.com/)|
 |Manuel Vivo .dev|[Link](https://manuelvicnt.github.io/)|
-|Chris Banes|[Link](https://chris.banes.dev/)|
 |Stories by Gabor Varadi on Medium|[Link](https://medium.com/@Zhuinden?source=rss-7a8d96da8cb6------2)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
@@ -322,7 +322,6 @@ Personal Blogs
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
-|Chris Banes Blog|[Link](http://chris.banes.me/)|
 |Craig Kerstiens|[Link](https://www.craigkerstiens.com/)|
 |Stories by Chet Haase on Medium|[Link](https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2)|
 |The CommonsBlog|[Link](http://commonsware.com/blog/feed.atom)|
