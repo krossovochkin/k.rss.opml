@@ -80,6 +80,7 @@ Company Blogs
 ---
 |Title|URL|
 |--|--|
+|Blueground Engineering blog|[Link](https://engineering.theblueground.com/)|
 |Engineering &#8211; Uber Blog|[Link](https://www.uber.com/)|
 |Guardsquare Blog|[Link](https://www.guardsquare.com/blog)|
 |Stream Blog|[Link](https://getstream.io/blog)|
@@ -92,7 +93,6 @@ Company Blogs
 |Developer Blogs|[Link](https://devblogs.microsoft.com/)|
 |Firebase Developers - Medium|[Link](https://medium.com/firebase-developers?source=rss----8e8b7dc6774d---4)|
 |The Kotzilla Blog|[Link](https://blog.kotzilla.io/)|
-|Blueground engineering|[Link](https://engineering.theblueground.com/)|
 |Firebase Blog|[Link](https://firebase.blog/)|
 |Microsoft Developer Blogs|[Link](https://devblogs.microsoft.com/)|
 |Яндекс - Как мы делаем Яндекс / Статьи|[Link](https://habr.com/ru/company/yandex/blog/)|
@@ -139,7 +139,7 @@ Company Blogs
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |Airbnb Engineering & Data Science — Medium|[Link](https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4)|
 |Snapp Mobile - Medium|[Link](https://medium.com/snapp-mobile?source=rss----bcd96e620b02---4)|
-|Touchlab|[Link](https://dev.to/touchlab)|
+|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Google Testing Blog|[Link](http://testing.googleblog.com/)|
 |QuickBird Studios Blog|[Link](https://quickbirdstudios.com/blog)|
@@ -149,28 +149,30 @@ Company Blogs
 |Dropbox Tech Blog|[Link](https://dropboxtechblog.wordpress.com/)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Square Corner Blog|[Link](https://developer.squareup.com/blog)|
+|Touchlab|[Link](https://dev.to/touchlab)|
 |Blog – Bloco|[Link](http://www.bloco.io/blog/)|
 |JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
 |Square Corner Blog - Medium|[Link](https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4)|
-|Discord Blog|[Link](https://discordpages.webflow.io/)|
 |xorum.io - Medium|[Link](https://medium.com/xorum-io?source=rss----92bb7980cc9f---4)|
 |Engineering at Premise - Medium|[Link](https://engineering.premise.com/?source=rss----c5fada0a103d---4)|
 |Engineering blog \| The Guardian|[Link](https://www.theguardian.com/info/series/engineering-blog)|
 |Netflix TechBlog - Medium|[Link](https://netflixtechblog.com/?source=rss----2615bd06b42e---4)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
 |Pinterest Engineering Blog - Medium|[Link](https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4)|
-|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
-|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
-|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
 |The GitHub Blog|[Link](https://github.blog/)|
-|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
-|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
-|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
+|Discord Blog|[Link](https://discordpages.webflow.io/)|
 |OkCredit - Medium|[Link](https://medium.com/okcredit?source=rss----40ea5327aac7---4)|
-|Twitter Blog Feed|[Link](https://blog.twitter.com/engineering)|
+|Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
+|SoundCloud Backstage Blog|[Link](https://developers.soundcloud.com/blog)|
+|Bugsnag Blog|[Link](https://www.bugsnag.com/)|
+|Mobile – DoorDash Engineering Blog|[Link](https://doordash.engineering)|
+|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
+|Instagram Engineering - Medium|[Link](https://instagram-engineering.com/?source=rss----37dc2a3034f2---4)|
+|Exyte Blog|[Link](https://exyte.com/blog)|
 |Groupon Engineering — Medium|[Link](https://medium.com/groupon-eng?source=rss----5c13a88f9872---4)|
-|Engineering – The GitHub Blog|[Link](https://github.blog/)|
 |Fibery.io|[Link](https://blog.fibery.io/)|
+|Engineering – The GitHub Blog|[Link](https://github.blog/)|
+|Touchlab \| Enterprise Mobile Innovation & Development|[Link](https://touchlab.co/)|
 |eBay Tech Blog|[Link](https://tech.ebayinc.com/rss/)|
 |Docker|[Link](https://www.docker.com/)|
 |Cloudera Developer Blog|[Link](https://blog.cloudera.com/)|
@@ -321,10 +323,13 @@ Personal Blogs
 |Ian Bird|[Link](https://ianbird.dev/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Stories by Lena Dorogenskaya on Medium|[Link](https://medium.com/@lenadorogenskaya?source=rss-6a4e8c0dfe91------2)|
+|Colin The Shots|[Link](https://colintheshots.com/)|
 |Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
+|Andreas Kling|[Link](https://awesomekling.github.io/)|
 |Craig Kerstiens|[Link](https://www.craigkerstiens.com/)|
 |Stories by Chet Haase on Medium|[Link](https://medium.com/@chethaase?source=rss-cb2c4874d3e9------2)|
 |The CommonsBlog|[Link](http://commonsware.com/blog/feed.atom)|
+|Stories by Denis Rudenko on Medium|[Link](https://medium.com/@skyyo?source=rss-56174fa84bcc------2)|
 |Dan Lew Blog|[Link](http://blog.danlew.net/)|
 |Stories by Michael Dubakov on Medium|[Link](https://medium.com/@mdubakov?source=rss-854c3da48589------2)|
 |Антон Иоков|[Link](http://blog.antoniokov.com/)|
