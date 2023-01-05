@@ -231,7 +231,6 @@ Personal Blogs
 |Annyce Davis|[Link](https://adavis.info/)|
 |Stories by Gabriel Peal on Medium|[Link](https://medium.com/@gpeal?source=rss-bfa26a83c4b6------2)|
 |Jake Lee’s Programming Blog|[Link](https://blog.jakelee.co.uk/)|
-|The Eclectic Engineer|[Link](https://theeclecticengineer.com/)|
 |nomisRev|[Link](http://nomisrev.github.io/)|
 |The Turn Signal|[Link](https://theturnsignalblog.com/)|
 |Arkadiusz Chmura|[Link](https://arkadiuszchmura.com/)|
