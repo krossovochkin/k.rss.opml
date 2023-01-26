@@ -66,7 +66,6 @@ Java
 |A Java geek|[Link](https://nfrankel.gitlab.io/)|
 |Treehouse Blog|[Link](https://blog.teamtreehouse.com/)|
 |Java Advent Calendar|[Link](http://www.javaadvent.com/)|
-|Javarevisited - Medium|[Link](https://medium.com/javarevisited?source=rss----d3a191ac6ed---4)|
 |High Scalability|[Link](http://highscalability.com/blog/)|
 |Brave New Geek|[Link](https://bravenewgeek.com/)|
 |Javarevisited|[Link](http://javarevisited.blogspot.com/)|
@@ -161,7 +160,6 @@ Company Blogs
 |Badoo EN|[Link](https://habr.com/en/company/badoo/blog/)|
 |Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
 |Slack Engineering|[Link](https://slack.engineering/)|
-|The Netflix Tech Blog|[Link](http://techblog.netflix.com/)|
 |Cash App Code Blog|[Link](https://code.cash.app/)|
 |«Лаборатория Касперского» RU|[Link](https://habr.com/ru/company/kaspersky/blog/)|
 |Facebook Developers|[Link](https://developers.facebook.com/blog/)|
