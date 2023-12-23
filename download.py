@@ -1,8 +1,7 @@
-import os
+import sys
 import dropbox
 
-# Replace 'YOUR_ACCESS_TOKEN' with your actual access token
-DROPBOX_TOKEN = os.getenv("DROPBOX_API_KEY")
+DROPBOX_TOKEN = sys.argv[1]
 
 if DROPBOX_TOKEN is None or not DROPBOX_TOKEN.strip():
     raise ValueError("Token is empty or None.")
