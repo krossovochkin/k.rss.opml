@@ -3,6 +3,10 @@ import dropbox
 
 # Replace 'YOUR_ACCESS_TOKEN' with your actual access token
 DROPBOX_TOKEN = os.getenv("DROPBOX_API_KEY")
+
+if DROPBOX_TOKEN is None or not DROPBOX_TOKEN.strip():
+    raise ValueError("Token is empty or None.")
+
 dbx = dropbox.Dropbox(DROPBOX_TOKEN)
 
 # Replace 'YOUR_FOLDER_PATH' with the path to your Dropbox folder
