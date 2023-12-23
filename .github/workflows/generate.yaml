@@ -21,9 +21,7 @@ jobs:
           pip install dropbox
       - name: Download
         run: |
-          python download.py
-        env:
-          DROPBOX_TOKEN: ${{ secrets.DROPBOX_API_KEY }}
+          python download.py ${{ secrets.DROPBOX_API_KEY }}
       - name: Generate README
         run: python deploy.py
       - name: Commit & Push changes
