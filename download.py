@@ -1,14 +1,23 @@
 import sys
 import dropbox
+import requests
 
-def get_access_token_from_refresh_token(refresh_token, app_key, app_secret):
-    auth_flow = dropbox.DropboxOAuth2FlowNoRedirect(app_key, app_secret)
+def refresh_access_token(app_key, app_secret, refresh_token):
+    url = "https://api.dropboxapi.com/oauth2/token"
+    data = {
+        "grant_type": "refresh_token",
+        "refresh_token": refresh_token,
+        "client_id": app_key,
+        "client_secret": app_secret,
+    }
 
-    try:
-        new_access_token = auth_flow.refresh_access_token(refresh_token)
-        return new_access_token.access_token
-    except dropbox.exceptions.AuthError as e:
-        print(f"Error refreshing access token: {e}")
+    response = requests.post(url, data=data)
+
+    if response.status_code == 200:
+        access_token = response.json().get("access_token")
+        return access_token
+    else:
+        print(f"Error refreshing access token: {response.text}")
         return None
 
 # Replace these with your app key, app secret, and refresh token
