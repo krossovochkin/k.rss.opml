@@ -25,7 +25,7 @@ app_key = sys.argv[1]
 app_secret = sys.argv[2]
 refresh_token = sys.argv[3]
 
-access_token = get_access_token_from_refresh_token(refresh_token, app_key, app_secret)
+access_token = refresh_access_token(refresh_token, app_key, app_secret)
 
 if access_token is None or not access_token:
     raise ValueError("Token is empty or None.")
