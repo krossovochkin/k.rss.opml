@@ -1,12 +1,27 @@
 import sys
 import dropbox
 
-DROPBOX_TOKEN = sys.argv[1]
+def get_access_token_from_refresh_token(refresh_token, app_key, app_secret):
+    auth_flow = dropbox.DropboxOAuth2FlowNoRedirect(app_key, app_secret)
 
-if DROPBOX_TOKEN is None or not DROPBOX_TOKEN.strip():
+    try:
+        new_access_token = auth_flow.refresh_access_token(refresh_token)
+        return new_access_token.access_token
+    except dropbox.exceptions.AuthError as e:
+        print(f"Error refreshing access token: {e}")
+        return None
+
+# Replace these with your app key, app secret, and refresh token
+app_key = sys.argv[1]
+app_secret = sys.argv[2]
+refresh_token = sys.argv[3]
+
+access_token = get_access_token_from_refresh_token(refresh_token, app_key, app_secret)
+
+if access_token is None or not access_token:
     raise ValueError("Token is empty or None.")
 
-dbx = dropbox.Dropbox(DROPBOX_TOKEN)
+dbx = dropbox.Dropbox(access_token)
 
 # Replace 'YOUR_FOLDER_PATH' with the path to your Dropbox folder
 folder_path = '/Apps/Inoreader/OPML_Backup'
