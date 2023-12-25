@@ -250,6 +250,7 @@ Personal Blogs
 |Hadi Hariri|[Link](https://hadihariri.com/feed.xml)|
 |Handstand Sam|[Link](https://handstandsam.com/)|
 |Hannes Dorfmann|[Link](https://hannesdorfmann.com/)|
+|hanson.wtf|[Link](https://hanson.wtf/)|
 |Harris Brakmic - Coding|[Link](https://blog.brakmic.com/)|
 |Ian Bird|[Link](https://ianbird.dev/)|
 |Intelligible Babble|[Link](http://intelligiblebabble.com/intelligiblebabble.com)|
