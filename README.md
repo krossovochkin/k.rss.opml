@@ -289,6 +289,7 @@ Personal Blogs
 |Posts on Chris Banes|[Link](https://chris.banes.dev/posts/)|
 |Posts on Harsh Shandilya|[Link](https://msfjarvis.dev/posts/)|
 |Posts on Marco Gomiero|[Link](https://www.marcogomiero.com/posts/)|
+|Posts on Romain Guy|[Link](https://www.romainguy.dev/posts/)|
 |Public Object|[Link](https://publicobject.com/)|
 |Pushing Pixels|[Link](https://www.pushing-pixels.org/)|
 |Py ⚔|[Link](https://dev.to/pyricau)|

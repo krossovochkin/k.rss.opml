@@ -256,6 +256,7 @@
       <outline text="Posts on Chris Banes" title="Posts on Chris Banes" type="rss" xmlUrl="https://chris.banes.dev/posts/index.xml" htmlUrl="https://chris.banes.dev/posts/"/>
       <outline text="Posts on Harsh Shandilya" title="Posts on Harsh Shandilya" type="rss" xmlUrl="https://msfjarvis.dev/posts/index.xml" htmlUrl="https://msfjarvis.dev/posts/"/>
       <outline text="Posts on Marco Gomiero" title="Posts on Marco Gomiero" type="rss" xmlUrl="https://www.marcogomiero.com/posts/index.xml" htmlUrl="https://www.marcogomiero.com/posts/"/>
+      <outline text="Posts on Romain Guy" title="Posts on Romain Guy" type="rss" xmlUrl="https://www.romainguy.dev/posts/index.xml" htmlUrl="https://www.romainguy.dev/posts/"/>
       <outline text="Public Object" title="Public Object" type="rss" xmlUrl="https://publicobject.com/rss/" htmlUrl="https://publicobject.com/"/>
       <outline text="Pushing Pixels" title="Pushing Pixels" type="rss" xmlUrl="https://www.pushing-pixels.org/feed" htmlUrl="https://www.pushing-pixels.org/"/>
       <outline text="Py ⚔" title="Py ⚔" type="rss" xmlUrl="https://dev.to/feed/pyricau" htmlUrl="https://dev.to/pyricau"/>
