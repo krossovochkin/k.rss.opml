@@ -205,7 +205,9 @@
       <outline text="DEV Community: Tony Robalik" title="DEV Community: Tony Robalik" type="rss" xmlUrl="https://dev.to/feed/autonomousapps" htmlUrl="https://dev.to/autonomousapps"/>
       <outline text="Dmitry Samoylenko - Android Developer Blog" title="Dmitry Samoylenko - Android Developer Blog" type="rss" xmlUrl="http://dmitrysamoylenko.com/feed.xml" htmlUrl="http://dmitrysamoylenko.com/"/>
       <outline text="Dmytro Shuba" title="Dmytro Shuba" type="rss" xmlUrl="https://dmytroshuba.com/feed.xml" htmlUrl="https://dmytroshuba.com/"/>
+      <outline text="Donovan LaDuke - Developer" title="Donovan LaDuke - Developer" type="rss" xmlUrl="https://dladukedev.com/feed/feed.xml" htmlUrl="https://dladukedev.com/"/>
       <outline text="Dustin Summers" title="Dustin Summers" type="rss" xmlUrl="https://dustn.dev/index.xml" htmlUrl="https://dustn.dev/"/>
+      <outline text="Eevis Blog" title="Eevis Blog" type="rss" xmlUrl="https://eevis.codes/feed.xml" htmlUrl="https://eevis.codes/blog"/>
       <outline text="Effective Android" title="Effective Android" type="rss" xmlUrl="https://effectiveandroid.substack.com/feed" htmlUrl="https://effectiveandroid.substack.com/"/>
       <outline text="Emily Kager" title="Emily Kager" type="rss" xmlUrl="https://www.emilykager.com/feed.xml" htmlUrl="https://www.emilykager.com/"/>
       <outline text="Enterprise xml best programming agile practices patterns" title="Enterprise xml best programming agile practices patterns" type="rss" xmlUrl="https://dkandalov.github.io/feed.xml" htmlUrl="https://dkandalov.github.io/"/>
@@ -273,6 +275,7 @@
       <outline text="Shreyas Patil's Blog" title="Shreyas Patil's Blog" type="rss" xmlUrl="https://blog.shreyaspatil.dev/rss.xml" htmlUrl="https://blog.shreyaspatil.dev/"/>
       <outline text="Sid Patil - Android Engineer and Kotlin Advocate" title="Sid Patil - Android Engineer and Kotlin Advocate" type="rss" xmlUrl="https://siddroid.com/index.xml" htmlUrl="https://siddroid.com/"/>
       <outline text="Signs of Triviality" title="Signs of Triviality" type="rss" xmlUrl="http://www.netmeister.org/blog/rss.xml" htmlUrl="http://www.netmeister.org/blog/"/>
+      <outline text="sinasamaki" title="sinasamaki" type="rss" xmlUrl="https://www.sinasamaki.com/rss/" htmlUrl="https://www.sinasamaki.com/"/>
       <outline text="Small Thoughts on Software" title="Small Thoughts on Software" type="rss" xmlUrl="http://www.rstockbridge.dev/feed.xml" htmlUrl="http://www.rstockbridge.dev/"/>
       <outline text="Steve Barnegren" title="Steve Barnegren" type="rss" xmlUrl="https://www.steveonstuff.com/feed.xml" htmlUrl="https://www.stevebarnegren.com"/>
       <outline text="Stojan Anastasov's blog" title="Stojan Anastasov's blog" type="rss" xmlUrl="https://lordraydenmk.github.io/feed.xml" htmlUrl="http://lordraydenmk.github.io//"/>

@@ -238,7 +238,9 @@ Personal Blogs
 |DEV Community: Tony Robalik|[Link](https://dev.to/autonomousapps)|
 |Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
 |Dmytro Shuba|[Link](https://dmytroshuba.com/)|
+|Donovan LaDuke - Developer|[Link](https://dladukedev.com/)|
 |Dustin Summers|[Link](https://dustn.dev/)|
+|Eevis Blog|[Link](https://eevis.codes/blog)|
 |Effective Android|[Link](https://effectiveandroid.substack.com/)|
 |Emily Kager|[Link](https://www.emilykager.com/)|
 |Enterprise xml best programming agile practices patterns|[Link](https://dkandalov.github.io/)|
@@ -306,6 +308,7 @@ Personal Blogs
 |Shreyas Patil's Blog|[Link](https://blog.shreyaspatil.dev/)|
 |Sid Patil - Android Engineer and Kotlin Advocate|[Link](https://siddroid.com/)|
 |Signs of Triviality|[Link](http://www.netmeister.org/blog/)|
+|sinasamaki|[Link](https://www.sinasamaki.com/)|
 |Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
 |Steve Barnegren|[Link](https://www.stevebarnegren.com)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
