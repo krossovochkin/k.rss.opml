@@ -279,6 +279,7 @@ Personal Blogs
 |Matt McKenna|[Link](https://blog.mmckenna.me/)|
 |Max Kim|[Link](https://maxkim.eu/)|
 |Mutt0-ds Notes|[Link](https://mutt0-ds.github.io/)|
+|My Big Appetite - Mike Wolfson|[Link](http://www.mikewolfson.com/blog/)|
 |Natalie’s Newsletter|[Link](https://natalieb.substack.com/)|
 |Newsletter feed for Hillel Wayne's Newsletter|[Link](https://buttondown.email/hillelwayne)|
 |nomisRev|[Link](http://nomisrev.github.io/)|
