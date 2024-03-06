@@ -58,6 +58,7 @@
     </outline>
     <outline text="Design" title="Design">
       <outline text="Material.io - Material Design" title="Material.io - Material Design" type="rss" xmlUrl="https://material.io/feed.xml" htmlUrl="https://material.io/"/>
+      <outline text="Uber Design - Medium" title="Uber Design - Medium" type="rss" xmlUrl="https://medium.com/feed/uber-design" htmlUrl="https://medium.com/uber-design?source=rss----15f944655955---4"/>
     </outline>
     <outline text="Company Blogs" title="Company Blogs">
       <outline text="&quot;Кошелёк&quot; RU" title="&quot;Кошелёк&quot; RU" type="rss" xmlUrl="https://habr.com/ru/rss/company/koshelek/blog/?fl=ru" htmlUrl="https://habr.com/ru/company/koshelek/blog/"/>

@@ -83,6 +83,7 @@ Design
 |Title|URL|
 |--|--|
 |Material.io - Material Design|[Link](https://material.io/)|
+|Uber Design - Medium|[Link](https://medium.com/uber-design?source=rss----15f944655955---4)|
 
 
 Company Blogs
