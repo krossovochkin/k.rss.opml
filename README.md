@@ -100,6 +100,7 @@ Company Blogs
 |Badoo RU|[Link](https://habr.com/ru/company/badoo/blog/)|
 |betclic-tech - Medium|[Link](https://medium.com/betclic-tech?source=rss----7e406d68d94b---4)|
 |Bleeding Edge - Medium|[Link](https://medium.com/bleeding-edge?source=rss----d8ebe85cdc0f---4)|
+|Blog - Mapbox|[Link](https://www.mapbox.com/blog)|
 |Blog – Bloco|[Link](http://www.bloco.io/blog/)|
 |Blog – Mixpanel|[Link](https://mxpnlcms.wpengine.com/)|
 |Blueground Engineering blog|[Link](https://engineering.theblueground.com/)|
@@ -215,6 +216,7 @@ Personal Blogs
 |Arkadiusz Chmura|[Link](https://arkadiuszchmura.com/)|
 |art and science of coding|[Link](https://artandscienceofcoding.com/)|
 |Artur Dryomov|[Link](https://arturdryomov.dev/)|
+|astronauts-id - Medium|[Link](https://medium.com/astronauts-id?source=rss----f54da6775e90---4)|
 |Bartosz Ciechanowski|[Link](https://ciechanow.ski/)|
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
 |Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
@@ -267,6 +269,7 @@ Personal Blogs
 |Joel on Software|[Link](https://www.joelonsoftware.com/)|
 |John Codeos|[Link](https://johncodeos.com/)|
 |John O’Reilly|[Link](https://johnoreilly.dev/)|
+|Kaushik Gopal's Site|[Link](https://kau.sh/)|
 |Keith Smiley|[Link](http://smileykeith.com/)|
 |le0nidas|[Link](https://le0nidas.gr/)|
 |Louis CAD doing software|[Link](https://blog.louiscad.com/)|
@@ -286,6 +289,7 @@ Personal Blogs
 |nomisRev|[Link](http://nomisrev.github.io/)|
 |Oleksandr Masliukivskyi|[Link](https://dev.to/oleksandr_masliukivskyi_1)|
 |Patryk Kosieradzki|[Link](https://patrykkosieradzki.com/)|
+|Paul Graham: Essays|[Link](http://www.paulgraham.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
@@ -343,6 +347,7 @@ Personal Blogs
 |Stories by Vladislav Puryev on Medium|[Link](https://medium.com/@unbreakable-titan?source=rss-e32583ce94d4------2)|
 |Stories by Yahor Urbanovich on Medium|[Link](https://medium.com/@egorikftp?source=rss-e93d234beac6------2)|
 |Stories by Yigit Boyar on Medium|[Link](https://medium.com/@yigit?source=rss-9f0ead35e83b------2)|
+|Stories by Yonatan V. Levin on Medium|[Link](https://medium.com/@yonatanvlevin?source=rss-8735065c2497------2)|
 |SystemDotRun|[Link](http://doridori.github.io/)|
 |Tagir Valeev|[Link](https://habr.com/en/)|
 |The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
