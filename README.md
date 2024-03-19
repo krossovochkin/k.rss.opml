@@ -22,13 +22,13 @@ Android
 |Android Blog - Mobile Dev Notes|[Link](https://www.valueof.io/)|
 |Android Dev Social|[Link](https://androiddev.blog/)|
 |Android Developers - Medium|[Link](https://medium.com/androiddevelopers?source=rss----95b274b437c2---4)|
-|Android Developers Blog|[Link](http://android-developers.blogspot.com/)|
+|Android Developers Blog|[Link](https://android-developers.blogspot.com/)|
 |Android Essence|[Link](https://androidessence.com/)|
 |Android Studio Release Updates|[Link](http://androidstudio.googleblog.com/)|
 |Android UI Patterns - Medium|[Link](https://medium.com/android-ui-patterns?source=rss----75dfb6474397---4)|
 |Android Weekly|[Link](https://androidweekly.net/rss.xml)|
 |Android@Microsoft - Medium|[Link](https://medium.com/android-microsoft?source=rss----87f10537e947---4)|
-|AndroidX Release Notes|[Link](http://feeds.feedburner.com/android/lUne?format=xml)|
+|AndroidX Release Notes|[Link](https://feeds.feedburner.com/android/lUne?format=xml)|
 |Composables – Concise, no-fluff video tutorials for Android developers|[Link](https://www.composables.co/blog)|
 |Google Android Blog|[Link](https://blog.google/products/android/)|
 |Google Developer Experts - Medium|[Link](https://medium.com/google-developer-experts?source=rss----a67bd6fa7d58---4)|
@@ -40,7 +40,7 @@ Android
 |mobile.dev - Medium|[Link](https://blog.mobile.dev/?source=rss----d95a079d5277---4)|
 |ProAndroidDev - Medium|[Link](https://proandroiddev.com/?source=rss----c72404660798---4)|
 |Ray Wenderlich|[Link](https://www.raywenderlich.com/)|
-|Styling Android|[Link](http://blog.stylingandroid.com/)|
+|Styling Android|[Link](https://blog.stylingandroid.com/)|
 |TechYourChance|[Link](https://www.techyourchance.com/)|
 
 
@@ -63,10 +63,10 @@ Java
 |--|--|
 |A Java geek|[Link](https://nfrankel.gitlab.io/)|
 |Brave New Geek|[Link](https://bravenewgeek.com/)|
-|High Scalability|[Link](http://highscalability.com/blog/)|
-|Java Advent Calendar|[Link](http://www.javaadvent.com/)|
+|High Scalability|[Link](https://highscalability.com/blog/)|
+|Java Advent Calendar|[Link](https://www.javaadvent.com/)|
 |Java, SQL and jOOQ.|[Link](https://blog.jooq.org/)|
-|Javarevisited|[Link](http://javarevisited.blogspot.com/)|
+|Javarevisited|[Link](https://javarevisited.blogspot.com/)|
 |Treehouse Blog|[Link](https://blog.teamtreehouse.com/)|
 
 
@@ -177,7 +177,7 @@ Company Blogs
 |tech-at-instacart - Medium|[Link](https://tech.instacart.com/?source=rss----587883b5d2ee---4)|
 |Technology at PayPal - Medium|[Link](https://medium.com/paypal-tech?source=rss----6423323524ba---4)|
 |The Asana Blog|[Link](https://blog.asana.com/)|
-|The Firebase Blog|[Link](http://firebase.googleblog.com/)|
+|The Firebase Blog|[Link](https://firebase.googleblog.com/)|
 |The GitHub Blog|[Link](https://github.blog/)|
 |The Gradle Blog|[Link](https://blog.gradle.org/)|
 |Thumbtack Engineering - Medium|[Link](https://medium.com/thumbtack-engineering?source=rss----1199c607a13f---4)|
@@ -202,7 +202,7 @@ Personal Blogs
 |  Bartosz Milewski's Programming Cafe|[Link](http://bartoszmilewski.com/)|
 |@okmanideep|[Link](https://okmanideep.me/)|
 |>рабочие заметки|[Link](https://dev.cheremin.info/)|
-|Akarnokd - Advanced RxJava|[Link](http://akarnokd.blogspot.com/)|
+|Akarnokd - Advanced RxJava|[Link](https://akarnokd.blogspot.com/)|
 |AKJAW|[Link](https://akjaw.com/)|
 |Alex Zhuk - Android development and testing|[Link](https://alexzh.com/)|
 |Ali Dehghan - Kemikit|[Link](https://alidg.me/)|
@@ -219,7 +219,7 @@ Personal Blogs
 |astronauts-id - Medium|[Link](https://medium.com/astronauts-id?source=rss----f54da6775e90---4)|
 |Bartosz Ciechanowski|[Link](https://ciechanow.ski/)|
 |Benjamin Monjoie|[Link](https://dev.to/bmonjoie)|
-|Blog by Michael Dubakov|[Link](http://github.com/dylang/node-rss)|
+|Blog by Michael Dubakov|[Link](https://github.com/dylang/node-rss)|
 |Blogs on Ryan Harter|[Link](https://ryanharter.com/blog/)|
 |Blundell|[Link](https://blog.blundellapps.co.uk/)|
 |Bruce Eckel - Computing Thoughts|[Link](https://www.bruceeckel.com/)|
@@ -228,9 +228,9 @@ Personal Blogs
 |Colin The Shots|[Link](https://colintheshots.com/)|
 |Craig Kerstiens|[Link](https://www.craigkerstiens.com/)|
 |Crushing C.O.D.E|[Link](https://crushingcode.nisrulz.com/)|
-|Cyril Mottier Blog|[Link](http://cyrilmottier.com/)|
+|Cyril Mottier Blog|[Link](https://cyrilmottier.com/)|
 |Damian Mee \| Blog \| Portfolio \| About|[Link](https://meedamian.com/)|
-|Dan Lew Blog|[Link](http://blog.danlew.net/)|
+|Dan Lew Blog|[Link](https://blog.danlew.net/)|
 |daniel.haxx.se|[Link](https://daniel.haxx.se/blog)|
 |Database Architects|[Link](https://databasearchitects.blogspot.com/)|
 |Dave Leeds on Kotlin - typealias.com|[Link](https://typealias.com/)|
@@ -239,7 +239,7 @@ Personal Blogs
 |DEV Community 👩‍💻👨‍💻: Can Yumusak|[Link](https://dev.to/canyudev)|
 |DEV Community 👩‍💻👨‍💻: Russell Wolf|[Link](https://dev.to/russhwolf)|
 |DEV Community: Tony Robalik|[Link](https://dev.to/autonomousapps)|
-|Dmitry Samoylenko - Android Developer Blog|[Link](http://dmitrysamoylenko.com/)|
+|Dmitry Samoylenko - Android Developer Blog|[Link](https://dmitrysamoylenko.com/)|
 |Dmytro Shuba|[Link](https://dmytroshuba.com/)|
 |Donovan LaDuke - Developer|[Link](https://dladukedev.com/)|
 |Dustin Summers|[Link](https://dustn.dev/)|
@@ -289,7 +289,7 @@ Personal Blogs
 |nomisRev|[Link](http://nomisrev.github.io/)|
 |Oleksandr Masliukivskyi|[Link](https://dev.to/oleksandr_masliukivskyi_1)|
 |Patryk Kosieradzki|[Link](https://patrykkosieradzki.com/)|
-|Paul Graham: Essays|[Link](http://www.paulgraham.com/)|
+|Paul Graham: Essays|[Link](https://www.paulgraham.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
@@ -303,19 +303,20 @@ Personal Blogs
 |Py ⚔|[Link](https://dev.to/pyricau)|
 |Py's blog|[Link](https://py.hashnode.dev/)|
 |Rebecca Franks – @riggaroo|[Link](https://riggaroo.dev/)|
-|Richard Jones|[Link](http://www.metabrew.com/)|
+|Richard Jones|[Link](https://www.metabrew.com/)|
 |Richard Startin’s Blog|[Link](https://richardstartin.github.io/)|
 |Rock and Null|[Link](https://www.rockandnull.com/)|
 |Romain Guy on Medium|[Link](https://medium.com/@romainguy?source=rss-c967b7e51f8b------2)|
 |Saagar Jha|[Link](https://saagarjha.com/)|
 |Saket Narayan|[Link](https://saket.me/)|
 |Sanskar's Stuff|[Link](https://blog.sanskar10100.dev/)|
+|Segun Famisa|[Link](https://segunfamisa.com/)|
 |Sergio's little tech corner|[Link](https://sergiosastre.hashnode.dev/)|
 |Shreyas Patil's Blog|[Link](https://blog.shreyaspatil.dev/)|
 |Sid Patil - Android Engineer and Kotlin Advocate|[Link](https://siddroid.com/)|
-|Signs of Triviality|[Link](http://www.netmeister.org/blog/)|
+|Signs of Triviality|[Link](https://www.netmeister.org/blog/)|
 |sinasamaki|[Link](https://www.sinasamaki.com/)|
-|Small Thoughts on Software|[Link](http://www.rstockbridge.dev/)|
+|Small Thoughts on Software|[Link](https://www.rstockbridge.dev/)|
 |Steve Barnegren|[Link](https://www.stevebarnegren.com)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
 |Stories by Alex Styl on Medium|[Link](https://medium.com/@alexstyl?source=rss-4bd1dada568c------2)|
@@ -340,6 +341,7 @@ Personal Blogs
 |Stories by Michael Dubakov on Medium|[Link](https://medium.com/@mdubakov?source=rss-854c3da48589------2)|
 |Stories by Mirkamal Qasımov on Medium|[Link](https://medium.com/@mirkamalqasmov?source=rss-6fe21740d45c------2)|
 |Stories by Nav Singh 🇨🇦 on Medium|[Link](https://medium.com/@navczydev?source=rss-711ab22c5c77------2)|
+|Stories by Nick Rout on Medium|[Link](https://medium.com/@ricknout?source=rss-37290b859aca------2)|
 |Stories by Niek Haarman on Medium|[Link](https://medium.com/@nhaarman?source=rss-fceb7a60a849------2)|
 |Stories by Paul Woitaschek on Medium|[Link](https://medium.com/@woitaschek?source=rss-fbf9b6d94e65------2)|
 |Stories by Roman Elizarov on Medium|[Link](https://medium.com/@elizarov?source=rss-4762e889f8fc------2)|
@@ -350,20 +352,20 @@ Personal Blogs
 |Stories by Yonatan V. Levin on Medium|[Link](https://medium.com/@yonatanvlevin?source=rss-8735065c2497------2)|
 |SystemDotRun|[Link](http://doridori.github.io/)|
 |Tagir Valeev|[Link](https://habr.com/en/)|
-|The Clean Code Blog|[Link](http://blog.cleancoder.com/)|
+|The Clean Code Blog|[Link](https://blog.cleancoder.com/)|
 |The Coffee Workshop|[Link](https://blog.arkey.fr/)|
-|The CommonsBlog|[Link](http://commonsware.com/blog/feed.atom)|
-|The Last Static Blog RSS|[Link](http://blog.pkh.me/)|
+|The CommonsBlog|[Link](https://commonsware.com/blog/feed.atom)|
+|The Last Static Blog RSS|[Link](https://blog.pkh.me/)|
 |The Pragmatic Engineer|[Link](https://blog.pragmaticengineer.com/)|
 |The Turn Signal|[Link](https://theturnsignalblog.com/)|
 |Thomas Künneth|[Link](https://dev.to/tkuenneth)|
 |Thoughts, stories and ideas.|[Link](https://lengrand.fr/)|
 |Tomasz Nurkiewicz around Java and concurrency|[Link](https://www.nurkiewicz.com/)|
 |Tonsky Стой под стрелой|[Link](https://tonsky.livejournal.com/)|
-|tonsky.me|[Link](http://tonsky.me/)|
+|tonsky.me|[Link](https://tonsky.me/)|
 |vadzimv Dev Blog|[Link](https://vadzimv.dev/)|
 |Vandolf Estrellado|[Link](https://dev.to/vestrel00)|
-|vas3k.ru|[Link](http://vas3k.ru/rss/)|
+|vas3k.ru|[Link](https://vas3k.ru/rss/)|
 |Vasya Drobushkov|[Link](https://krossovochkin.com/)|
 |Victor Brandalise|[Link](https://victorbrandalise.com/)|
 |Vladimir Jovanović|[Link](https://vladimirj.dev/)|
@@ -372,7 +374,7 @@ Personal Blogs
 |Zach Klippenstein|[Link](https://dev.to/zachklipp)|
 |Zarah Dominguez|[Link](https://zarah.dev/)|
 |zsmb.co|[Link](https://zsmb.co/)|
-|Антон Иоков|[Link](http://blog.antoniokov.com/)|
+|Антон Иоков|[Link](https://blog.antoniokov.com/)|
 |👨‍💻 Jorge Castillo|[Link](https://jorgecastilloprz.github.io/)|
 
 
