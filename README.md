@@ -143,7 +143,6 @@ Company Blogs
 |JetBrains Company Blog|[Link](https://blog.jetbrains.com/)|
 |JetBrains RU|[Link](https://habr.com/ru/company/JetBrains/blog/)|
 |Koin - Cloud-Inject.io -Kotzilla|[Link](https://blog.cloud-inject.io/)|
-|LinkedIn Engineering|[Link](https://engineering.linkedin.com/blog.rss.html)|
 |Lyft Engineering — Medium|[Link](https://eng.lyft.com/?source=rss----25cd379abb8---4)|
 |Making Meetup - Medium|[Link](https://medium.com/making-meetup?source=rss----6981e268ba45---4)|
 |McDonald’s Technical Blog - Medium|[Link](https://medium.com/mcdonalds-technical-blog?source=rss----3bac42476d27---4)|
@@ -159,7 +158,6 @@ Company Blogs
 |Redmadrobot EN|[Link](https://habr.com/en/company/redmadrobot/blog/)|
 |Redmadrobot RU|[Link](https://habr.com/ru/company/redmadrobot/blog/)|
 |Salesforce Developers Blogs|[Link](https://developer.salesforce.com/blogs)|
-|Section Engineering Education|[Link](https://www.section.io/engineering-education/)|
 |Sentry Blog|[Link](https://blog.sentry.io/)|
 |Shopify - Web Design and Development Blog - Shopify Partner Blog|[Link](https://www.shopify.com/partners/blog)|
 |Shopify Engineering - Shopify Engineering|[Link](https://shopify.engineering/)|
@@ -172,7 +170,6 @@ Company Blogs
 |Stories by Headspace on Medium|[Link](https://medium.com/@headspace?source=rss-3da90e297190------2)|
 |Stories by IceRock Development on Medium|[Link](https://medium.com/@icerock?source=rss-2f461fccc401------2)|
 |Stories by Skyscanner Engineering on Medium|[Link](https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2)|
-|Stream Blog|[Link](https://getstream.io/blog)|
 |Stripe Blog|[Link](https://stripe.com/blog)|
 |tech-at-instacart - Medium|[Link](https://tech.instacart.com/?source=rss----587883b5d2ee---4)|
 |Technology at PayPal - Medium|[Link](https://medium.com/paypal-tech?source=rss----6423323524ba---4)|
@@ -289,7 +286,6 @@ Personal Blogs
 |nomisRev|[Link](http://nomisrev.github.io/)|
 |Oleksandr Masliukivskyi|[Link](https://dev.to/oleksandr_masliukivskyi_1)|
 |Patryk Kosieradzki|[Link](https://patrykkosieradzki.com/)|
-|Paul Graham: Essays|[Link](https://www.paulgraham.com/)|
 |Performance Matters|[Link](https://travisdowns.github.io/)|
 |Posts on Adam Bennett|[Link](https://adambennett.dev/posts/)|
 |Posts on AlecStrong|[Link](https://alecstrong.com/posts/)|
@@ -316,7 +312,6 @@ Personal Blogs
 |Sid Patil - Android Engineer and Kotlin Advocate|[Link](https://siddroid.com/)|
 |Signs of Triviality|[Link](https://www.netmeister.org/blog/)|
 |sinasamaki|[Link](https://www.sinasamaki.com/)|
-|Small Thoughts on Software|[Link](https://www.rstockbridge.dev/)|
 |Steve Barnegren|[Link](https://www.stevebarnegren.com)|
 |Stojan Anastasov's blog|[Link](http://lordraydenmk.github.io//)|
 |Stories by Alex Styl on Medium|[Link](https://medium.com/@alexstyl?source=rss-4bd1dada568c------2)|
