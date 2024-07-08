@@ -367,6 +367,7 @@ Personal Blogs
 |Will Larson - Irrational Exuberance|[Link](https://lethain.com/)|
 |Zac Sweers|[Link](https://www.zacsweers.dev/)|
 |Zach Klippenstein|[Link](https://dev.to/zachklipp)|
+|Zach Klippenstein’s Blog|[Link](https://blog.zachklipp.com/)|
 |Zarah Dominguez|[Link](https://zarah.dev/)|
 |zsmb.co|[Link](https://zsmb.co/)|
 |Антон Иоков|[Link](https://blog.antoniokov.com/)|
